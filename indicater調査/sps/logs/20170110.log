@@ -1,0 +1,97 @@
+0	20:56:20.742	XM MT4 build 1031 started (Trading Point Of Financial Instruments Ltd)
+0	20:56:20.742	Windows 10 Home (x64 based PC), IE 11.00, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13084 / 16327 Mb, HDD: 124022 / 228383 Mb, GMT+09:00
+0	20:56:20.742	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD
+2	20:56:22.101	Custom indicator Max_Sign EURJPY,M1: loaded successfully
+2	20:56:22.101	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+2	20:56:22.101	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+2	20:56:22.101	Custom indicator Max_Pivot EURJPY,M1: loaded successfully
+2	20:56:22.117	Custom indicator MAX_MTFMA_ƒ¿ EURJPY,M1: loaded successfully
+2	20:56:22.117	Custom indicator Max_Line EURJPY,M1: loaded successfully
+2	20:56:22.429	Custom indicator Max_Sign USDJPY,M15: loaded successfully
+2	20:56:22.429	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+2	20:56:22.429	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+2	20:56:22.429	Custom indicator Max_Pivot USDJPY,M15: loaded successfully
+2	20:56:22.445	Custom indicator MAX_MTFMA_ƒ¿ USDJPY,M15: loaded successfully
+2	20:56:22.445	Custom indicator Max_Line USDJPY,M15: loaded successfully
+2	20:56:22.617	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	20:56:22.617	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+2	20:56:22.632	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+2	20:56:22.632	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	20:56:22.632	Custom indicator MAX_MTFMA_ƒ¿ EURUSD,M5: loaded successfully
+2	20:56:22.648	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	20:56:22.695	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	20:56:22.711	Custom indicator Otyame021_Price_Line EURUSD,M5: loaded successfully
+2	20:56:23.257	Custom indicator Max_Sign GBPUSD,M1: loaded successfully
+2	20:56:23.257	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+2	20:56:23.257	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+2	20:56:23.257	Custom indicator Max_Pivot GBPUSD,M1: loaded successfully
+2	20:56:23.273	Custom indicator MAX_MTFMA_ƒ¿ GBPUSD,M1: loaded successfully
+2	20:56:23.273	Custom indicator Max_Line GBPUSD,M1: loaded successfully
+2	20:56:23.601	Custom indicator Max_Sign GBPJPY,M15: loaded successfully
+2	20:56:23.601	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+2	20:56:23.601	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+2	20:56:23.601	Custom indicator Max_Pivot GBPJPY,M15: loaded successfully
+2	20:56:23.617	Custom indicator MAX_MTFMA_ƒ¿ GBPJPY,M15: loaded successfully
+2	20:56:23.617	Custom indicator Max_Line GBPJPY,M15: loaded successfully
+2	20:56:23.773	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	20:56:23.789	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+2	20:56:23.789	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+2	20:56:23.789	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	20:56:23.789	Custom indicator MAX_MTFMA_ƒ¿ AUDUSD,M15: loaded successfully
+2	20:56:23.804	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	20:56:23.976	Custom indicator Max_Sign EURGBP,M15: loaded successfully
+2	20:56:23.976	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+2	20:56:23.976	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+2	20:56:23.976	Custom indicator Max_Pivot EURGBP,M15: loaded successfully
+2	20:56:23.992	Custom indicator Max_Line EURGBP,M15: loaded successfully
+2	20:56:24.039	Custom indicator 23Signal_Price-v1 EURGBP,M15: loaded successfully
+2	20:56:24.054	Custom indicator 00-DispTrade_v102 EURGBP,M15: loaded successfully
+0	20:56:25.273	'1025330': login on XM.COM-Real 7 through REAL07 - DC13 (ping: 238.95 ms)
+0	20:56:27.476	'1025330': login datacenter on XM.COM-Real 7 through REAL07 - DC13 (ping: 238.95 ms)
+2	20:56:27.616	Custom indicator Max_Sign EURJPY,M1: removed
+2	20:56:27.616	Custom indicator Max_ColorMA EURJPY,M1: removed
+2	20:56:27.616	Custom indicator Max_ColorMA EURJPY,M1: removed
+2	20:56:27.616	Custom indicator Max_Pivot EURJPY,M1: removed
+2	20:56:27.617	Custom indicator MAX_MTFMA_ƒ¿ EURJPY,M1: removed
+2	20:56:27.619	Custom indicator Max_Line EURJPY,M1: removed
+2	20:56:27.620	Custom indicator Max_Sign USDJPY,M15: removed
+2	20:56:27.620	Custom indicator Max_ColorMA USDJPY,M15: removed
+2	20:56:27.620	Custom indicator Max_ColorMA USDJPY,M15: removed
+2	20:56:27.621	Custom indicator Max_Pivot USDJPY,M15: removed
+2	20:56:27.622	Custom indicator MAX_MTFMA_ƒ¿ USDJPY,M15: removed
+2	20:56:27.623	Custom indicator Max_Line USDJPY,M15: removed
+2	20:56:27.629	Custom indicator Max_Sign EURUSD,M5: removed
+2	20:56:27.630	Custom indicator Max_ColorMA EURUSD,M5: removed
+2	20:56:27.630	Custom indicator Max_ColorMA EURUSD,M5: removed
+2	20:56:27.630	Custom indicator Max_Pivot EURUSD,M5: removed
+2	20:56:27.632	Custom indicator MAX_MTFMA_ƒ¿ EURUSD,M5: removed
+2	20:56:27.633	Custom indicator Max_Line EURUSD,M5: removed
+2	20:56:27.634	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	20:56:27.635	Custom indicator Otyame021_Price_Line EURUSD,M5: removed
+2	20:56:27.637	Custom indicator Max_Sign GBPUSD,M1: removed
+2	20:56:27.637	Custom indicator Max_ColorMA GBPUSD,M1: removed
+2	20:56:27.637	Custom indicator Max_ColorMA GBPUSD,M1: removed
+2	20:56:27.637	Custom indicator Max_Pivot GBPUSD,M1: removed
+2	20:56:27.639	Custom indicator MAX_MTFMA_ƒ¿ GBPUSD,M1: removed
+2	20:56:27.641	Custom indicator Max_Line GBPUSD,M1: removed
+2	20:56:27.647	Custom indicator Max_Sign GBPJPY,M15: removed
+2	20:56:27.647	Custom indicator Max_ColorMA GBPJPY,M15: removed
+2	20:56:27.647	Custom indicator Max_ColorMA GBPJPY,M15: removed
+2	20:56:27.647	Custom indicator Max_Pivot GBPJPY,M15: removed
+2	20:56:27.649	Custom indicator MAX_MTFMA_ƒ¿ GBPJPY,M15: removed
+2	20:56:27.650	Custom indicator Max_Line GBPJPY,M15: removed
+2	20:56:27.656	Custom indicator Max_Sign AUDUSD,M15: removed
+2	20:56:27.656	Custom indicator Max_ColorMA AUDUSD,M15: removed
+2	20:56:27.656	Custom indicator Max_ColorMA AUDUSD,M15: removed
+2	20:56:27.656	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	20:56:27.658	Custom indicator MAX_MTFMA_ƒ¿ AUDUSD,M15: removed
+2	20:56:27.659	Custom indicator Max_Line AUDUSD,M15: removed
+2	20:56:27.662	Custom indicator Max_Sign EURGBP,M15: removed
+2	20:56:27.662	Custom indicator Max_ColorMA EURGBP,M15: removed
+2	20:56:27.662	Custom indicator Max_ColorMA EURGBP,M15: removed
+2	20:56:27.662	Custom indicator Max_Pivot EURGBP,M15: removed
+2	20:56:27.664	Custom indicator Max_Line EURGBP,M15: removed
+2	20:56:27.664	Custom indicator 23Signal_Price-v1 EURGBP,M15: removed
+2	20:56:27.665	Custom indicator 00-DispTrade_v102 EURGBP,M15: removed
+0	20:56:27.889	'1025330': ping to current access point REAL07 - DC13 is 238.42 ms
+0	20:56:27.992	XM MT4 build 1031 stopped

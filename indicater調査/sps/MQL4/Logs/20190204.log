@@ -1,0 +1,203 @@
+0	23:57:19.552	Custom indicator Max_Sign EURJPY,M1: loaded successfully
+0	23:57:19.554	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+0	23:57:19.556	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+0	23:57:19.557	Custom indicator Max_Pivot EURJPY,M1: loaded successfully
+0	23:57:19.567	Custom indicator MAX_MTFMA_ƒ¿ EURJPY,M1: loaded successfully
+0	23:57:19.576	Custom indicator Max_Line EURJPY,M1: loaded successfully
+0	23:57:19.599	Max_Sign EURJPY,M1: initialized
+0	23:57:19.599	Max_ColorMA EURJPY,M1: initialized
+0	23:57:19.599	Max_ColorMA EURJPY,M1: initialized
+0	23:57:19.599	Max_Pivot EURJPY,M1: initialized
+0	23:57:19.610	MAX_MTFMA_ƒ¿ EURJPY,M1: initialized
+0	23:57:19.620	Max_Line EURJPY,M1: initialized
+0	23:57:19.907	Custom indicator Max_Sign USDJPY,M15: loaded successfully
+0	23:57:19.909	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+0	23:57:19.910	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+0	23:57:19.912	Custom indicator Max_Pivot USDJPY,M15: loaded successfully
+0	23:57:19.924	Custom indicator MAX_MTFMA_ƒ¿ USDJPY,M15: loaded successfully
+0	23:57:19.932	Custom indicator Max_Line USDJPY,M15: loaded successfully
+0	23:57:19.948	Max_Sign USDJPY,M15: initialized
+0	23:57:19.948	Max_ColorMA USDJPY,M15: initialized
+0	23:57:19.948	Max_ColorMA USDJPY,M15: initialized
+0	23:57:19.948	Max_Pivot USDJPY,M15: initialized
+0	23:57:19.958	MAX_MTFMA_ƒ¿ USDJPY,M15: initialized
+0	23:57:19.968	Max_Line USDJPY,M15: initialized
+0	23:57:20.102	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+0	23:57:20.104	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+0	23:57:20.106	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+0	23:57:20.108	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+0	23:57:20.119	Custom indicator MAX_MTFMA_ƒ¿ EURUSD,M5: loaded successfully
+0	23:57:20.127	Custom indicator Max_Line EURUSD,M5: loaded successfully
+0	23:57:20.183	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+3	23:57:20.183	cannot open file 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4\indicators\Otyame021_Price_Line.ex4' [2]
+0	23:57:20.206	Max_Sign EURUSD,M5: initialized
+0	23:57:20.206	Max_ColorMA EURUSD,M5: initialized
+0	23:57:20.206	Max_ColorMA EURUSD,M5: initialized
+0	23:57:20.206	Max_Pivot EURUSD,M5: initialized
+0	23:57:20.218	MAX_MTFMA_ƒ¿ EURUSD,M5: initialized
+0	23:57:20.228	Max_Line EURUSD,M5: initialized
+0	23:57:20.228	23Signal_Price-v1 EURUSD,M5: initialized
+0	23:57:20.517	Custom indicator Max_Sign GBPUSD,M1: loaded successfully
+0	23:57:20.518	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+0	23:57:20.520	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+0	23:57:20.522	Custom indicator Max_Pivot GBPUSD,M1: loaded successfully
+0	23:57:20.532	Custom indicator MAX_MTFMA_ƒ¿ GBPUSD,M1: loaded successfully
+0	23:57:20.540	Custom indicator Max_Line GBPUSD,M1: loaded successfully
+0	23:57:20.562	Max_Sign GBPUSD,M1: initialized
+0	23:57:20.562	Max_ColorMA GBPUSD,M1: initialized
+0	23:57:20.562	Max_ColorMA GBPUSD,M1: initialized
+0	23:57:20.562	Max_Pivot GBPUSD,M1: initialized
+0	23:57:20.572	MAX_MTFMA_ƒ¿ GBPUSD,M1: initialized
+0	23:57:20.582	Max_Line GBPUSD,M1: initialized
+0	23:57:20.931	Custom indicator Max_Sign GBPJPY,M15: loaded successfully
+0	23:57:20.932	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+0	23:57:20.934	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+0	23:57:20.936	Custom indicator Max_Pivot GBPJPY,M15: loaded successfully
+0	23:57:20.946	Custom indicator MAX_MTFMA_ƒ¿ GBPJPY,M15: loaded successfully
+0	23:57:20.954	Custom indicator Max_Line GBPJPY,M15: loaded successfully
+0	23:57:20.972	Max_Sign GBPJPY,M15: initialized
+0	23:57:20.972	Max_ColorMA GBPJPY,M15: initialized
+0	23:57:20.972	Max_ColorMA GBPJPY,M15: initialized
+0	23:57:20.972	Max_Pivot GBPJPY,M15: initialized
+0	23:57:20.982	MAX_MTFMA_ƒ¿ GBPJPY,M15: initialized
+0	23:57:20.992	Max_Line GBPJPY,M15: initialized
+0	23:57:21.126	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+0	23:57:21.128	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+0	23:57:21.130	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+0	23:57:21.131	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+0	23:57:21.144	Custom indicator MAX_MTFMA_ƒ¿ AUDUSD,M15: loaded successfully
+0	23:57:21.152	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+0	23:57:21.168	Max_Sign AUDUSD,M15: initialized
+0	23:57:21.168	Max_ColorMA AUDUSD,M15: initialized
+0	23:57:21.168	Max_ColorMA AUDUSD,M15: initialized
+0	23:57:21.168	Max_Pivot AUDUSD,M15: initialized
+0	23:57:21.181	MAX_MTFMA_ƒ¿ AUDUSD,M15: initialized
+0	23:57:21.191	Max_Line AUDUSD,M15: initialized
+0	23:57:21.330	Custom indicator Max_Sign EURGBP,M15: loaded successfully
+0	23:57:21.332	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+0	23:57:21.334	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+0	23:57:21.336	Custom indicator Max_Pivot EURGBP,M15: loaded successfully
+0	23:57:21.344	Custom indicator Max_Line EURGBP,M15: loaded successfully
+0	23:57:21.397	Custom indicator 23Signal_Price-v1 EURGBP,M15: loaded successfully
+0	23:57:21.406	Custom indicator 00-DispTrade_v102 EURGBP,M15: loaded successfully
+0	23:57:57.970	Compiling 'MACD Sample'
+0	23:57:57.970	Compiling 'Moving Average'
+0	23:58:00.234	Compiling 'Accelerator'
+0	23:58:00.234	Compiling 'Accumulation'
+0	23:58:00.234	Compiling 'Alligator'
+0	23:58:00.234	Compiling 'ATR'
+0	23:58:00.234	Compiling 'Awesome'
+0	23:58:00.234	Compiling 'Bands'
+0	23:58:00.234	Compiling 'Bears'
+0	23:58:00.235	Compiling 'Bulls'
+0	23:58:00.235	Compiling 'CCI'
+0	23:58:00.235	Compiling 'Custom Moving Averages'
+0	23:58:00.235	Compiling 'Heiken Ashi'
+0	23:58:00.235	Compiling 'Ichimoku'
+0	23:58:00.235	Compiling 'iExposure'
+0	23:58:00.236	Compiling 'MACD'
+0	23:58:00.236	Compiling 'Momentum'
+0	23:58:00.236	Compiling 'OsMA'
+0	23:58:00.236	Compiling 'Parabolic'
+0	23:58:00.236	Compiling 'RSI'
+0	23:58:00.237	Compiling 'Stochastic'
+0	23:58:00.237	Compiling 'ZigZag'
+0	23:58:00.238	Compiling 'SimplePanel'
+0	23:58:04.827	Compiling 'PeriodConverter'
+0	23:58:04.827	Compiling 'DLLSampleTester'
+0	23:58:04.828	Compiling 'PipeClient'
+0	23:58:04.828	Compiling 'PipeClientPure'
+0	23:58:07.183	Compiling 'stdlib'
+0	23:58:10.198	Custom indicator Max_Sign EURJPY,M1: loaded successfully
+0	23:58:10.219	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+0	23:58:10.240	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+0	23:58:10.259	Custom indicator Max_Pivot EURJPY,M1: loaded successfully
+0	23:58:10.271	Custom indicator MAX_MTFMA_ƒ¿ EURJPY,M1: loaded successfully
+0	23:58:10.281	Custom indicator Max_Line EURJPY,M1: loaded successfully
+0	23:58:10.287	Max_Sign EURJPY,M1: initialized
+0	23:58:10.287	Max_ColorMA EURJPY,M1: initialized
+0	23:58:10.287	Max_ColorMA EURJPY,M1: initialized
+0	23:58:10.287	Max_Pivot EURJPY,M1: initialized
+0	23:58:10.303	MAX_MTFMA_ƒ¿ EURJPY,M1: initialized
+0	23:58:10.318	Max_Line EURJPY,M1: initialized
+0	23:58:10.621	Custom indicator Max_Sign USDJPY,M15: loaded successfully
+0	23:58:10.642	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+0	23:58:10.663	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+0	23:58:10.682	Custom indicator Max_Pivot USDJPY,M15: loaded successfully
+0	23:58:10.695	Custom indicator MAX_MTFMA_ƒ¿ USDJPY,M15: loaded successfully
+0	23:58:10.705	Custom indicator Max_Line USDJPY,M15: loaded successfully
+0	23:58:10.709	Max_Sign USDJPY,M15: initialized
+0	23:58:10.709	Max_ColorMA USDJPY,M15: initialized
+0	23:58:10.709	Max_ColorMA USDJPY,M15: initialized
+0	23:58:10.709	Max_Pivot USDJPY,M15: initialized
+0	23:58:10.725	MAX_MTFMA_ƒ¿ USDJPY,M15: initialized
+0	23:58:10.740	Max_Line USDJPY,M15: initialized
+0	23:58:10.887	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+0	23:58:10.908	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+0	23:58:10.929	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+0	23:58:10.948	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+0	23:58:10.960	Custom indicator MAX_MTFMA_ƒ¿ EURUSD,M5: loaded successfully
+0	23:58:10.970	Custom indicator Max_Line EURUSD,M5: loaded successfully
+0	23:58:11.060	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+3	23:58:11.061	cannot open file 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4\indicators\Otyame021_Price_Line.ex4' [2]
+0	23:58:11.066	Max_Sign EURUSD,M5: initialized
+0	23:58:11.066	Max_ColorMA EURUSD,M5: initialized
+0	23:58:11.066	Max_ColorMA EURUSD,M5: initialized
+0	23:58:11.066	Max_Pivot EURUSD,M5: initialized
+0	23:58:11.082	MAX_MTFMA_ƒ¿ EURUSD,M5: initialized
+0	23:58:11.097	Max_Line EURUSD,M5: initialized
+0	23:58:11.097	23Signal_Price-v1 EURUSD,M5: initialized
+0	23:58:11.355	Custom indicator Max_Sign GBPUSD,M1: loaded successfully
+0	23:58:11.376	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+0	23:58:11.396	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+0	23:58:11.416	Custom indicator Max_Pivot GBPUSD,M1: loaded successfully
+0	23:58:11.428	Custom indicator MAX_MTFMA_ƒ¿ GBPUSD,M1: loaded successfully
+0	23:58:11.438	Custom indicator Max_Line GBPUSD,M1: loaded successfully
+0	23:58:11.443	Max_Sign GBPUSD,M1: initialized
+0	23:58:11.443	Max_ColorMA GBPUSD,M1: initialized
+0	23:58:11.443	Max_ColorMA GBPUSD,M1: initialized
+0	23:58:11.443	Max_Pivot GBPUSD,M1: initialized
+0	23:58:11.459	MAX_MTFMA_ƒ¿ GBPUSD,M1: initialized
+0	23:58:11.475	Max_Line GBPUSD,M1: initialized
+0	23:58:11.797	Custom indicator Max_Sign GBPJPY,M15: loaded successfully
+0	23:58:11.818	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+0	23:58:11.839	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+0	23:58:11.859	Custom indicator Max_Pivot GBPJPY,M15: loaded successfully
+0	23:58:11.874	Custom indicator MAX_MTFMA_ƒ¿ GBPJPY,M15: loaded successfully
+0	23:58:11.886	Custom indicator Max_Line GBPJPY,M15: loaded successfully
+0	23:58:11.890	Max_Sign GBPJPY,M15: initialized
+0	23:58:11.890	Max_ColorMA GBPJPY,M15: initialized
+0	23:58:11.890	Max_ColorMA GBPJPY,M15: initialized
+0	23:58:11.890	Max_Pivot GBPJPY,M15: initialized
+0	23:58:11.906	MAX_MTFMA_ƒ¿ GBPJPY,M15: initialized
+0	23:58:11.921	Max_Line GBPJPY,M15: initialized
+0	23:58:12.069	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+0	23:58:12.090	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+0	23:58:12.110	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+0	23:58:12.130	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+0	23:58:12.142	Custom indicator MAX_MTFMA_ƒ¿ AUDUSD,M15: loaded successfully
+0	23:58:12.151	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+0	23:58:12.155	Max_Sign AUDUSD,M15: initialized
+0	23:58:12.155	Max_ColorMA AUDUSD,M15: initialized
+0	23:58:12.155	Max_ColorMA AUDUSD,M15: initialized
+0	23:58:12.155	Max_Pivot AUDUSD,M15: initialized
+0	23:58:12.172	MAX_MTFMA_ƒ¿ AUDUSD,M15: initialized
+0	23:58:12.187	Max_Line AUDUSD,M15: initialized
+0	23:58:12.349	Custom indicator Max_Sign EURGBP,M15: loaded successfully
+0	23:58:12.370	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+0	23:58:12.390	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+0	23:58:12.410	Custom indicator Max_Pivot EURGBP,M15: loaded successfully
+0	23:58:12.420	Custom indicator Max_Line EURGBP,M15: loaded successfully
+0	23:58:12.511	Custom indicator 23Signal_Price-v1 EURGBP,M15: loaded successfully
+0	23:58:12.524	Custom indicator 00-DispTrade_v102 EURGBP,M15: loaded successfully
+0	23:58:12.527	Max_Sign EURGBP,M15: initialized
+0	23:58:12.527	Max_ColorMA EURGBP,M15: initialized
+0	23:58:12.527	Max_ColorMA EURGBP,M15: initialized
+0	23:58:12.527	Max_Pivot EURGBP,M15: initialized
+0	23:58:12.544	Max_Line EURGBP,M15: initialized
+0	23:58:12.544	23Signal_Price-v1 EURGBP,M15: initialized
+0	23:58:12.567	00-DispTrade_v102 EURGBP,M15: addData from parameters
+0	23:58:12.567	00-DispTrade_v102 EURGBP,M15: addData from file: trade.txt
+0	23:58:12.567	00-DispTrade_v102 EURGBP,M15: addData: 0 entry= 2015.06.10 13:02 -0.7305, exit= 2015.06.10 13:07 0.7302
+0	23:58:12.567	00-DispTrade_v102 EURGBP,M15: addData: 1 entry= 2015.06.10 17:24 -0.7278, exit= 2015.06.10 17:25 0.7277
+0	23:58:12.568	00-DispTrade_v102 EURGBP,M15: initialized

@@ -1,0 +1,47 @@
+0	07:00:23.984	Custom indicator Otyame001_Ichimoku_Shift EURUSD,M5: loaded successfully
+0	07:00:23.986	Custom indicator chikou_span_attacker EURUSD,M5: loaded successfully
+0	07:00:24.354	Custom indicator Otyame017_Chiko_Span_Attaker EURUSD,M5: loaded successfully
+0	07:00:24.357	Custom indicator Otyame101_Span_model_signal EURUSD,M5: loaded successfully
+0	07:00:24.360	Custom indicator Otyame119_MTF_Chiko_Span_Attaker_Bar EURUSD,M5: loaded successfully
+0	07:00:24.362	Expert Otyame201_AutoT_EA EURUSD,M5: loaded successfully
+0	07:00:24.362	Otyame201_AutoT_EA EURUSD,M5 inputs: Test_flag=true; test_time=1447133700; BUY_SELL=2; sALL_Setting=0：すべての設定に影響する; spread_set=false; MAGIC=1234; EmailON=true; AlertON=false; NO_Change_Pips=3.0; Betwwen_Change_Pips=7.0; Close_flag=false; Server_Time=7; sLostPoss=1:損切り位置設定; sMA_Use=1-1：移動平均線使用; MA_Use=false; MA_Period=5; MA_Method=0; MA_TimeFrame=0; MA_Pips=3.0; MA_MAX_Candle=60; sSwingHL_Use=1-2：直近高値安値使用; SwingHL_Use=true; SwingHL_TimeFrame=0; SwingHL_Candle=3; SwingHL_Pips=3.0; SwingHL_MAX_Candle=60; sSpan_Use=1-3：スパンモデル使用; Span_Use=true; Span_A_Use=true; Span_B_Use=false; Span_TimeFrame=0; Span_InpTenkan=9; Span_InpKijun=25; Span_InpSenkou=52; Span_Bar_Shift=0; Span_MAX_Candle=60; Span_Pips=3.0; sFixed_Value_Use=1-4：固定値; Fixed_Value=20.0; sBreakEven=2:ブレークイーブン設定; BreakEven_Use=true; BE_Pips=12.0; BE_Margin=2.0; sTrailling_Method=3:トレーリング手法; sTrailling_SwingHL=3-1直近高値安値使用; Trail_SwingHL_Use=true; Trail_SwingHL_TimeFrame=0; Trail_SwingHL_Candle=3; Trail_SwingHL_Pips=3.0; 
+0	07:00:24.368	Otyame001_Ichimoku_Shift EURUSD,M5: initialized
+0	07:00:24.372	chikou_span_attacker EURUSD,M5: initialized
+0	07:00:24.377	Otyame017_Chiko_Span_Attaker EURUSD,M5: initialized
+0	07:00:24.384	Otyame101_Span_model_signal EURUSD,M5: initialized
+0	07:00:24.386	Otyame119_MTF_Chiko_Span_Attaker_Bar EURUSD,M5: initialized
+0	07:00:25.109	Custom indicator Otyame008_Swing_HL USDCHF,H4: loaded successfully
+0	07:00:25.114	Otyame008_Swing_HL USDCHF,H4: initialized
+0	07:00:25.135	Custom indicator Pivot Custom USDJPY,M5: loaded successfully
+0	07:00:25.138	Custom indicator Span_model USDJPY,M5: loaded successfully
+0	07:00:25.161	Pivot Custom USDJPY,M5: initialized
+0	07:00:25.163	Span_model USDJPY,M5: initialized
+0	07:00:25.314	Custom indicator Heiken Ashi GBPJPY,M5: loaded successfully
+0	07:00:25.316	Custom indicator DragonBand GBPJPY,M5: loaded successfully
+0	07:00:25.318	Custom indicator DragonMeter GBPJPY,M5: loaded successfully
+0	07:00:25.321	Custom indicator DragonArrows GBPJPY,M5: loaded successfully
+0	07:00:25.323	Heiken Ashi GBPJPY,M5: initialized
+0	07:00:25.323	DragonBand GBPJPY,M5: initialized
+0	07:00:25.334	DragonMeter GBPJPY,M5: initialized
+0	07:00:25.337	DragonArrows GBPJPY,M5: initialized
+0	07:00:25.381	Custom indicator TrendManager USDJPY,M5: loaded successfully
+0	07:00:25.384	Custom indicator Otyame001_Ichimoku_Shift USDJPY,M5: loaded successfully
+0	07:00:25.386	Custom indicator Otyame007_MTF_Spanmodel USDJPY,M5: loaded successfully
+0	07:00:25.386	TrendManager USDJPY,M5: initialized
+0	07:00:25.388	Otyame001_Ichimoku_Shift USDJPY,M5: initialized
+0	07:00:25.391	Otyame007_MTF_Spanmodel USDJPY,M5: initialized
+0	07:00:25.463	Custom indicator Otyame101_Span_model_signal EURUSD,H1: loaded successfully
+0	07:00:25.465	Custom indicator Otyame001_Ichimoku_Shift EURUSD,H1: loaded successfully
+0	07:00:25.472	Otyame101_Span_model_signal EURUSD,H1: initialized
+0	07:00:25.474	Otyame001_Ichimoku_Shift EURUSD,H1: initialized
+0	07:00:25.698	Custom indicator Otyame101_Span_model_signal EURUSD,M5: loaded successfully
+0	07:00:25.705	Otyame101_Span_model_signal EURUSD,M5: initialized
+0	07:00:32.632	TrendManager USDJPY,M5: Alert: TM : USDJPY 5 - Changing Trend Direction Long now
+0	07:00:32.839	Otyame201_AutoT_EA EURUSD,M5: initialized
+0	07:02:58.393	Automated trading disabled
+3	07:02:58.394	Automated trading disabled because the account has been changed
+0	07:03:01.209	Otyame201_AutoT_EA EURUSD,M5: uninit reason 6
+0	07:03:01.211	Otyame201_AutoT_EA EURUSD,M5: initialized
+1	07:03:08.926	Otyame007_MTF_Spanmodel USDJPY,M5: array out of range in 'Otyame007_MTF_Spanmodel.mq4' (168,25)
+0	07:04:59.772	DragonArrows GBPJPY,M5: Alert: [Dragonarrows][GBP/JPY][ - M5 - ]BUY-Chance
+3	07:06:04.855	Otyame201_AutoT_EA EURUSD,M5: trade operations not allowed by settings

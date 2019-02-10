@@ -1,0 +1,316 @@
+0	00:14:57.376	XM MT4 build 950 started (Trading Point Of Financial Instruments Ltd)
+0	00:14:57.376	Windows 10 Home (x64 based PC), IE 16.76, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13512 / 16327 Mb, HDD: 119642 / 228383 Mb, GMT+09:00
+0	00:14:57.376	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD
+2	00:14:58.892	Custom indicator Max_Sign EURJPY,M1: loaded successfully
+2	00:14:58.892	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+2	00:14:58.892	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+2	00:14:58.907	Custom indicator Max_Pivot EURJPY,M1: loaded successfully
+2	00:14:58.907	Custom indicator MAX_MTFMA_ƒ¿ EURJPY,M1: loaded successfully
+2	00:14:58.907	Custom indicator Max_Line EURJPY,M1: loaded successfully
+2	00:14:59.188	Custom indicator Max_Sign USDJPY,M15: loaded successfully
+2	00:14:59.188	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+2	00:14:59.188	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+2	00:14:59.188	Custom indicator Max_Pivot USDJPY,M15: loaded successfully
+2	00:14:59.188	Custom indicator MAX_MTFMA_ƒ¿ USDJPY,M15: loaded successfully
+2	00:14:59.204	Custom indicator Max_Line USDJPY,M15: loaded successfully
+2	00:14:59.345	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	00:14:59.360	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+2	00:14:59.360	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+2	00:14:59.360	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	00:14:59.376	Custom indicator MAX_MTFMA_ƒ¿ EURUSD,M5: loaded successfully
+2	00:14:59.392	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	00:14:59.392	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	00:14:59.407	Custom indicator Otyame021_Price_Line EURUSD,M5: loaded successfully
+2	00:14:59.954	Custom indicator Max_Sign GBPUSD,M1: loaded successfully
+2	00:14:59.970	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+2	00:14:59.970	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+2	00:14:59.970	Custom indicator Max_Pivot GBPUSD,M1: loaded successfully
+2	00:14:59.970	Custom indicator MAX_MTFMA_ƒ¿ GBPUSD,M1: loaded successfully
+2	00:14:59.985	Custom indicator Max_Line GBPUSD,M1: loaded successfully
+2	00:15:00.220	Custom indicator Max_Sign GBPJPY,M15: loaded successfully
+2	00:15:00.220	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+2	00:15:00.220	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+2	00:15:00.235	Custom indicator Max_Pivot GBPJPY,M15: loaded successfully
+2	00:15:00.235	Custom indicator MAX_MTFMA_ƒ¿ GBPJPY,M15: loaded successfully
+2	00:15:00.235	Custom indicator Max_Line GBPJPY,M15: loaded successfully
+2	00:15:00.360	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	00:15:00.360	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+2	00:15:00.360	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+2	00:15:00.360	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	00:15:00.376	Custom indicator MAX_MTFMA_ƒ¿ AUDUSD,M15: loaded successfully
+2	00:15:00.376	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	00:15:00.501	Custom indicator Max_Sign EURGBP,M15: loaded successfully
+2	00:15:00.501	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+2	00:15:00.501	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+2	00:15:00.501	Custom indicator Max_Pivot EURGBP,M15: loaded successfully
+2	00:15:00.501	Custom indicator Max_Line EURGBP,M15: loaded successfully
+2	00:15:00.517	Custom indicator 23Signal_Price-v1 EURGBP,M15: loaded successfully
+2	00:15:00.517	Custom indicator 00-DispTrade_v102 EURGBP,M15: loaded successfully
+0	00:15:05.892	LiveUpdate: updater - started for 'D:\xm\XM MT4(MAX)'
+0	00:15:05.892	LiveUpdate: updater - start admin updater
+2	00:15:14.220	Custom indicator Max_Sign EURJPY,M1: removed
+2	00:15:14.220	Custom indicator Max_ColorMA EURJPY,M1: removed
+2	00:15:14.220	Custom indicator Max_ColorMA EURJPY,M1: removed
+2	00:15:14.220	Custom indicator Max_Pivot EURJPY,M1: removed
+2	00:15:14.236	Custom indicator MAX_MTFMA_ƒ¿ EURJPY,M1: removed
+2	00:15:14.236	Custom indicator Max_Line EURJPY,M1: removed
+2	00:15:14.236	Custom indicator Max_Sign USDJPY,M15: removed
+2	00:15:14.236	Custom indicator Max_ColorMA USDJPY,M15: removed
+2	00:15:14.236	Custom indicator Max_ColorMA USDJPY,M15: removed
+2	00:15:14.236	Custom indicator Max_Pivot USDJPY,M15: removed
+2	00:15:14.236	Custom indicator MAX_MTFMA_ƒ¿ USDJPY,M15: removed
+2	00:15:14.236	Custom indicator Max_Line USDJPY,M15: removed
+2	00:15:14.236	Custom indicator Max_Sign EURUSD,M5: removed
+2	00:15:14.236	Custom indicator Max_ColorMA EURUSD,M5: removed
+2	00:15:14.236	Custom indicator Max_ColorMA EURUSD,M5: removed
+2	00:15:14.236	Custom indicator Max_Pivot EURUSD,M5: removed
+2	00:15:14.236	Custom indicator MAX_MTFMA_ƒ¿ EURUSD,M5: removed
+2	00:15:14.236	Custom indicator Max_Line EURUSD,M5: removed
+2	00:15:14.236	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	00:15:14.236	Custom indicator Otyame021_Price_Line EURUSD,M5: removed
+2	00:15:14.236	Custom indicator Max_Sign GBPUSD,M1: removed
+2	00:15:14.236	Custom indicator Max_ColorMA GBPUSD,M1: removed
+2	00:15:14.236	Custom indicator Max_ColorMA GBPUSD,M1: removed
+2	00:15:14.236	Custom indicator Max_Pivot GBPUSD,M1: removed
+2	00:15:14.252	Custom indicator MAX_MTFMA_ƒ¿ GBPUSD,M1: removed
+2	00:15:14.252	Custom indicator Max_Line GBPUSD,M1: removed
+2	00:15:14.252	Custom indicator Max_Sign GBPJPY,M15: removed
+2	00:15:14.252	Custom indicator Max_ColorMA GBPJPY,M15: removed
+2	00:15:14.252	Custom indicator Max_ColorMA GBPJPY,M15: removed
+2	00:15:14.252	Custom indicator Max_Pivot GBPJPY,M15: removed
+2	00:15:14.252	Custom indicator MAX_MTFMA_ƒ¿ GBPJPY,M15: removed
+2	00:15:14.252	Custom indicator Max_Line GBPJPY,M15: removed
+2	00:15:14.252	Custom indicator Max_Sign AUDUSD,M15: removed
+2	00:15:14.252	Custom indicator Max_ColorMA AUDUSD,M15: removed
+2	00:15:14.252	Custom indicator Max_ColorMA AUDUSD,M15: removed
+2	00:15:14.252	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	00:15:14.252	Custom indicator MAX_MTFMA_ƒ¿ AUDUSD,M15: removed
+2	00:15:14.252	Custom indicator Max_Line AUDUSD,M15: removed
+2	00:15:14.267	Custom indicator Max_Sign EURGBP,M15: removed
+2	00:15:14.267	Custom indicator Max_ColorMA EURGBP,M15: removed
+2	00:15:14.267	Custom indicator Max_ColorMA EURGBP,M15: removed
+2	00:15:14.267	Custom indicator Max_Pivot EURGBP,M15: removed
+2	00:15:14.267	Custom indicator Max_Line EURGBP,M15: removed
+2	00:15:14.267	Custom indicator 23Signal_Price-v1 EURGBP,M15: removed
+2	00:15:14.267	Custom indicator 00-DispTrade_v102 EURGBP,M15: removed
+0	00:15:14.517	XM MT4 build 950 stopped
+0	00:15:08.548	LiveUpdate: admin updater - started for 'D:\xm\XM MT4(MAX)'
+0	00:15:08.548	LiveUpdate: admin updater - try to close terminal
+0	00:15:15.564	LiveUpdate: admin updater - files update started
+0	00:15:15.939	LiveUpdate: copied from 'C:\Users\koichi\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'D:\xm\XM MT4(MAX)\metaeditor.exe'
+0	00:15:15.939	LiveUpdate: copied from 'C:\Users\koichi\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'D:\xm\XM MT4(MAX)\terminal.exe'
+0	00:15:15.939	LiveUpdate: admin updater - files update finished
+0	00:15:15.939	LiveUpdate: admin updater - clean obsolete data
+0	00:15:15.939	LiveUpdate: admin updater - finished for 'D:\xm\XM MT4(MAX)'
+0	00:15:15.955	LiveUpdate: updater - start terminal
+0	00:15:16.111	LiveUpdate: updater - finished for 'D:\xm\XM MT4(MAX)'
+0	00:15:18.580	LiveUpdate: update C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4 folder started
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Experts/MACD Sample.mq4 updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Experts/Moving Average.mq4 updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/Array.mqh updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	00:15:18.595	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/ArrayString.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/List.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/Tree.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Arrays/TreeNode.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Canvas/Canvas.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	00:15:18.611	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Charts/Chart.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/BmpButton.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Button.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/CheckBox.mqh updated
+0	00:15:18.627	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/CheckGroup.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/ComboBox.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/DateDropList.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/DatePicker.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Defines.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Dialog.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Edit.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Label.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/ListView.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Panel.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Picture.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/RadioButton.mqh updated
+0	00:15:18.642	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/RadioGroup.mqh updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Rect.mqh updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/Close.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/Down.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	00:15:18.658	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/DropOff.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/DropOn.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/Left.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	00:15:18.674	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/Restore.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/Right.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	00:15:18.689	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/Turn.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/Up.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Scrolls.mqh updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/SpinEdit.mqh updated
+0	00:15:18.705	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/TimePicker.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/Wnd.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/WndClient.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/WndContainer.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Controls/WndObj.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Files/File.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Files/FileBin.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Files/FilePipe.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Files/FileTxt.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/Custom.mqh updated
+0	00:15:18.720	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/Indicator.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/Indicators.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/Oscilators.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/Series.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/Trend.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Indicators/Volumes.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/MovingAverages.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Object.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/stderror.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/stdlib.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/StdLibErr.mqh updated
+0	00:15:18.736	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Strings/String.mqh updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/Tools/DateTime.mqh updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Include/WinUser32.mqh updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Accelerator.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Accumulation.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Alligator.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/ATR.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Awesome.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Bands.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Bears.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Bulls.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/CCI.mq4 updated
+0	00:15:18.752	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Ichimoku.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/iExposure.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/MACD.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Momentum.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/OsMA.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Parabolic.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/RSI.mq4 updated
+0	00:15:18.767	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/Stochastic.mq4 updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Indicators/ZigZag.mq4 updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Libraries/stdlib.mq4 updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/Examples/DLL/DLLSample.vcxproj updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	00:15:18.783	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	00:15:18.799	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	00:15:18.799	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4/Scripts/PeriodConverter.mq4 updated
+0	00:15:18.799	LiveUpdate: update C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD\MQL4 folder finished
+0	00:15:18.892	XM MT4 build 1031 started (Trading Point Of Financial Instruments Ltd)
+0	00:15:18.892	Windows 10 Home (x64 based PC), IE 11.00, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13187 / 16327 Mb, HDD: 119642 / 228383 Mb, GMT+09:00
+0	00:15:18.892	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\010BF99D307F164FBA643D16B4B111BD
+0	00:15:18.924	Sources recompilation started
+0	00:15:32.272	Sources recompilation finished (28 compiled in 13359 msec)
+2	00:15:32.826	Custom indicator Max_Sign EURJPY,M1: loaded successfully
+2	00:15:32.826	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+2	00:15:32.826	Custom indicator Max_ColorMA EURJPY,M1: loaded successfully
+2	00:15:32.841	Custom indicator Max_Pivot EURJPY,M1: loaded successfully
+2	00:15:32.841	Custom indicator MAX_MTFMA_ƒ¿ EURJPY,M1: loaded successfully
+2	00:15:32.857	Custom indicator Max_Line EURJPY,M1: loaded successfully
+2	00:15:33.076	Custom indicator Max_Sign USDJPY,M15: loaded successfully
+2	00:15:33.076	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+2	00:15:33.091	Custom indicator Max_ColorMA USDJPY,M15: loaded successfully
+2	00:15:33.091	Custom indicator Max_Pivot USDJPY,M15: loaded successfully
+2	00:15:33.107	Custom indicator MAX_MTFMA_ƒ¿ USDJPY,M15: loaded successfully
+2	00:15:33.107	Custom indicator Max_Line USDJPY,M15: loaded successfully
+2	00:15:33.216	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	00:15:33.216	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+2	00:15:33.216	Custom indicator Max_ColorMA EURUSD,M5: loaded successfully
+2	00:15:33.216	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	00:15:33.232	Custom indicator MAX_MTFMA_ƒ¿ EURUSD,M5: loaded successfully
+2	00:15:33.232	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	00:15:33.279	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	00:15:33.295	Custom indicator Otyame021_Price_Line EURUSD,M5: loaded successfully
+2	00:15:33.748	Custom indicator Max_Sign GBPUSD,M1: loaded successfully
+2	00:15:33.748	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+2	00:15:33.748	Custom indicator Max_ColorMA GBPUSD,M1: loaded successfully
+2	00:15:33.748	Custom indicator Max_Pivot GBPUSD,M1: loaded successfully
+2	00:15:33.763	Custom indicator MAX_MTFMA_ƒ¿ GBPUSD,M1: loaded successfully
+2	00:15:33.779	Custom indicator Max_Line GBPUSD,M1: loaded successfully
+2	00:15:33.998	Custom indicator Max_Sign GBPJPY,M15: loaded successfully
+2	00:15:33.998	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+2	00:15:33.998	Custom indicator Max_ColorMA GBPJPY,M15: loaded successfully
+2	00:15:33.998	Custom indicator Max_Pivot GBPJPY,M15: loaded successfully
+2	00:15:34.013	Custom indicator MAX_MTFMA_ƒ¿ GBPJPY,M15: loaded successfully
+2	00:15:34.029	Custom indicator Max_Line GBPJPY,M15: loaded successfully
+2	00:15:34.138	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	00:15:34.138	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+2	00:15:34.154	Custom indicator Max_ColorMA AUDUSD,M15: loaded successfully
+2	00:15:34.154	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	00:15:34.154	Custom indicator MAX_MTFMA_ƒ¿ AUDUSD,M15: loaded successfully
+2	00:15:34.170	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	00:15:34.279	Custom indicator Max_Sign EURGBP,M15: loaded successfully
+2	00:15:34.279	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+2	00:15:34.279	Custom indicator Max_ColorMA EURGBP,M15: loaded successfully
+2	00:15:34.279	Custom indicator Max_Pivot EURGBP,M15: loaded successfully
+2	00:15:34.295	Custom indicator Max_Line EURGBP,M15: loaded successfully
+2	00:15:34.341	Custom indicator 23Signal_Price-v1 EURGBP,M15: loaded successfully
+2	00:15:34.357	Custom indicator 00-DispTrade_v102 EURGBP,M15: loaded successfully
+0	00:20:28.306	'1025330': login on XM.COM-Real 7 through REAL07 - DC01 (ping: 221.89 ms)
+0	00:20:31.196	'1025330': login datacenter on XM.COM-Real 7 through REAL07 - DC01 (ping: 221.89 ms)
+0	00:20:31.826	'1025330': previous successful authorization performed from 61.119.116.154
+0	00:20:50.465	'1025330': auto connecting to a better access point REAL07 - DC13 (ping is 238.95 ms)
+0	00:20:51.234	'1025330': login on XM.COM-Real 7 through REAL07 - DC13 (ping: 238.95 ms)
+0	00:20:52.781	'1025330': login datacenter on XM.COM-Real 7 through REAL07 - DC13 (ping: 238.95 ms)
+0	00:20:53.239	'1025330': previous successful authorization performed from 220.102.197.209
+0	00:47:13.800	System to be shutdown, request for close XM MT4
+0	00:47:14.128	XM MT4 build 1031 stopped because system shutdown
