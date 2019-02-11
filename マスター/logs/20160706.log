@@ -1,0 +1,353 @@
+0	05:35:23.227	GemFX MT4 build 985 started (GemTrade Co., Ltd.)
+0	05:35:23.227	Windows 10 Home (x64 based PC), IE 15.20, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 14095 / 16327 Mb, HDD: 137641 / 228383 Mb, GMT+09:00
+0	05:35:23.227	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	05:35:24.117	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	05:35:24.148	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	05:35:24.164	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	05:35:24.164	Custom indicator PZ_Harmonic USDJPY,H1: loaded successfully
+2	05:35:24.289	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	05:35:24.289	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	05:35:24.305	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	05:35:24.305	Custom indicator Otyame001_Ichimoku_Shift USDJPY,M5: loaded successfully
+2	05:35:24.320	Custom indicator Otyame021_Price_Line USDJPY,M5: loaded successfully
+2	05:35:24.320	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: loaded successfully
+2	05:35:24.523	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	05:35:24.555	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	05:35:24.570	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	05:35:24.570	Custom indicator PZ_Harmonic EURUSD,H1: loaded successfully
+2	05:35:24.695	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	05:35:24.695	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	05:35:24.695	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	05:35:24.695	Custom indicator Otyame001_Ichimoku_Shift EURUSD,M5: loaded successfully
+2	05:35:24.711	Custom indicator Otyame021_Price_Line EURUSD,M5: loaded successfully
+2	05:35:24.711	Custom indicator Otyame005_Super_Bollinger EURUSD,M5: loaded successfully
+2	05:35:24.930	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	05:35:24.961	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	05:35:24.961	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	05:35:24.977	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	05:35:25.086	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	05:35:25.086	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	05:35:25.102	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	05:35:25.102	Custom indicator Otyame001_Ichimoku_Shift EURJPY,M5: loaded successfully
+2	05:35:25.102	Custom indicator Otyame021_Price_Line EURJPY,M5: loaded successfully
+2	05:35:25.117	Custom indicator Otyame005_Super_Bollinger EURJPY,M5: loaded successfully
+2	05:35:25.320	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	05:35:25.352	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	05:35:25.367	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	05:35:25.367	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	05:35:25.477	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	05:35:25.492	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	05:35:25.492	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	05:35:25.492	Custom indicator Otyame001_Ichimoku_Shift GBPUSD,M5: loaded successfully
+2	05:35:25.508	Custom indicator Otyame021_Price_Line GBPUSD,M5: loaded successfully
+2	05:35:25.508	Custom indicator Otyame005_Super_Bollinger GBPUSD,M5: loaded successfully
+2	05:35:25.727	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	05:35:25.758	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	05:35:25.774	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	05:35:25.774	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	05:35:25.899	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	05:35:25.899	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	05:35:25.899	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	05:35:25.899	Custom indicator Otyame001_Ichimoku_Shift GBPJPY,M5: loaded successfully
+2	05:35:25.914	Custom indicator Otyame021_Price_Line GBPJPY,M5: loaded successfully
+2	05:35:25.914	Custom indicator Otyame005_Super_Bollinger GBPJPY,M5: loaded successfully
+2	05:35:26.164	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	05:35:26.180	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	05:35:26.195	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	05:35:26.195	Custom indicator PZ_Harmonic AUDUSD,H1: loaded successfully
+2	05:35:26.320	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	05:35:26.320	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	05:35:26.336	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	05:35:26.336	Custom indicator Otyame001_Ichimoku_Shift AUDUSD,M5: loaded successfully
+2	05:35:26.336	Custom indicator Otyame021_Price_Line AUDUSD,M5: loaded successfully
+2	05:35:26.352	Custom indicator Otyame005_Super_Bollinger AUDUSD,M5: loaded successfully
+2	05:35:26.633	Custom indicator Otyame005_Super_Bollinger GBPAUD,H1: loaded successfully
+2	05:35:26.664	Custom indicator 23Signal_Price-v1 GBPAUD,H1: loaded successfully
+2	05:35:26.680	Custom indicator chikou_span_attacker GBPAUD,H1: loaded successfully
+2	05:35:26.680	Custom indicator PZ_Harmonic GBPAUD,H1: loaded successfully
+2	05:35:26.774	Custom indicator 23Signal_Price-v1 GBPAUD,M5: loaded successfully
+2	05:35:26.789	Custom indicator Max_Pivot GBPAUD,M5: loaded successfully
+2	05:35:26.789	Custom indicator Max_Line GBPAUD,M5: loaded successfully
+2	05:35:26.789	Custom indicator Otyame001_Ichimoku_Shift GBPAUD,M5: loaded successfully
+2	05:35:26.805	Custom indicator Otyame021_Price_Line GBPAUD,M5: loaded successfully
+2	05:35:26.805	Custom indicator Otyame005_Super_Bollinger GBPAUD,M5: loaded successfully
+2	05:35:26.945	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	05:35:30.950	LiveUpdate: updater - started for 'C:\Program Files (x86)\GemFX MT4'
+0	05:35:30.950	LiveUpdate: updater - start admin updater
+0	05:35:33.756	LiveUpdate: admin updater - started for 'C:\Program Files (x86)\GemFX MT4'
+0	05:35:33.756	LiveUpdate: admin updater - try to close terminal
+0	05:35:56.413	LiveUpdate: process 8816 is still working
+0	05:35:56.413	LiveUpdate: process 8816 terminated
+0	05:35:57.429	LiveUpdate: admin updater - files update started
+0	05:35:57.445	LiveUpdate: copied from 'C:\Users\koichi\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\Program Files (x86)\GemFX MT4\metaeditor.exe'
+0	05:35:57.445	LiveUpdate: copied from 'C:\Users\koichi\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\Program Files (x86)\GemFX MT4\terminal.exe'
+0	05:35:57.445	LiveUpdate: admin updater - files update finished
+0	05:35:57.445	LiveUpdate: admin updater - clean obsolete data
+0	05:35:57.445	LiveUpdate: admin updater - finished for 'C:\Program Files (x86)\GemFX MT4'
+0	05:35:57.445	LiveUpdate: updater - start terminal
+1	05:36:03.179	LiveUpdate: updater - terminal start failed [5]
+0	05:36:03.179	LiveUpdate: updater - finished for 'C:\Program Files (x86)\GemFX MT4'
+0	20:30:42.467	LiveUpdate: update C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4 folder started
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Experts/MACD Sample.mq4 updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Experts/Moving Average.mq4 updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/Array.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayString.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/List.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/Tree.mqh updated
+0	20:30:42.483	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/TreeNode.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Canvas/Canvas.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Charts/Chart.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/BmpButton.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Button.mqh updated
+0	20:30:42.498	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/CheckBox.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/CheckGroup.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/ComboBox.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/DateDropList.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/DatePicker.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Defines.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Dialog.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Edit.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Label.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/ListView.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Panel.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Picture.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/RadioButton.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/RadioGroup.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Rect.mqh updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Close.bmp updated
+0	20:30:42.514	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Down.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DropOff.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DropOn.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	20:30:42.529	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Left.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Restore.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Right.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Turn.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	20:30:42.545	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Up.bmp updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Scrolls.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/SpinEdit.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/TimePicker.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Wnd.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/WndClient.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/WndContainer.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/WndObj.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/File.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/FileBin.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/FilePipe.mqh updated
+0	20:30:42.561	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/FileTxt.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Custom.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Indicator.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Indicators.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Oscilators.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Series.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Trend.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Volumes.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/MovingAverages.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Object.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/stderror.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/stdlib.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/StdLibErr.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Strings/String.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Tools/DateTime.mqh updated
+0	20:30:42.576	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/WinUser32.mqh updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Accelerator.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Accumulation.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Alligator.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/ATR.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Awesome.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Bands.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Bears.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Bulls.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/CCI.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Ichimoku.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/iExposure.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/MACD.mq4 updated
+0	20:30:42.592	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Momentum.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/OsMA.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Parabolic.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/RSI.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Stochastic.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/ZigZag.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Libraries/stdlib.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/DLLSample.vcxproj updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	20:30:42.608	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	20:30:42.623	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/PeriodConverter.mq4 updated
+0	20:30:42.623	LiveUpdate: update C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4 folder finished
+0	20:30:42.701	GemFX MT4 build 988 started (GemTrade Co., Ltd.)
+0	20:30:42.701	Windows 10 Home (x64 based PC), IE 15.20, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 14155 / 16327 Mb, HDD: 137641 / 228383 Mb, GMT+09:00
+0	20:30:42.701	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+0	20:30:42.983	Sources recompilation started
+0	20:30:57.202	Sources recompilation finished (28 compiled in 14219 msec)
+2	20:30:57.546	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	20:30:57.592	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	20:30:57.592	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	20:30:57.592	Custom indicator PZ_Harmonic USDJPY,H1: loaded successfully
+2	20:30:57.749	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	20:30:57.749	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	20:30:57.749	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	20:30:57.764	Custom indicator Otyame001_Ichimoku_Shift USDJPY,M5: loaded successfully
+2	20:30:57.764	Custom indicator Otyame021_Price_Line USDJPY,M5: loaded successfully
+2	20:30:57.780	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: loaded successfully
+2	20:30:57.999	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	20:30:58.030	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	20:30:58.030	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	20:30:58.046	Custom indicator PZ_Harmonic EURUSD,H1: loaded successfully
+2	20:30:58.186	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	20:30:58.186	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	20:30:58.202	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	20:30:58.202	Custom indicator Otyame001_Ichimoku_Shift EURUSD,M5: loaded successfully
+2	20:30:58.218	Custom indicator Otyame021_Price_Line EURUSD,M5: loaded successfully
+2	20:30:58.218	Custom indicator Otyame005_Super_Bollinger EURUSD,M5: loaded successfully
+2	20:30:58.436	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	20:30:58.468	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	20:30:58.483	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	20:30:58.483	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	20:30:58.624	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	20:30:58.624	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	20:30:58.624	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	20:30:58.639	Custom indicator Otyame001_Ichimoku_Shift EURJPY,M5: loaded successfully
+2	20:30:58.639	Custom indicator Otyame021_Price_Line EURJPY,M5: loaded successfully
+2	20:30:58.655	Custom indicator Otyame005_Super_Bollinger EURJPY,M5: loaded successfully
+2	20:30:58.874	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	20:30:58.905	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	20:30:58.921	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	20:30:58.921	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	20:30:59.061	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	20:30:59.061	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	20:30:59.061	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	20:30:59.077	Custom indicator Otyame001_Ichimoku_Shift GBPUSD,M5: loaded successfully
+2	20:30:59.077	Custom indicator Otyame021_Price_Line GBPUSD,M5: loaded successfully
+2	20:30:59.077	Custom indicator Otyame005_Super_Bollinger GBPUSD,M5: loaded successfully
+2	20:30:59.296	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	20:30:59.343	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	20:30:59.343	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	20:30:59.358	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	20:30:59.483	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	20:30:59.483	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	20:30:59.499	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	20:30:59.499	Custom indicator Otyame001_Ichimoku_Shift GBPJPY,M5: loaded successfully
+2	20:30:59.514	Custom indicator Otyame021_Price_Line GBPJPY,M5: loaded successfully
+2	20:30:59.514	Custom indicator Otyame005_Super_Bollinger GBPJPY,M5: loaded successfully
+2	20:30:59.749	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	20:30:59.780	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	20:30:59.796	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	20:30:59.796	Custom indicator PZ_Harmonic AUDUSD,H1: loaded successfully
+2	20:30:59.936	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	20:30:59.936	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	20:30:59.936	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	20:30:59.952	Custom indicator Otyame001_Ichimoku_Shift AUDUSD,M5: loaded successfully
+2	20:30:59.952	Custom indicator Otyame021_Price_Line AUDUSD,M5: loaded successfully
+2	20:30:59.968	Custom indicator Otyame005_Super_Bollinger AUDUSD,M5: loaded successfully
+2	20:31:00.186	Custom indicator Otyame005_Super_Bollinger GBPAUD,H1: loaded successfully
+2	20:31:00.218	Custom indicator 23Signal_Price-v1 GBPAUD,H1: loaded successfully
+2	20:31:00.233	Custom indicator chikou_span_attacker GBPAUD,H1: loaded successfully
+2	20:31:00.233	Custom indicator PZ_Harmonic GBPAUD,H1: loaded successfully
+2	20:31:00.358	Custom indicator 23Signal_Price-v1 GBPAUD,M5: loaded successfully
+2	20:31:00.358	Custom indicator Max_Pivot GBPAUD,M5: loaded successfully
+2	20:31:00.358	Custom indicator Max_Line GBPAUD,M5: loaded successfully
+2	20:31:00.374	Custom indicator Otyame001_Ichimoku_Shift GBPAUD,M5: loaded successfully
+2	20:31:00.374	Custom indicator Otyame021_Price_Line GBPAUD,M5: loaded successfully
+2	20:31:00.389	Custom indicator Otyame005_Super_Bollinger GBPAUD,M5: loaded successfully
+2	20:31:00.514	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	20:31:02.218	'16040': login on GemForex-Live through DC1 (ping: 73.27 ms)
+0	20:31:03.270	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.27 ms)
+0	20:31:03.547	'16040': previous successful authorization performed from 49.106.193.129
+0	20:31:38.819	'16040': ping to current access point DC1 is 73.96 ms
+0	20:47:25.621	'16040': instant order sell 0.10 EURJPY at 111.078 sl: 0.000 tp: 0.000
+0	20:47:25.824	'16040': order was opened : #4800592 sell 0.10 EURJPY at 111.078 sl: 0.000 tp: 0.000
+0	20:47:34.669	'16040': modify order #4800592 sell 0.10 EURJPY at 111.078 sl: 111.317 tp: 110.078 -> sl: 111.254 tp: 110.078
+0	20:47:34.857	'16040': order #4800592 sell 0.10 EURJPY at 111.078 was modified -> sl: 111.254 tp: 110.078
+0	20:47:47.541	'16040': modify order #4800592 sell 0.10 EURJPY at 111.078 sl: 111.254 tp: 110.078 -> sl: 111.254 tp: 110.758
+0	20:47:47.744	'16040': order #4800592 sell 0.10 EURJPY at 111.078 was modified -> sl: 111.254 tp: 110.758
+0	21:04:01.891	'16040': order #4800592 sell 0.10 EURJPY at 111.078 closed due stop-loss at price 111.254
+0	22:47:58.243	'16040': instant order sell 1.00 GBPUSD at 1.29436 sl: 0.00000 tp: 0.00000
+0	22:47:58.415	'16040': order was opened : #4864668 sell 1.00 GBPUSD at 1.29436 sl: 0.00000 tp: 0.00000
+0	22:51:00.494	'16040': close order #4864668 sell 1.00 GBPUSD at 1.29436 sl: 1.29736 tp: 1.28436 at price 1.29416
+0	22:51:00.697	'16040': order #4864668 sell 1.00 GBPUSD at 1.29436 sl: 1.29736 tp: 1.28436 closed at price 1.29416
+0	22:52:28.185	'16040': instant order sell 0.10 GBPUSD at 1.29340 sl: 0.00000 tp: 0.00000
+0	22:52:28.372	'16040': order was opened : #4864719 sell 0.10 GBPUSD at 1.29340 sl: 0.00000 tp: 0.00000
+0	22:53:08.151	'16040': instant order sell 1.00 GBPUSD at 1.29318 sl: 0.00000 tp: 0.00000
+0	22:53:08.323	'16040': order was opened : #4864726 sell 1.00 GBPUSD at 1.29318 sl: 0.00000 tp: 0.00000
+0	22:54:21.212	'16040': instant order sell 1.00 GBPUSD at 1.29340 sl: 0.00000 tp: 0.00000
+0	22:54:21.415	'16040': order was opened : #4864737 sell 1.00 GBPUSD at 1.29340 sl: 0.00000 tp: 0.00000
+0	22:55:04.776	'16040': close order #4864737 sell 1.00 GBPUSD at 1.29340 sl: 1.29589 tp: 1.28340 at price 1.29312
+0	22:55:04.964	'16040': order #4864737 sell 1.00 GBPUSD at 1.29340 sl: 1.29589 tp: 1.28340 closed at price 1.29312
+0	22:55:15.567	'16040': close order #4864726 sell 1.00 GBPUSD at 1.29318 sl: 1.29589 tp: 1.28318 at price 1.29312
+0	22:55:15.770	'16040': order #4864726 sell 1.00 GBPUSD at 1.29318 sl: 1.29589 tp: 1.28318 closed at price 1.29312
+0	22:55:21.788	'16040': close order #4864719 sell 0.10 GBPUSD at 1.29340 sl: 1.29589 tp: 1.28340 at price 1.29307
+0	22:55:21.991	'16040': order #4864719 sell 0.10 GBPUSD at 1.29340 sl: 1.29589 tp: 1.28340 closed at price 1.29307
+0	23:02:03.568	'16040': instant order sell 0.10 GBPUSD at 1.29274 sl: 0.00000 tp: 0.00000
+0	23:02:03.740	'16040': order was opened : #4865031 sell 0.10 GBPUSD at 1.29274 sl: 0.00000 tp: 0.00000
+0	23:04:57.990	'16040': close order #4865031 sell 0.10 GBPUSD at 1.29274 sl: 1.29574 tp: 1.28274 at price 1.29272
+0	23:04:58.161	'16040': order #4865031 sell 0.10 GBPUSD at 1.29274 sl: 1.29574 tp: 1.28274 closed at price 1.29272
+0	23:10:23.046	'16040': instant order sell 0.10 GBPUSD at 1.28970 sl: 0.00000 tp: 0.00000
+0	23:10:23.249	'16040': order was opened : #4865529 sell 0.10 GBPUSD at 1.28970 sl: 0.00000 tp: 0.00000
+0	23:11:16.375	'16040': close order #4865529 sell 0.10 GBPUSD at 1.28970 sl: 1.29270 tp: 1.27970 at price 1.28972
+0	23:11:16.578	'16040': order #4865529 sell 0.10 GBPUSD at 1.28970 sl: 1.29270 tp: 1.27970 closed at price 1.28972
+0	23:15:23.393	System to be shutdown, request for close GemFX MT4
+0	23:15:23.612	GemFX MT4 build 988 stopped because system shutdown

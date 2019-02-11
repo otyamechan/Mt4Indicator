@@ -1,0 +1,144 @@
+0	20:43:38.675	GemFX MT4 build 1010 started (GemTrade Co., Ltd.)
+0	20:43:38.675	Windows 10 Home (x64 based PC), IE 15.47, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 12789 / 16327 Mb, HDD: 131839 / 228383 Mb, GMT+09:00
+0	20:43:38.675	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	20:43:39.600	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	20:43:39.653	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	20:43:39.660	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	20:43:39.667	Custom indicator PZ_Harmonic USDJPY,H1: loaded successfully
+2	20:43:39.835	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	20:43:39.836	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	20:43:39.842	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	20:43:39.848	Custom indicator Otyame001_Ichimoku_Shift USDJPY,M5: loaded successfully
+2	20:43:39.856	Custom indicator Otyame021_Price_Line USDJPY,M5: loaded successfully
+2	20:43:39.864	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: loaded successfully
+2	20:43:40.160	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	20:43:40.212	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	20:43:40.219	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	20:43:40.226	Custom indicator PZ_Harmonic EURUSD,H1: loaded successfully
+2	20:43:40.394	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	20:43:40.395	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	20:43:40.401	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	20:43:40.408	Custom indicator Otyame001_Ichimoku_Shift EURUSD,M5: loaded successfully
+2	20:43:40.415	Custom indicator Otyame021_Price_Line EURUSD,M5: loaded successfully
+2	20:43:40.422	Custom indicator Otyame005_Super_Bollinger EURUSD,M5: loaded successfully
+2	20:43:40.710	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	20:43:40.761	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	20:43:40.768	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	20:43:40.775	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	20:43:40.940	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	20:43:40.942	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	20:43:40.948	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	20:43:40.954	Custom indicator Otyame001_Ichimoku_Shift EURJPY,M5: loaded successfully
+2	20:43:40.963	Custom indicator Otyame021_Price_Line EURJPY,M5: loaded successfully
+2	20:43:40.970	Custom indicator Otyame005_Super_Bollinger EURJPY,M5: loaded successfully
+2	20:43:41.277	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	20:43:41.330	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	20:43:41.337	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	20:43:41.345	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	20:43:41.520	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	20:43:41.522	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	20:43:41.528	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	20:43:41.534	Custom indicator Otyame001_Ichimoku_Shift GBPUSD,M5: loaded successfully
+2	20:43:41.542	Custom indicator Otyame021_Price_Line GBPUSD,M5: loaded successfully
+2	20:43:41.548	Custom indicator Otyame005_Super_Bollinger GBPUSD,M5: loaded successfully
+2	20:43:41.836	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	20:43:41.890	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	20:43:41.897	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	20:43:41.904	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	20:43:42.070	Custom indicator 23Signal_Price-v1 GBPJPY,M1: loaded successfully
+2	20:43:42.071	Custom indicator Max_Pivot GBPJPY,M1: loaded successfully
+2	20:43:42.078	Custom indicator Max_Line GBPJPY,M1: loaded successfully
+2	20:43:42.084	Custom indicator Otyame001_Ichimoku_Shift GBPJPY,M1: loaded successfully
+2	20:43:42.092	Custom indicator Otyame021_Price_Line GBPJPY,M1: loaded successfully
+2	20:43:42.098	Custom indicator Otyame005_Super_Bollinger GBPJPY,M1: loaded successfully
+2	20:43:42.770	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	20:43:42.822	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	20:43:42.828	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	20:43:42.835	Custom indicator PZ_Harmonic AUDUSD,H1: loaded successfully
+2	20:43:43.000	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	20:43:43.001	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	20:43:43.007	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	20:43:43.013	Custom indicator Otyame001_Ichimoku_Shift AUDUSD,M5: loaded successfully
+2	20:43:43.021	Custom indicator Otyame021_Price_Line AUDUSD,M5: loaded successfully
+2	20:43:43.028	Custom indicator Otyame005_Super_Bollinger AUDUSD,M5: loaded successfully
+2	20:43:43.310	Custom indicator Otyame005_Super_Bollinger GBPAUD,H1: loaded successfully
+2	20:43:43.361	Custom indicator 23Signal_Price-v1 GBPAUD,H1: loaded successfully
+2	20:43:43.368	Custom indicator chikou_span_attacker GBPAUD,H1: loaded successfully
+2	20:43:43.374	Custom indicator PZ_Harmonic GBPAUD,H1: loaded successfully
+2	20:43:43.532	Custom indicator 23Signal_Price-v1 GBPAUD,M5: loaded successfully
+2	20:43:43.533	Custom indicator Max_Pivot GBPAUD,M5: loaded successfully
+2	20:43:43.539	Custom indicator Max_Line GBPAUD,M5: loaded successfully
+2	20:43:43.546	Custom indicator Otyame001_Ichimoku_Shift GBPAUD,M5: loaded successfully
+2	20:43:43.553	Custom indicator Otyame021_Price_Line GBPAUD,M5: loaded successfully
+2	20:43:43.560	Custom indicator Otyame005_Super_Bollinger GBPAUD,M5: loaded successfully
+2	20:43:49.366	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	20:43:49.366	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	20:43:49.367	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	20:43:49.368	Custom indicator PZ_Harmonic USDJPY,H1: removed
+2	20:43:49.370	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	20:43:49.370	Custom indicator Max_Pivot USDJPY,M5: removed
+2	20:43:49.371	Custom indicator Max_Line USDJPY,M5: removed
+2	20:43:49.372	Custom indicator Otyame001_Ichimoku_Shift USDJPY,M5: removed
+2	20:43:49.374	Custom indicator Otyame021_Price_Line USDJPY,M5: removed
+2	20:43:49.375	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: removed
+2	20:43:49.377	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	20:43:49.377	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	20:43:49.378	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	20:43:49.379	Custom indicator PZ_Harmonic EURUSD,H1: removed
+2	20:43:49.381	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	20:43:49.381	Custom indicator Max_Pivot EURUSD,M5: removed
+2	20:43:49.383	Custom indicator Max_Line EURUSD,M5: removed
+2	20:43:49.384	Custom indicator Otyame001_Ichimoku_Shift EURUSD,M5: removed
+2	20:43:49.385	Custom indicator Otyame021_Price_Line EURUSD,M5: removed
+2	20:43:49.386	Custom indicator Otyame005_Super_Bollinger EURUSD,M5: removed
+2	20:43:49.389	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	20:43:49.389	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	20:43:49.390	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	20:43:49.391	Custom indicator PZ_Harmonic EURJPY,H1: removed
+2	20:43:49.392	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	20:43:49.392	Custom indicator Max_Pivot EURJPY,M5: removed
+2	20:43:49.394	Custom indicator Max_Line EURJPY,M5: removed
+2	20:43:49.395	Custom indicator Otyame001_Ichimoku_Shift EURJPY,M5: removed
+2	20:43:49.396	Custom indicator Otyame021_Price_Line EURJPY,M5: removed
+2	20:43:49.397	Custom indicator Otyame005_Super_Bollinger EURJPY,M5: removed
+2	20:43:49.399	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	20:43:49.399	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	20:43:49.400	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	20:43:49.401	Custom indicator PZ_Harmonic GBPUSD,H1: removed
+2	20:43:49.408	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	20:43:49.408	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	20:43:49.409	Custom indicator Max_Line GBPUSD,M5: removed
+2	20:43:49.410	Custom indicator Otyame001_Ichimoku_Shift GBPUSD,M5: removed
+2	20:43:49.411	Custom indicator Otyame021_Price_Line GBPUSD,M5: removed
+2	20:43:49.413	Custom indicator Otyame005_Super_Bollinger GBPUSD,M5: removed
+2	20:43:49.414	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	20:43:49.414	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	20:43:49.415	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	20:43:49.417	Custom indicator PZ_Harmonic GBPJPY,H1: removed
+2	20:43:49.423	Custom indicator 23Signal_Price-v1 GBPJPY,M1: removed
+2	20:43:49.423	Custom indicator Max_Pivot GBPJPY,M1: removed
+2	20:43:49.424	Custom indicator Max_Line GBPJPY,M1: removed
+2	20:43:49.425	Custom indicator Otyame001_Ichimoku_Shift GBPJPY,M1: removed
+2	20:43:49.426	Custom indicator Otyame021_Price_Line GBPJPY,M1: removed
+2	20:43:49.427	Custom indicator Otyame005_Super_Bollinger GBPJPY,M1: removed
+2	20:43:49.435	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	20:43:49.435	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	20:43:49.436	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	20:43:49.438	Custom indicator PZ_Harmonic AUDUSD,H1: removed
+2	20:43:49.444	Custom indicator 23Signal_Price-v1 AUDUSD,M5: removed
+2	20:43:49.444	Custom indicator Max_Pivot AUDUSD,M5: removed
+2	20:43:49.445	Custom indicator Max_Line AUDUSD,M5: removed
+2	20:43:49.446	Custom indicator Otyame001_Ichimoku_Shift AUDUSD,M5: removed
+2	20:43:49.447	Custom indicator Otyame021_Price_Line AUDUSD,M5: removed
+2	20:43:49.448	Custom indicator Otyame005_Super_Bollinger AUDUSD,M5: removed
+2	20:43:49.455	Custom indicator Otyame005_Super_Bollinger GBPAUD,H1: removed
+2	20:43:49.455	Custom indicator 23Signal_Price-v1 GBPAUD,H1: removed
+2	20:43:49.456	Custom indicator chikou_span_attacker GBPAUD,H1: removed
+2	20:43:49.457	Custom indicator PZ_Harmonic GBPAUD,H1: removed
+2	20:43:49.460	Custom indicator 23Signal_Price-v1 GBPAUD,M5: removed
+2	20:43:49.460	Custom indicator Max_Pivot GBPAUD,M5: removed
+2	20:43:49.461	Custom indicator Max_Line GBPAUD,M5: removed
+2	20:43:49.462	Custom indicator Otyame001_Ichimoku_Shift GBPAUD,M5: removed
+2	20:43:49.463	Custom indicator Otyame021_Price_Line GBPAUD,M5: removed
+2	20:43:49.464	Custom indicator Otyame005_Super_Bollinger GBPAUD,M5: removed
+0	20:43:49.827	GemFX MT4 build 1010 stopped

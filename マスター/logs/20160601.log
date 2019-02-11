@@ -1,0 +1,15 @@
+2	00:04:03.030	Custom indicator Otyame021_Price_Line USDJPY,M5: removed
+2	00:04:10.983	Custom indicator Otyame021_Price_Line EURUSD,M5: removed
+2	00:04:19.046	Custom indicator Otyame021_Price_Line EURJPY,M5: removed
+0	00:06:05.401	'16040': instant order sell 0.20 GBPJPY at 161.325 sl: 0.000 tp: 0.000
+0	00:06:05.620	'16040': order was opened : #2379828 sell 0.20 GBPJPY at 161.325 sl: 0.000 tp: 0.000
+0	00:06:17.421	'16040': modify order #2379828 sell 0.20 GBPJPY at 161.325 sl: 0.000 tp: 0.000 -> sl: 161.586 tp: 0.000
+0	00:06:17.624	'16040': order #2379828 sell 0.20 GBPJPY at 161.325 was modified -> sl: 161.586 tp: 0.000
+0	00:06:39.041	'16040': modify order #2379828 sell 0.20 GBPJPY at 161.325 sl: 161.586 tp: 0.000 -> sl: 161.586 tp: 161.221
+0	00:06:39.244	'16040': order #2379828 sell 0.20 GBPJPY at 161.325 was modified -> sl: 161.586 tp: 161.221
+0	00:06:50.541	'16040': modify order #2379828 sell 0.20 GBPJPY at 161.325 sl: 161.586 tp: 161.221 -> sl: 161.508 tp: 161.221
+0	00:06:50.729	'16040': order #2379828 sell 0.20 GBPJPY at 161.325 was modified -> sl: 161.508 tp: 161.221
+0	00:11:34.621	'16040': close order #2379828 sell 0.20 GBPJPY at 161.325 sl: 161.508 tp: 161.221 at price 161.316
+0	00:11:34.809	'16040': order #2379828 sell 0.20 GBPJPY at 161.325 sl: 161.508 tp: 161.221 closed at price 161.316
+0	00:11:41.192	System to be shutdown, request for close GemFX MT4
+0	00:11:41.879	GemFX MT4 build 950 stopped because system shutdown

@@ -1,0 +1,1779 @@
+0	00:12:53.789	'16040': instant order buy 1.00 EURJPY at 126.557 sl: 0.000 tp: 0.000
+0	00:12:53.992	'16040': order was opened : #1340618 buy 1.00 EURJPY at 126.557 sl: 0.000 tp: 0.000
+0	00:13:37.308	'16040': instant order buy 1.00 EURJPY at 126.565 sl: 0.000 tp: 0.000
+0	00:13:37.480	'16040': order was opened : #1340632 buy 1.00 EURJPY at 126.565 sl: 0.000 tp: 0.000
+0	00:14:17.642	'16040': instant order buy 1.00 EURJPY at 126.520 sl: 0.000 tp: 0.000
+0	00:14:17.829	'16040': order was opened : #1340641 buy 1.00 EURJPY at 126.520 sl: 0.000 tp: 0.000
+2	00:23:38.120	Script 3_Close_All EURJPY,M5: loaded successfully
+0	00:23:38.120	'16040': close order #1340641 buy 1.00 EURJPY at 126.520 sl: 0.000 tp: 0.000 at price 126.610
+0	00:23:38.323	'16040': order #1340641 buy 1.00 EURJPY at 126.520 sl: 0.000 tp: 0.000 closed at price 126.610
+0	00:23:38.323	'16040': close order #1340632 buy 1.00 EURJPY at 126.565 sl: 0.000 tp: 0.000 at price 126.611
+0	00:23:38.510	'16040': order #1340632 buy 1.00 EURJPY at 126.565 sl: 0.000 tp: 0.000 closed at price 126.611
+0	00:23:38.510	'16040': close order #1340618 buy 1.00 EURJPY at 126.557 sl: 0.000 tp: 0.000 at price 126.613
+0	00:23:38.666	'16040': order #1340618 buy 1.00 EURJPY at 126.557 sl: 0.000 tp: 0.000 closed at price 126.613
+2	00:23:38.666	Script 3_Close_All EURJPY,M5: removed
+2	00:25:17.904	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	00:25:17.904	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	00:25:17.904	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	00:25:17.920	Custom indicator Span_model USDJPY,M5: removed
+2	00:25:17.920	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	00:25:17.920	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Max_Pivot USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Max_Sign USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Max_Line USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:25:17.920	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	00:25:17.920	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	00:25:17.920	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	00:25:17.920	Custom indicator Span_model EURUSD,M5: removed
+2	00:25:17.920	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	00:25:17.920	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Max_Sign EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Max_Pivot EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Max_Line EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:25:17.920	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	00:25:17.920	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	00:25:17.920	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	00:25:17.935	Custom indicator Span_model EURJPY,M5: removed
+2	00:25:17.935	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	00:25:17.935	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Max_Sign EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Max_Pivot EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Max_Line EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:25:17.935	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	00:25:17.935	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	00:25:17.935	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	00:25:17.935	Custom indicator Span_model GBPUSD,M5: removed
+2	00:25:17.935	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	00:25:17.935	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	00:25:17.935	Custom indicator Max_Sign GBPUSD,M5: removed
+2	00:25:17.935	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Max_Line GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:25:17.951	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	00:25:17.951	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	00:25:17.951	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	00:25:17.951	Custom indicator Span_model GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Max_Sign GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Max_Line GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:25:17.951	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	00:25:17.951	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	00:25:17.951	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	00:25:17.951	Custom indicator Span_model AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator Max_Sign AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator Max_Line AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:25:17.951	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:25:17.967	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:25:17.967	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:25:17.967	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:25:17.967	Custom indicator Economic_indicator EURUSD,H1: removed
+0	00:25:18.060	GemFX MT4 build 950 stopped
+0	00:48:11.965	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	00:48:11.965	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13299 / 16327 Mb, HDD: 143871 / 228383 Mb, GMT+09:00
+0	00:48:11.965	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	00:48:12.298	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	00:48:12.298	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	00:48:12.298	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	00:48:12.329	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	00:48:12.329	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	00:48:12.329	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	00:48:12.329	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	00:48:12.329	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	00:48:12.345	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	00:48:12.345	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	00:48:12.345	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	00:48:12.361	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	00:48:12.361	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	00:48:12.361	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	00:48:12.376	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	00:48:12.564	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	00:48:12.564	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	00:48:12.564	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	00:48:12.595	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	00:48:12.595	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	00:48:12.611	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	00:48:12.611	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	00:48:12.611	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	00:48:12.611	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	00:48:12.611	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	00:48:12.626	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	00:48:12.626	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	00:48:12.626	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	00:48:12.642	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	00:48:12.642	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	00:48:12.830	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	00:48:12.830	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	00:48:12.845	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	00:48:12.876	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	00:48:12.876	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	00:48:12.876	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	00:48:12.876	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	00:48:12.876	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	00:48:12.876	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	00:48:12.892	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	00:48:12.892	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	00:48:12.892	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	00:48:12.908	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	00:48:12.908	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	00:48:12.908	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	00:48:13.111	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	00:48:13.111	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	00:48:13.111	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	00:48:13.142	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	00:48:13.142	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	00:48:13.158	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	00:48:13.158	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	00:48:13.158	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	00:48:13.158	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	00:48:13.158	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	00:48:13.173	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	00:48:13.173	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	00:48:13.189	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	00:48:13.189	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	00:48:13.189	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	00:48:13.392	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	00:48:13.392	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	00:48:13.392	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	00:48:13.439	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	00:48:13.439	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	00:48:13.439	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	00:48:13.439	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	00:48:13.439	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	00:48:13.439	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	00:48:13.455	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	00:48:13.455	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	00:48:13.455	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	00:48:13.470	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	00:48:13.470	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	00:48:13.470	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	00:48:13.658	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	00:48:13.658	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	00:48:13.658	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	00:48:13.689	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	00:48:13.689	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	00:48:13.689	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	00:48:13.689	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	00:48:13.705	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	00:48:13.705	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	00:48:13.705	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	00:48:13.705	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	00:48:13.720	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	00:48:13.720	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	00:48:13.720	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	00:48:13.736	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	00:48:13.908	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	00:48:15.751	'16040': login on GemForex-Live through DC1 (ping: 74.27 ms)
+0	00:48:16.659	'16040': login datacenter on GemForex-Live through DC1 (ping: 74.27 ms)
+0	00:48:16.868	'16040': previous successful authorization performed from 119.242.14.176
+2	00:48:54.861	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	00:48:54.861	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	00:48:54.861	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	00:48:54.861	Custom indicator Span_model USDJPY,M5: removed
+2	00:48:54.861	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	00:48:54.861	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Max_Pivot USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Max_Sign USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Max_Line USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	00:48:54.861	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	00:48:54.861	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	00:48:54.861	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	00:48:54.861	Custom indicator Span_model EURUSD,M5: removed
+2	00:48:54.876	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	00:48:54.876	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Max_Sign EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Max_Pivot EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Max_Line EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	00:48:54.876	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	00:48:54.876	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	00:48:54.876	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	00:48:54.876	Custom indicator Span_model EURJPY,M5: removed
+2	00:48:54.876	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	00:48:54.876	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Max_Sign EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Max_Pivot EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Max_Line EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:48:54.876	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	00:48:54.892	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	00:48:54.892	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	00:48:54.892	Custom indicator Span_model GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Max_Sign GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Max_Line GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:48:54.892	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	00:48:54.892	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	00:48:54.892	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	00:48:54.892	Custom indicator Span_model GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Max_Sign GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Max_Line GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:48:54.892	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	00:48:54.892	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	00:48:54.892	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	00:48:54.908	Custom indicator Span_model AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Max_Sign AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Max_Line AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:48:54.908	Custom indicator Economic_indicator EURUSD,H1: removed
+0	00:48:55.017	GemFX MT4 build 950 stopped
+0	09:45:33.097	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	09:45:33.097	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 14012 / 16327 Mb, HDD: 143884 / 228383 Mb, GMT+09:00
+0	09:45:33.097	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	09:45:33.644	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	09:45:33.644	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	09:45:33.644	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	09:45:33.691	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	09:45:33.691	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	09:45:33.691	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	09:45:33.691	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	09:45:33.691	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	09:45:33.706	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	09:45:33.706	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	09:45:33.706	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	09:45:33.722	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	09:45:33.722	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	09:45:33.738	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	09:45:33.738	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	09:45:33.925	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	09:45:33.925	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	09:45:33.925	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	09:45:33.972	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	09:45:33.972	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	09:45:33.972	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	09:45:33.972	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	09:45:33.972	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	09:45:33.972	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	09:45:33.988	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	09:45:33.988	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	09:45:33.988	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	09:45:34.003	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	09:45:34.003	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	09:45:34.003	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	09:45:34.191	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	09:45:34.191	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	09:45:34.206	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	09:45:34.253	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	09:45:34.253	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	09:45:34.269	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	09:45:34.269	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	09:45:34.269	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	09:45:34.269	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	09:45:34.269	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	09:45:34.284	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	09:45:34.284	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	09:45:34.284	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	09:45:34.300	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	09:45:34.300	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	09:45:34.472	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	09:45:34.472	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	09:45:34.487	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	09:45:34.519	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	09:45:34.534	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	09:45:34.534	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	09:45:34.534	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	09:45:34.534	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	09:45:34.534	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	09:45:34.534	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	09:45:34.550	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	09:45:34.550	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	09:45:34.550	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	09:45:34.566	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	09:45:34.566	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	09:45:34.753	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	09:45:34.753	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	09:45:34.769	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	09:45:34.800	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	09:45:34.800	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	09:45:34.800	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	09:45:34.816	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	09:45:34.816	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	09:45:34.816	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	09:45:34.816	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	09:45:34.831	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	09:45:34.831	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	09:45:34.831	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	09:45:34.847	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	09:45:34.847	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	09:45:35.019	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	09:45:35.019	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	09:45:35.019	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	09:45:35.066	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	09:45:35.066	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	09:45:35.066	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	09:45:35.066	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	09:45:35.081	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	09:45:35.081	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	09:45:35.081	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	09:45:35.097	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	09:45:35.097	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	09:45:35.097	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	09:45:35.112	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	09:45:35.112	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	09:45:35.284	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	09:45:37.131	'16040': login on GemForex-Live through DC1 (ping: 74.27 ms)
+0	09:45:38.065	'16040': login datacenter on GemForex-Live through DC1 (ping: 74.27 ms)
+0	09:45:38.263	'16040': previous successful authorization performed from 119.242.14.176
+0	09:46:00.609	'16040': ping to current access point DC1 is 73.77 ms
+1	10:50:06.516	'16040': ping failed
+1	10:50:06.516	'16040': datacenter connecting failed [6]
+1	10:50:06.516	'16040': connect failed [回線不通！]
+0	10:50:33.112	'16040': login on GemForex-Live through DC1 (ping: n/a)
+0	10:50:33.907	'16040': login datacenter on GemForex-Live through DC1 (ping: n/a)
+0	10:50:34.139	'16040': previous successful authorization performed from 119.242.14.176
+0	10:50:56.970	'16040': ping to current access point DC1 is 79.79 ms
+2	13:18:51.860	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	13:18:51.860	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	13:18:51.860	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	13:18:51.861	Custom indicator Span_model USDJPY,M5: removed
+2	13:18:51.861	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	13:18:51.861	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	13:18:51.861	Custom indicator Max_Pivot USDJPY,M5: removed
+2	13:18:51.861	Custom indicator Max_Sign USDJPY,M5: removed
+2	13:18:51.862	Custom indicator Max_Line USDJPY,M5: removed
+2	13:18:51.862	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:18:51.863	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:18:51.864	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:18:51.864	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:18:51.865	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:18:51.865	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:18:51.867	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	13:18:51.867	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	13:18:51.867	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	13:18:51.868	Custom indicator Span_model EURUSD,M5: removed
+2	13:18:51.868	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	13:18:51.868	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	13:18:51.868	Custom indicator Max_Sign EURUSD,M5: removed
+2	13:18:51.868	Custom indicator Max_Pivot EURUSD,M5: removed
+2	13:18:51.869	Custom indicator Max_Line EURUSD,M5: removed
+2	13:18:51.869	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:18:51.870	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:18:51.870	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:18:51.871	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:18:51.871	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:18:51.872	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:18:51.873	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	13:18:51.873	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	13:18:51.874	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	13:18:51.880	Custom indicator Span_model EURJPY,M5: removed
+2	13:18:51.881	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	13:18:51.881	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	13:18:51.881	Custom indicator Max_Sign EURJPY,M5: removed
+2	13:18:51.881	Custom indicator Max_Pivot EURJPY,M5: removed
+2	13:18:51.881	Custom indicator Max_Line EURJPY,M5: removed
+2	13:18:51.882	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:18:51.882	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:18:51.883	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:18:51.883	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:18:51.884	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:18:51.884	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:18:51.886	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	13:18:51.886	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	13:18:51.886	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	13:18:51.886	Custom indicator Span_model GBPUSD,M5: removed
+2	13:18:51.886	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	13:18:51.886	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	13:18:51.886	Custom indicator Max_Sign GBPUSD,M5: removed
+2	13:18:51.886	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	13:18:51.887	Custom indicator Max_Line GBPUSD,M5: removed
+2	13:18:51.888	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:18:51.888	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:18:51.889	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:18:51.889	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:18:51.890	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:18:51.890	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:18:51.893	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	13:18:51.893	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	13:18:51.893	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	13:18:51.895	Custom indicator Span_model GBPJPY,M5: removed
+2	13:18:51.895	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	13:18:51.895	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	13:18:51.895	Custom indicator Max_Sign GBPJPY,M5: removed
+2	13:18:51.895	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	13:18:51.896	Custom indicator Max_Line GBPJPY,M5: removed
+2	13:18:51.896	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:18:51.897	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:18:51.897	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:18:51.898	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:18:51.898	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:18:51.899	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:18:51.900	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	13:18:51.900	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	13:18:51.900	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	13:18:51.901	Custom indicator Span_model AUDUSD,M15: removed
+2	13:18:51.901	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	13:18:51.901	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	13:18:51.901	Custom indicator Max_Sign AUDUSD,M15: removed
+2	13:18:51.901	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	13:18:51.902	Custom indicator Max_Line AUDUSD,M15: removed
+2	13:18:51.902	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:18:51.903	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:18:51.903	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:18:51.904	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:18:51.905	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:18:51.905	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:18:51.909	Custom indicator Economic_indicator EURUSD,H1: removed
+0	13:18:52.028	GemFX MT4 build 950 stopped
+0	13:18:58.454	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	13:18:58.454	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 10585 / 16327 Mb, HDD: 146594 / 228383 Mb, GMT+09:00
+0	13:18:58.454	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	13:18:58.821	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	13:18:58.823	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	13:18:58.826	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	13:18:58.853	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	13:18:58.855	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	13:18:58.856	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	13:18:58.857	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	13:18:58.859	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	13:18:58.863	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	13:18:58.868	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:18:58.873	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:18:58.879	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:18:58.884	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:18:58.889	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:18:58.894	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:18:59.079	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	13:18:59.080	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	13:18:59.084	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	13:18:59.113	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	13:18:59.114	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	13:18:59.115	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	13:18:59.117	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	13:18:59.118	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	13:18:59.122	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	13:18:59.128	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:18:59.133	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:18:59.138	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:18:59.144	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:18:59.150	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:18:59.156	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:18:59.344	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	13:18:59.346	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	13:18:59.349	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	13:18:59.376	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	13:18:59.377	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	13:18:59.379	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	13:18:59.380	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	13:18:59.381	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	13:18:59.385	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	13:18:59.391	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:18:59.396	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:18:59.401	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:18:59.406	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:18:59.412	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:18:59.417	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:18:59.589	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	13:18:59.591	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	13:18:59.595	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	13:18:59.624	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	13:18:59.626	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	13:18:59.626	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	13:18:59.628	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	13:18:59.629	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	13:18:59.633	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	13:18:59.639	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:18:59.644	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:18:59.649	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:18:59.655	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:18:59.660	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:18:59.665	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:18:59.853	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	13:18:59.854	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	13:18:59.858	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	13:18:59.887	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	13:18:59.888	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	13:18:59.889	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	13:18:59.891	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	13:18:59.892	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	13:18:59.896	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	13:18:59.901	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:18:59.907	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:18:59.912	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:18:59.917	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:18:59.922	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:18:59.928	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:19:00.102	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	13:19:00.104	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	13:19:00.108	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	13:19:00.138	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	13:19:00.139	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	13:19:00.141	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	13:19:00.143	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	13:19:00.144	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	13:19:00.149	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	13:19:00.155	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:19:00.161	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:19:00.167	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:19:00.173	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:19:00.179	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:19:00.185	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:19:00.356	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	13:19:01.909	'16040': login on GemForex-Live through DC1 (ping: 79.79 ms)
+0	13:19:02.883	'16040': login datacenter on GemForex-Live through DC1 (ping: 79.79 ms)
+0	13:19:03.078	'16040': previous successful authorization performed from 119.242.14.176
+2	13:19:23.513	Custom indicator #_wave_cross GBPUSD,H1: loaded successfully
+2	13:19:23.516	Custom indicator #_wave_line GBPUSD,H1: loaded successfully
+0	13:19:25.783	'16040': ping to current access point DC1 is 73.85 ms
+2	13:22:16.828	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	13:22:16.828	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	13:22:16.829	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	13:22:16.830	Custom indicator Span_model USDJPY,M5: removed
+2	13:22:16.830	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	13:22:16.830	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	13:22:16.830	Custom indicator Max_Pivot USDJPY,M5: removed
+2	13:22:16.830	Custom indicator Max_Sign USDJPY,M5: removed
+2	13:22:16.830	Custom indicator Max_Line USDJPY,M5: removed
+2	13:22:16.831	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:22:16.831	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:22:16.832	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:22:16.832	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:22:16.833	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:22:16.833	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	13:22:16.836	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	13:22:16.836	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	13:22:16.836	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	13:22:16.838	Custom indicator Span_model EURUSD,M5: removed
+2	13:22:16.838	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	13:22:16.838	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	13:22:16.838	Custom indicator Max_Sign EURUSD,M5: removed
+2	13:22:16.838	Custom indicator Max_Pivot EURUSD,M5: removed
+2	13:22:16.839	Custom indicator Max_Line EURUSD,M5: removed
+2	13:22:16.839	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:22:16.840	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:22:16.840	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:22:16.841	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:22:16.841	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:22:16.842	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	13:22:16.843	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	13:22:16.843	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	13:22:16.844	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	13:22:16.844	Custom indicator Span_model EURJPY,M5: removed
+2	13:22:16.844	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	13:22:16.844	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	13:22:16.844	Custom indicator Max_Sign EURJPY,M5: removed
+2	13:22:16.844	Custom indicator Max_Pivot EURJPY,M5: removed
+2	13:22:16.845	Custom indicator Max_Line EURJPY,M5: removed
+2	13:22:16.846	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:22:16.846	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:22:16.846	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:22:16.847	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:22:16.848	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:22:16.848	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	13:22:16.850	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	13:22:16.850	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	13:22:16.850	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	13:22:16.851	Custom indicator Span_model GBPUSD,M5: removed
+2	13:22:16.851	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	13:22:16.851	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	13:22:16.851	Custom indicator Max_Sign GBPUSD,M5: removed
+2	13:22:16.851	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	13:22:16.852	Custom indicator Max_Line GBPUSD,M5: removed
+2	13:22:16.853	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:22:16.853	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:22:16.854	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:22:16.854	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:22:16.854	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:22:16.855	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	13:22:16.857	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	13:22:16.857	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	13:22:16.857	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	13:22:16.858	Custom indicator Span_model GBPJPY,M5: removed
+2	13:22:16.858	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	13:22:16.858	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	13:22:16.858	Custom indicator Max_Sign GBPJPY,M5: removed
+2	13:22:16.858	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	13:22:16.859	Custom indicator Max_Line GBPJPY,M5: removed
+2	13:22:16.859	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:22:16.860	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:22:16.860	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:22:16.861	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:22:16.861	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:22:16.862	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	13:22:16.864	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	13:22:16.864	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	13:22:16.864	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	13:22:16.865	Custom indicator Span_model AUDUSD,M15: removed
+2	13:22:16.865	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	13:22:16.865	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	13:22:16.865	Custom indicator Max_Sign AUDUSD,M15: removed
+2	13:22:16.865	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	13:22:16.866	Custom indicator Max_Line AUDUSD,M15: removed
+2	13:22:16.866	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:22:16.867	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:22:16.867	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:22:16.868	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:22:16.868	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:22:16.869	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	13:22:16.870	Custom indicator Economic_indicator EURUSD,H1: removed
+2	13:22:16.873	Custom indicator #_wave_cross GBPUSD,H1: removed
+2	13:22:16.873	Custom indicator #_wave_line GBPUSD,H1: removed
+0	13:22:16.976	GemFX MT4 build 950 stopped
+0	13:22:37.926	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	13:22:37.926	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 10562 / 16327 Mb, HDD: 146593 / 228383 Mb, GMT+09:00
+0	13:22:37.926	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+0	13:22:37.939	Sources recompilation started
+0	13:22:39.126	Sources recompilation finished (4 compiled in 1203 msec)
+2	13:22:39.464	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	13:22:39.466	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	13:22:39.470	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	13:22:39.501	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	13:22:39.502	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	13:22:39.504	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	13:22:39.505	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	13:22:39.507	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	13:22:39.511	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	13:22:39.516	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:22:39.521	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:22:39.527	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:22:39.532	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:22:39.537	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:22:39.543	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	13:22:39.732	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	13:22:39.734	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	13:22:39.738	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	13:22:39.770	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	13:22:39.771	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	13:22:39.773	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	13:22:39.775	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	13:22:39.776	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	13:22:39.780	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	13:22:39.786	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:22:39.791	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:22:39.797	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:22:39.803	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:22:39.809	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:22:39.815	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	13:22:40.020	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	13:22:40.021	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	13:22:40.025	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	13:22:40.056	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	13:22:40.058	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	13:22:40.059	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	13:22:40.060	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	13:22:40.062	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	13:22:40.066	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	13:22:40.071	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:22:40.076	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:22:40.082	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:22:40.087	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:22:40.093	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:22:40.098	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	13:22:40.282	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	13:22:40.283	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	13:22:40.287	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	13:22:40.319	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	13:22:40.320	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	13:22:40.321	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	13:22:40.323	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	13:22:40.325	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	13:22:40.329	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	13:22:40.335	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:22:40.341	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:22:40.347	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:22:40.352	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:22:40.358	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:22:40.364	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	13:22:40.562	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	13:22:40.563	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	13:22:40.567	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	13:22:40.598	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	13:22:40.599	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	13:22:40.601	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	13:22:40.602	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	13:22:40.603	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	13:22:40.607	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	13:22:40.613	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:22:40.618	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:22:40.623	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:22:40.629	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:22:40.634	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:22:40.639	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	13:22:40.817	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	13:22:40.818	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	13:22:40.822	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	13:22:40.856	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	13:22:40.857	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	13:22:40.858	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	13:22:40.860	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	13:22:40.861	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	13:22:40.865	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	13:22:40.870	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:22:40.876	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:22:40.881	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:22:40.886	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:22:40.892	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:22:40.897	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	13:22:41.067	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+2	13:22:41.727	Custom indicator #_wave_cross GBPUSD,H1: loaded successfully
+2	13:22:41.729	Custom indicator #_wave_line GBPUSD,H1: loaded successfully
+0	13:22:42.728	'16040': login on GemForex-Live through DC1 (ping: 73.85 ms)
+0	13:22:43.603	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.85 ms)
+0	13:22:43.804	'16040': previous successful authorization performed from 119.242.14.176
+2	13:22:56.026	Custom indicator #_wave_line GBPUSD,H1: removed
+2	13:23:22.416	Custom indicator Elliott_Wave_Oscillator GBPUSD,H1: loaded successfully
+2	13:24:11.634	Custom indicator FX5_NeelyElliotWave_v1.2 GBPUSD,H1: loaded successfully
+2	13:25:51.998	Custom indicator #_wave_cross GBPUSD,H4: removed
+2	13:25:51.999	Custom indicator FX5_NeelyElliotWave_v1.2 GBPUSD,H4: removed
+2	13:25:51.999	Custom indicator Elliott_Wave_Oscillator GBPUSD,H4: removed
+2	15:26:29.449	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	15:26:29.449	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	15:26:29.450	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	15:26:29.450	Custom indicator Span_model USDJPY,M5: removed
+2	15:26:29.450	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	15:26:29.450	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	15:26:29.451	Custom indicator Max_Pivot USDJPY,M5: removed
+2	15:26:29.451	Custom indicator Max_Sign USDJPY,M5: removed
+2	15:26:29.451	Custom indicator Max_Line USDJPY,M5: removed
+2	15:26:29.451	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	15:26:29.452	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	15:26:29.452	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	15:26:29.453	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	15:26:29.454	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	15:26:29.454	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	15:26:29.456	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	15:26:29.456	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	15:26:29.456	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	15:26:29.458	Custom indicator Span_model EURUSD,M5: removed
+2	15:26:29.458	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	15:26:29.458	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	15:26:29.458	Custom indicator Max_Sign EURUSD,M5: removed
+2	15:26:29.458	Custom indicator Max_Pivot EURUSD,M5: removed
+2	15:26:29.459	Custom indicator Max_Line EURUSD,M5: removed
+2	15:26:29.459	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	15:26:29.460	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	15:26:29.460	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	15:26:29.461	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	15:26:29.461	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	15:26:29.462	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	15:26:29.463	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	15:26:29.463	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	15:26:29.464	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	15:26:29.470	Custom indicator Span_model EURJPY,M15: removed
+2	15:26:29.470	Custom indicator 23Signal_Price-v1 EURJPY,M15: removed
+2	15:26:29.470	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M15: removed
+2	15:26:29.470	Custom indicator Max_Sign EURJPY,M15: removed
+2	15:26:29.470	Custom indicator Max_Pivot EURJPY,M15: removed
+2	15:26:29.470	Custom indicator Max_Line EURJPY,M15: removed
+2	15:26:29.471	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: removed
+2	15:26:29.471	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: removed
+2	15:26:29.472	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: removed
+2	15:26:29.472	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: removed
+2	15:26:29.473	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: removed
+2	15:26:29.473	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: removed
+2	15:26:29.475	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	15:26:29.475	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	15:26:29.475	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	15:26:29.476	Custom indicator Span_model GBPUSD,M5: removed
+2	15:26:29.476	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	15:26:29.476	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	15:26:29.476	Custom indicator Max_Sign GBPUSD,M5: removed
+2	15:26:29.476	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	15:26:29.477	Custom indicator Max_Line GBPUSD,M5: removed
+2	15:26:29.477	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	15:26:29.478	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	15:26:29.478	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	15:26:29.479	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	15:26:29.479	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	15:26:29.480	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	15:26:29.481	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	15:26:29.481	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	15:26:29.482	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	15:26:29.483	Custom indicator Span_model GBPJPY,M5: removed
+2	15:26:29.483	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	15:26:29.483	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	15:26:29.483	Custom indicator Max_Sign GBPJPY,M5: removed
+2	15:26:29.483	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	15:26:29.483	Custom indicator Max_Line GBPJPY,M5: removed
+2	15:26:29.484	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	15:26:29.484	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	15:26:29.485	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	15:26:29.485	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	15:26:29.486	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	15:26:29.486	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	15:26:29.488	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	15:26:29.488	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	15:26:29.488	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	15:26:29.489	Custom indicator Span_model AUDUSD,M15: removed
+2	15:26:29.489	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	15:26:29.489	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	15:26:29.489	Custom indicator Max_Sign AUDUSD,M15: removed
+2	15:26:29.489	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	15:26:29.490	Custom indicator Max_Line AUDUSD,M15: removed
+2	15:26:29.490	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	15:26:29.491	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	15:26:29.491	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	15:26:29.492	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	15:26:29.492	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	15:26:29.493	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	15:26:29.496	Custom indicator Economic_indicator EURUSD,H1: removed
+0	15:26:29.600	GemFX MT4 build 950 stopped
+0	16:09:50.684	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	16:09:50.684	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 10915 / 16327 Mb, HDD: 145915 / 228383 Mb, GMT+09:00
+0	16:09:50.684	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	16:09:51.025	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	16:09:51.026	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	16:09:51.030	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	16:09:51.060	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	16:09:51.061	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	16:09:51.063	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	16:09:51.064	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	16:09:51.065	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	16:09:51.069	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	16:09:51.075	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	16:09:51.080	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	16:09:51.085	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	16:09:51.091	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	16:09:51.096	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	16:09:51.101	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	16:09:51.293	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	16:09:51.295	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	16:09:51.299	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	16:09:51.329	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	16:09:51.330	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	16:09:51.331	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	16:09:51.333	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	16:09:51.334	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	16:09:51.338	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	16:09:51.343	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	16:09:51.348	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	16:09:51.354	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	16:09:51.359	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	16:09:51.364	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	16:09:51.369	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	16:09:51.559	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	16:09:51.561	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	16:09:51.564	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	16:09:51.594	Custom indicator Span_model EURJPY,M15: loaded successfully
+2	16:09:51.595	Custom indicator 23Signal_Price-v1 EURJPY,M15: loaded successfully
+2	16:09:51.597	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M15: loaded successfully
+2	16:09:51.598	Custom indicator Max_Sign EURJPY,M15: loaded successfully
+2	16:09:51.599	Custom indicator Max_Pivot EURJPY,M15: loaded successfully
+2	16:09:51.603	Custom indicator Max_Line EURJPY,M15: loaded successfully
+2	16:09:51.608	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: loaded successfully
+2	16:09:51.614	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: loaded successfully
+2	16:09:51.619	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: loaded successfully
+2	16:09:51.624	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: loaded successfully
+2	16:09:51.630	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: loaded successfully
+2	16:09:51.635	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M15: loaded successfully
+2	16:09:51.804	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	16:09:51.805	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	16:09:51.809	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	16:09:51.845	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	16:09:51.847	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	16:09:51.848	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	16:09:51.849	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	16:09:51.851	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	16:09:51.855	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	16:09:51.860	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	16:09:51.866	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	16:09:51.871	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	16:09:51.877	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	16:09:51.882	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	16:09:51.888	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	16:09:52.081	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	16:09:52.083	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	16:09:52.087	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	16:09:52.122	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	16:09:52.124	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	16:09:52.125	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	16:09:52.126	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	16:09:52.127	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	16:09:52.131	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	16:09:52.137	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	16:09:52.143	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	16:09:52.148	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	16:09:52.154	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	16:09:52.160	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	16:09:52.166	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	16:09:52.344	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	16:09:52.345	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	16:09:52.349	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	16:09:52.384	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	16:09:52.386	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	16:09:52.387	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	16:09:52.388	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	16:09:52.389	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	16:09:52.393	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	16:09:52.399	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	16:09:52.404	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	16:09:52.409	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	16:09:52.414	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	16:09:52.420	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	16:09:52.425	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	16:09:52.596	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	16:09:54.139	'16040': login on GemForex-Live through DC1 (ping: 73.85 ms)
+0	16:09:55.169	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.85 ms)
+0	16:09:55.402	'16040': previous successful authorization performed from 119.242.14.176
+0	16:10:17.978	'16040': ping to current access point DC1 is 73.63 ms
+2	16:10:40.262	Custom indicator Elliott_Wave_Oscillator EURJPY,M15: loaded successfully
+2	16:12:54.868	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	16:12:54.868	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	16:12:54.868	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	16:12:54.870	Custom indicator Span_model USDJPY,M5: removed
+2	16:12:54.870	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	16:12:54.870	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	16:12:54.870	Custom indicator Max_Pivot USDJPY,M5: removed
+2	16:12:54.870	Custom indicator Max_Sign USDJPY,M5: removed
+2	16:12:54.870	Custom indicator Max_Line USDJPY,M5: removed
+2	16:12:54.871	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	16:12:54.871	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	16:12:54.872	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	16:12:54.872	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	16:12:54.873	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	16:12:54.873	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	16:12:54.875	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	16:12:54.875	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	16:12:54.875	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	16:12:54.876	Custom indicator Span_model EURUSD,M5: removed
+2	16:12:54.876	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	16:12:54.876	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	16:12:54.876	Custom indicator Max_Sign EURUSD,M5: removed
+2	16:12:54.876	Custom indicator Max_Pivot EURUSD,M5: removed
+2	16:12:54.877	Custom indicator Max_Line EURUSD,M5: removed
+2	16:12:54.877	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	16:12:54.878	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	16:12:54.878	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	16:12:54.879	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	16:12:54.879	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	16:12:54.880	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	16:12:54.881	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	16:12:54.881	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	16:12:54.882	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	16:12:54.888	Custom indicator Span_model EURJPY,M5: removed
+2	16:12:54.888	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	16:12:54.888	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	16:12:54.888	Custom indicator Max_Sign EURJPY,M5: removed
+2	16:12:54.888	Custom indicator Max_Pivot EURJPY,M5: removed
+2	16:12:54.889	Custom indicator Max_Line EURJPY,M5: removed
+2	16:12:54.890	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	16:12:54.890	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	16:12:54.891	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	16:12:54.891	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	16:12:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	16:12:54.892	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	16:12:54.893	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: removed
+2	16:12:54.894	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	16:12:54.894	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	16:12:54.895	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	16:12:54.896	Custom indicator Span_model GBPUSD,M5: removed
+2	16:12:54.896	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	16:12:54.896	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	16:12:54.896	Custom indicator Max_Sign GBPUSD,M5: removed
+2	16:12:54.896	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	16:12:54.896	Custom indicator Max_Line GBPUSD,M5: removed
+2	16:12:54.897	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	16:12:54.897	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	16:12:54.898	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	16:12:54.898	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	16:12:54.899	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	16:12:54.899	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	16:12:54.901	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	16:12:54.901	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	16:12:54.902	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	16:12:54.902	Custom indicator Span_model GBPJPY,M5: removed
+2	16:12:54.902	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	16:12:54.903	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	16:12:54.903	Custom indicator Max_Sign GBPJPY,M5: removed
+2	16:12:54.903	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	16:12:54.903	Custom indicator Max_Line GBPJPY,M5: removed
+2	16:12:54.904	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	16:12:54.904	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	16:12:54.905	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	16:12:54.905	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	16:12:54.906	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	16:12:54.906	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	16:12:54.908	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	16:12:54.908	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	16:12:54.908	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	16:12:54.909	Custom indicator Span_model AUDUSD,M15: removed
+2	16:12:54.909	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	16:12:54.909	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	16:12:54.909	Custom indicator Max_Sign AUDUSD,M15: removed
+2	16:12:54.909	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	16:12:54.910	Custom indicator Max_Line AUDUSD,M15: removed
+2	16:12:54.910	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	16:12:54.911	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	16:12:54.911	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	16:12:54.912	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	16:12:54.912	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	16:12:54.913	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	16:12:54.916	Custom indicator Economic_indicator EURUSD,H1: removed
+0	16:12:55.026	GemFX MT4 build 950 stopped
+0	17:06:12.715	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	17:06:12.716	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 10986 / 16327 Mb, HDD: 145893 / 228383 Mb, GMT+09:00
+0	17:06:12.716	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	17:06:13.130	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	17:06:13.132	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	17:06:13.136	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	17:06:13.172	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	17:06:13.173	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	17:06:13.175	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	17:06:13.176	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	17:06:13.178	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	17:06:13.182	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	17:06:13.188	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:06:13.194	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:06:13.199	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:06:13.205	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:06:13.210	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:06:13.215	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:06:13.401	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	17:06:13.403	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	17:06:13.407	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	17:06:13.441	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	17:06:13.442	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	17:06:13.443	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	17:06:13.445	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	17:06:13.446	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	17:06:13.450	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	17:06:13.455	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:06:13.460	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:06:13.466	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:06:13.471	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:06:13.476	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:06:13.481	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:06:13.670	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	17:06:13.672	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	17:06:13.676	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	17:06:13.708	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	17:06:13.709	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	17:06:13.710	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	17:06:13.712	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	17:06:13.713	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	17:06:13.717	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	17:06:13.722	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:06:13.727	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:06:13.733	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:06:13.738	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:06:13.743	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:06:13.748	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:06:13.753	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: loaded successfully
+2	17:06:13.934	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	17:06:13.935	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	17:06:13.939	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	17:06:13.977	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	17:06:13.979	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	17:06:13.980	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	17:06:13.981	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	17:06:13.982	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	17:06:13.986	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	17:06:13.992	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:06:13.997	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:06:14.002	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:06:14.007	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:06:14.013	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:06:14.018	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:06:14.212	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	17:06:14.214	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	17:06:14.218	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	17:06:14.256	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	17:06:14.257	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	17:06:14.258	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	17:06:14.260	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	17:06:14.261	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	17:06:14.265	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	17:06:14.270	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:06:14.276	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:06:14.281	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:06:14.286	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:06:14.291	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:06:14.297	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:06:14.475	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	17:06:14.477	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	17:06:14.481	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	17:06:14.518	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	17:06:14.519	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	17:06:14.521	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	17:06:14.522	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	17:06:14.523	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	17:06:14.527	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	17:06:14.532	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:06:14.538	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:06:14.543	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:06:14.548	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:06:14.553	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:06:14.559	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:06:14.730	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	17:06:16.361	'16040': login on GemForex-Live through DC1 (ping: 73.63 ms)
+0	17:06:17.359	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.63 ms)
+0	17:06:17.562	'16040': previous successful authorization performed from 119.242.14.176
+2	17:09:03.015	Custom indicator Elliott_Wave_Oscillator USDJPY,M5: loaded successfully
+2	17:10:02.446	Custom indicator MACD USDJPY,M5: loaded successfully
+2	17:10:22.956	Custom indicator MACD USDJPY,M5: removed
+2	17:13:10.567	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	17:13:10.567	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	17:13:10.568	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	17:13:10.574	Custom indicator Span_model USDJPY,M5: removed
+2	17:13:10.574	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	17:13:10.574	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	17:13:10.574	Custom indicator Max_Pivot USDJPY,M5: removed
+2	17:13:10.574	Custom indicator Max_Sign USDJPY,M5: removed
+2	17:13:10.575	Custom indicator Max_Line USDJPY,M5: removed
+2	17:13:10.575	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:13:10.576	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:13:10.576	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:13:10.577	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:13:10.578	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:13:10.578	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:13:10.578	Custom indicator Elliott_Wave_Oscillator USDJPY,M5: removed
+2	17:13:10.580	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	17:13:10.580	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	17:13:10.580	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	17:13:10.587	Custom indicator Span_model EURUSD,M5: removed
+2	17:13:10.587	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	17:13:10.588	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	17:13:10.588	Custom indicator Max_Sign EURUSD,M5: removed
+2	17:13:10.588	Custom indicator Max_Pivot EURUSD,M5: removed
+2	17:13:10.588	Custom indicator Max_Line EURUSD,M5: removed
+2	17:13:10.589	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:13:10.589	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:13:10.590	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:13:10.590	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:13:10.591	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:13:10.591	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:13:10.592	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	17:13:10.592	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	17:13:10.593	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	17:13:10.599	Custom indicator Span_model EURJPY,M5: removed
+2	17:13:10.599	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	17:13:10.599	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	17:13:10.599	Custom indicator Max_Sign EURJPY,M5: removed
+2	17:13:10.599	Custom indicator Max_Pivot EURJPY,M5: removed
+2	17:13:10.600	Custom indicator Max_Line EURJPY,M5: removed
+2	17:13:10.600	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:13:10.601	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:13:10.601	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:13:10.602	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:13:10.602	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:13:10.603	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:13:10.603	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: removed
+2	17:13:10.605	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	17:13:10.605	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	17:13:10.605	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	17:13:10.606	Custom indicator Span_model GBPUSD,M5: removed
+2	17:13:10.606	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	17:13:10.606	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	17:13:10.606	Custom indicator Max_Sign GBPUSD,M5: removed
+2	17:13:10.606	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	17:13:10.607	Custom indicator Max_Line GBPUSD,M5: removed
+2	17:13:10.607	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:13:10.608	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:13:10.608	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:13:10.609	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:13:10.609	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:13:10.610	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:13:10.612	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	17:13:10.612	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	17:13:10.612	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	17:13:10.613	Custom indicator Span_model GBPJPY,M5: removed
+2	17:13:10.613	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	17:13:10.613	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	17:13:10.613	Custom indicator Max_Sign GBPJPY,M5: removed
+2	17:13:10.613	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	17:13:10.614	Custom indicator Max_Line GBPJPY,M5: removed
+2	17:13:10.614	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:13:10.615	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:13:10.615	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:13:10.616	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:13:10.616	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:13:10.617	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:13:10.618	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	17:13:10.618	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	17:13:10.619	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	17:13:10.620	Custom indicator Span_model AUDUSD,M15: removed
+2	17:13:10.620	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	17:13:10.620	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	17:13:10.620	Custom indicator Max_Sign AUDUSD,M15: removed
+2	17:13:10.620	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	17:13:10.620	Custom indicator Max_Line AUDUSD,M15: removed
+2	17:13:10.621	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:13:10.621	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:13:10.622	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:13:10.622	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:13:10.623	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:13:10.623	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:13:10.627	Custom indicator Economic_indicator EURUSD,H1: removed
+0	17:13:10.726	GemFX MT4 build 950 stopped
+0	17:13:17.503	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	17:13:17.504	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 10871 / 16327 Mb, HDD: 145889 / 228383 Mb, GMT+09:00
+0	17:13:17.504	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	17:13:17.838	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	17:13:17.839	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	17:13:17.843	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	17:13:17.872	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	17:13:17.873	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	17:13:17.875	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	17:13:17.876	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	17:13:17.877	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	17:13:17.881	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	17:13:17.887	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:13:17.892	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:13:17.897	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:13:17.902	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:13:17.908	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:13:17.913	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:13:17.918	Custom indicator Elliott_Wave_Oscillator USDJPY,M5: loaded successfully
+2	17:13:18.109	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	17:13:18.111	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	17:13:18.115	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	17:13:18.151	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	17:13:18.153	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	17:13:18.154	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	17:13:18.155	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	17:13:18.156	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	17:13:18.161	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	17:13:18.166	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:13:18.172	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:13:18.177	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:13:18.182	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:13:18.188	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:13:18.193	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:13:18.385	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	17:13:18.387	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	17:13:18.390	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	17:13:18.424	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	17:13:18.425	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	17:13:18.427	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	17:13:18.428	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	17:13:18.429	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	17:13:18.433	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	17:13:18.438	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:13:18.444	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:13:18.449	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:13:18.454	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:13:18.460	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:13:18.465	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:13:18.470	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: loaded successfully
+2	17:13:18.650	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	17:13:18.651	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	17:13:18.655	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	17:13:18.690	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	17:13:18.691	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	17:13:18.693	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	17:13:18.694	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	17:13:18.695	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	17:13:18.699	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	17:13:18.704	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:13:18.710	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:13:18.715	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:13:18.720	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:13:18.725	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:13:18.731	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:13:18.921	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	17:13:18.923	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	17:13:18.926	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	17:13:18.961	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	17:13:18.962	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	17:13:18.963	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	17:13:18.965	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	17:13:18.966	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	17:13:18.970	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	17:13:18.975	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:13:18.980	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:13:18.986	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:13:18.991	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:13:18.996	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:13:19.001	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:13:19.186	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	17:13:19.187	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	17:13:19.191	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	17:13:19.226	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	17:13:19.228	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	17:13:19.229	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	17:13:19.230	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	17:13:19.232	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	17:13:19.235	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	17:13:19.241	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:13:19.246	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:13:19.251	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:13:19.256	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:13:19.262	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:13:19.267	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:13:19.439	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	17:13:21.041	'16040': login on GemForex-Live through DC1 (ping: 73.63 ms)
+0	17:13:21.924	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.63 ms)
+0	17:13:22.133	'16040': previous successful authorization performed from 119.242.14.176
+0	17:13:44.796	'16040': ping to current access point DC1 is 73.67 ms
+2	17:14:09.318	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	17:14:09.318	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	17:14:09.319	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	17:14:09.330	Custom indicator Span_model USDJPY,M5: removed
+2	17:14:09.330	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: removed
+2	17:14:09.330	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	17:14:09.330	Custom indicator Max_Pivot USDJPY,M5: removed
+2	17:14:09.330	Custom indicator Max_Sign USDJPY,M5: removed
+2	17:14:09.330	Custom indicator Max_Line USDJPY,M5: removed
+2	17:14:09.331	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:14:09.331	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:14:09.332	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:14:09.333	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:14:09.333	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:14:09.334	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:14:09.334	Custom indicator Elliott_Wave_Oscillator USDJPY,M5: removed
+2	17:14:09.335	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	17:14:09.336	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	17:14:09.336	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	17:14:09.342	Custom indicator Span_model EURUSD,M5: removed
+2	17:14:09.342	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	17:14:09.343	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: removed
+2	17:14:09.343	Custom indicator Max_Sign EURUSD,M5: removed
+2	17:14:09.343	Custom indicator Max_Pivot EURUSD,M5: removed
+2	17:14:09.343	Custom indicator Max_Line EURUSD,M5: removed
+2	17:14:09.344	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:14:09.344	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:14:09.345	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:14:09.345	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:14:09.346	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:14:09.346	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: removed
+2	17:14:09.348	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	17:14:09.348	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	17:14:09.349	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	17:14:09.355	Custom indicator Span_model EURJPY,M5: removed
+2	17:14:09.355	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	17:14:09.355	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	17:14:09.355	Custom indicator Max_Sign EURJPY,M5: removed
+2	17:14:09.355	Custom indicator Max_Pivot EURJPY,M5: removed
+2	17:14:09.356	Custom indicator Max_Line EURJPY,M5: removed
+2	17:14:09.356	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:14:09.357	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:14:09.357	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:14:09.358	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:14:09.358	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:14:09.359	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:14:09.359	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: removed
+2	17:14:09.361	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	17:14:09.361	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	17:14:09.361	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	17:14:09.362	Custom indicator Span_model GBPUSD,M5: removed
+2	17:14:09.362	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	17:14:09.362	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	17:14:09.362	Custom indicator Max_Sign GBPUSD,M5: removed
+2	17:14:09.362	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	17:14:09.363	Custom indicator Max_Line GBPUSD,M5: removed
+2	17:14:09.363	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:14:09.364	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:14:09.364	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:14:09.365	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:14:09.366	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:14:09.366	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:14:09.368	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	17:14:09.368	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	17:14:09.368	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	17:14:09.369	Custom indicator Span_model GBPJPY,M5: removed
+2	17:14:09.369	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	17:14:09.370	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	17:14:09.370	Custom indicator Max_Sign GBPJPY,M5: removed
+2	17:14:09.370	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	17:14:09.370	Custom indicator Max_Line GBPJPY,M5: removed
+2	17:14:09.371	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:14:09.371	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:14:09.372	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:14:09.372	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:14:09.373	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:14:09.373	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:14:09.375	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	17:14:09.375	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	17:14:09.376	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	17:14:09.377	Custom indicator Span_model AUDUSD,M15: removed
+2	17:14:09.377	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	17:14:09.377	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	17:14:09.377	Custom indicator Max_Sign AUDUSD,M15: removed
+2	17:14:09.377	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	17:14:09.378	Custom indicator Max_Line AUDUSD,M15: removed
+2	17:14:09.379	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:14:09.379	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:14:09.380	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:14:09.380	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:14:09.381	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:14:09.381	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:14:09.386	Custom indicator Economic_indicator EURUSD,H1: removed
+0	17:14:09.489	GemFX MT4 build 950 stopped
+0	17:14:11.971	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	17:14:11.971	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 10790 / 16327 Mb, HDD: 145887 / 228383 Mb, GMT+09:00
+0	17:14:11.971	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+0	17:14:11.983	Sources recompilation started
+0	17:14:12.970	Sources recompilation finished (1 compiled in 1000 msec)
+2	17:14:13.293	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	17:14:13.295	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	17:14:13.299	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	17:14:13.327	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	17:14:13.328	Custom indicator ___MA☆Angle_45_TAKE USDJPY,M5: loaded successfully
+2	17:14:13.330	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	17:14:13.331	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	17:14:13.332	Custom indicator Max_Sign USDJPY,M5: loaded successfully
+2	17:14:13.336	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	17:14:13.341	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:14:13.347	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:14:13.352	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:14:13.357	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:14:13.362	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:14:13.368	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: loaded successfully
+2	17:14:13.372	Custom indicator Elliott_Wave_Oscillator USDJPY,M5: loaded successfully
+2	17:14:13.566	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	17:14:13.567	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	17:14:13.571	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	17:14:13.607	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	17:14:13.608	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	17:14:13.609	Custom indicator ___MA☆Angle_45_TAKE EURUSD,M5: loaded successfully
+2	17:14:13.611	Custom indicator Max_Sign EURUSD,M5: loaded successfully
+2	17:14:13.612	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	17:14:13.616	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	17:14:13.621	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:14:13.626	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:14:13.631	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:14:13.637	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:14:13.642	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:14:13.647	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,M5: loaded successfully
+2	17:14:13.841	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	17:14:13.842	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	17:14:13.846	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	17:14:13.881	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	17:14:13.882	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	17:14:13.883	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	17:14:13.885	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	17:14:13.886	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	17:14:13.890	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	17:14:13.895	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:14:13.900	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:14:13.906	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:14:13.911	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:14:13.916	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:14:13.921	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	17:14:13.926	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: loaded successfully
+2	17:14:14.108	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	17:14:14.109	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	17:14:14.113	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	17:14:14.151	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	17:14:14.153	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	17:14:14.154	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	17:14:14.156	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	17:14:14.157	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	17:14:14.161	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	17:14:14.167	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:14:14.173	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:14:14.178	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:14:14.183	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:14:14.188	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:14:14.194	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	17:14:14.385	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	17:14:14.387	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	17:14:14.391	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	17:14:14.426	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	17:14:14.428	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	17:14:14.429	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	17:14:14.430	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	17:14:14.431	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	17:14:14.435	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	17:14:14.441	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:14:14.446	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:14:14.451	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:14:14.456	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:14:14.461	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:14:14.467	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	17:14:14.647	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	17:14:14.648	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	17:14:14.652	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	17:14:14.688	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	17:14:14.690	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	17:14:14.691	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	17:14:14.692	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	17:14:14.694	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	17:14:14.698	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	17:14:14.703	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:14:14.708	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:14:14.713	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:14:14.719	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:14:14.724	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:14:14.729	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	17:14:14.901	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	17:14:16.450	'16040': login on GemForex-Live through DC1 (ping: 73.67 ms)
+0	17:14:17.444	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.67 ms)
+0	17:14:17.676	'16040': previous successful authorization performed from 119.242.14.176
+2	17:14:34.277	Custom indicator Elliott_Wave_Oscillator-Arrows2 USDJPY,M5: loaded successfully
+2	17:16:24.036	Custom indicator EWPro USDJPY,M5: loaded successfully
+2	17:22:48.116	Custom indicator Max_Sign USDJPY,M5: removed
+2	17:22:50.913	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:22:52.399	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:22:54.835	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:22:56.499	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:22:58.085	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:23:00.703	Custom indicator Otyame117_MTF_spanmodel_Bar USDJPY,M5: removed
+2	17:29:36.121	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	17:29:36.121	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	17:29:36.122	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	17:29:36.132	Custom indicator Span_model USDJPY,Daily: removed
+2	17:29:36.132	Custom indicator ___MA☆Angle_45_TAKE USDJPY,Daily: removed
+2	17:29:36.132	Custom indicator 23Signal_Price-v1 USDJPY,Daily: removed
+2	17:29:36.132	Custom indicator Max_Pivot USDJPY,Daily: removed
+2	17:29:36.132	Custom indicator Max_Line USDJPY,Daily: removed
+2	17:29:36.133	Custom indicator Elliott_Wave_Oscillator-Arrows2 USDJPY,Daily: removed
+2	17:29:36.133	Custom indicator EWPro USDJPY,Daily: removed
+2	17:29:36.133	Custom indicator Elliott_Wave_Oscillator USDJPY,Daily: removed
+2	17:29:36.135	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	17:29:36.135	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	17:29:36.135	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	17:29:36.143	Custom indicator Span_model EURUSD,Daily: removed
+2	17:29:36.143	Custom indicator 23Signal_Price-v1 EURUSD,Daily: removed
+2	17:29:36.143	Custom indicator ___MA☆Angle_45_TAKE EURUSD,Daily: removed
+2	17:29:36.143	Custom indicator Max_Sign EURUSD,Daily: removed
+2	17:29:36.143	Custom indicator Max_Pivot EURUSD,Daily: removed
+2	17:29:36.144	Custom indicator Max_Line EURUSD,Daily: removed
+2	17:29:36.145	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	17:29:36.145	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	17:29:36.146	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	17:29:36.146	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	17:29:36.147	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	17:29:36.147	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	17:29:36.149	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	17:29:36.149	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	17:29:36.150	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	17:29:36.157	Custom indicator Span_model EURJPY,M5: removed
+2	17:29:36.157	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	17:29:36.157	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: removed
+2	17:29:36.157	Custom indicator Max_Sign EURJPY,M5: removed
+2	17:29:36.157	Custom indicator Max_Pivot EURJPY,M5: removed
+2	17:29:36.157	Custom indicator Max_Line EURJPY,M5: removed
+2	17:29:36.158	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:29:36.158	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:29:36.159	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:29:36.160	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:29:36.160	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:29:36.161	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	17:29:36.161	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: removed
+2	17:29:36.163	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	17:29:36.163	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	17:29:36.164	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	17:29:36.165	Custom indicator Span_model GBPUSD,M5: removed
+2	17:29:36.165	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	17:29:36.165	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: removed
+2	17:29:36.165	Custom indicator Max_Sign GBPUSD,M5: removed
+2	17:29:36.165	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	17:29:36.166	Custom indicator Max_Line GBPUSD,M5: removed
+2	17:29:36.166	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:29:36.167	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:29:36.167	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:29:36.168	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:29:36.168	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:29:36.169	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	17:29:36.171	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	17:29:36.171	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	17:29:36.171	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	17:29:36.172	Custom indicator Span_model GBPJPY,M5: removed
+2	17:29:36.172	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	17:29:36.173	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: removed
+2	17:29:36.173	Custom indicator Max_Sign GBPJPY,M5: removed
+2	17:29:36.173	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	17:29:36.173	Custom indicator Max_Line GBPJPY,M5: removed
+2	17:29:36.174	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:29:36.174	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:29:36.175	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:29:36.175	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:29:36.176	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:29:36.176	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	17:29:36.178	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	17:29:36.178	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	17:29:36.179	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	17:29:36.180	Custom indicator Span_model AUDUSD,M15: removed
+2	17:29:36.180	Custom indicator 23Signal_Price-v1 AUDUSD,M15: removed
+2	17:29:36.180	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: removed
+2	17:29:36.180	Custom indicator Max_Sign AUDUSD,M15: removed
+2	17:29:36.180	Custom indicator Max_Pivot AUDUSD,M15: removed
+2	17:29:36.180	Custom indicator Max_Line AUDUSD,M15: removed
+2	17:29:36.181	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:29:36.181	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:29:36.182	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:29:36.182	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:29:36.183	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:29:36.183	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	17:29:36.186	Custom indicator Economic_indicator EURUSD,H1: removed
+0	17:29:36.292	GemFX MT4 build 950 stopped
+0	20:58:37.285	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	20:58:37.285	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 11108 / 16327 Mb, HDD: 145860 / 228383 Mb, GMT+09:00
+0	20:58:37.285	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	20:58:37.736	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	20:58:37.736	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	20:58:37.736	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	20:58:37.783	Custom indicator Span_model USDJPY,Daily: loaded successfully
+2	20:58:37.783	Custom indicator ___MA☆Angle_45_TAKE USDJPY,Daily: loaded successfully
+2	20:58:37.783	Custom indicator 23Signal_Price-v1 USDJPY,Daily: loaded successfully
+2	20:58:37.783	Custom indicator Max_Pivot USDJPY,Daily: loaded successfully
+2	20:58:37.783	Custom indicator Max_Line USDJPY,Daily: loaded successfully
+2	20:58:37.798	Custom indicator Elliott_Wave_Oscillator-Arrows2 USDJPY,Daily: loaded successfully
+2	20:58:37.798	Custom indicator EWPro USDJPY,Daily: loaded successfully
+2	20:58:37.798	Custom indicator Elliott_Wave_Oscillator USDJPY,Daily: loaded successfully
+2	20:58:37.861	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	20:58:37.861	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	20:58:37.877	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	20:58:37.908	Custom indicator Span_model EURUSD,Daily: loaded successfully
+2	20:58:37.908	Custom indicator 23Signal_Price-v1 EURUSD,Daily: loaded successfully
+2	20:58:37.908	Custom indicator ___MA☆Angle_45_TAKE EURUSD,Daily: loaded successfully
+2	20:58:37.923	Custom indicator Max_Sign EURUSD,Daily: loaded successfully
+2	20:58:37.923	Custom indicator Max_Pivot EURUSD,Daily: loaded successfully
+2	20:58:37.923	Custom indicator Max_Line EURUSD,Daily: loaded successfully
+2	20:58:37.923	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: loaded successfully
+2	20:58:37.939	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: loaded successfully
+2	20:58:37.939	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: loaded successfully
+2	20:58:37.939	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: loaded successfully
+2	20:58:37.955	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: loaded successfully
+2	20:58:37.955	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: loaded successfully
+2	20:58:38.158	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	20:58:38.158	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	20:58:38.158	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	20:58:38.205	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	20:58:38.205	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	20:58:38.205	Custom indicator ___MA☆Angle_45_TAKE EURJPY,M5: loaded successfully
+2	20:58:38.205	Custom indicator Max_Sign EURJPY,M5: loaded successfully
+2	20:58:38.205	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	20:58:38.205	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	20:58:38.220	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	20:58:38.220	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	20:58:38.220	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	20:58:38.236	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	20:58:38.236	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	20:58:38.236	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: loaded successfully
+2	20:58:38.252	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: loaded successfully
+2	20:58:38.439	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	20:58:38.439	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	20:58:38.455	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	20:58:38.502	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	20:58:38.502	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	20:58:38.502	Custom indicator ___MA☆Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	20:58:38.502	Custom indicator Max_Sign GBPUSD,M5: loaded successfully
+2	20:58:38.502	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	20:58:38.502	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	20:58:38.517	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	20:58:38.517	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	20:58:38.517	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	20:58:38.533	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	20:58:38.533	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	20:58:38.548	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: loaded successfully
+2	20:58:38.783	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	20:58:38.798	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	20:58:38.798	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	20:58:38.855	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	20:58:38.855	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	20:58:38.859	Custom indicator ___MA☆Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	20:58:38.859	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	20:58:38.859	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	20:58:38.863	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	20:58:38.871	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	20:58:38.875	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	20:58:38.883	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	20:58:38.887	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	20:58:38.895	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	20:58:38.903	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: loaded successfully
+2	20:58:39.128	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	20:58:39.128	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	20:58:39.132	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	20:58:39.180	Custom indicator Span_model AUDUSD,M15: loaded successfully
+2	20:58:39.180	Custom indicator 23Signal_Price-v1 AUDUSD,M15: loaded successfully
+2	20:58:39.184	Custom indicator ___MA☆Angle_45_TAKE AUDUSD,M15: loaded successfully
+2	20:58:39.184	Custom indicator Max_Sign AUDUSD,M15: loaded successfully
+2	20:58:39.184	Custom indicator Max_Pivot AUDUSD,M15: loaded successfully
+2	20:58:39.188	Custom indicator Max_Line AUDUSD,M15: loaded successfully
+2	20:58:39.196	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	20:58:39.200	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	20:58:39.208	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	20:58:39.212	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	20:58:39.216	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	20:58:39.224	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: loaded successfully
+2	20:58:39.416	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	20:58:41.243	'16040': login on GemForex-Live through DC1 (ping: 73.67 ms)
+0	20:58:42.232	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.67 ms)
+0	20:58:42.470	'16040': previous successful authorization performed from 119.242.14.176
+0	20:59:04.693	'16040': ping to current access point DC1 is 81.62 ms
+1	22:48:02.503	'16040': ping failed
+0	22:48:02.962	'16040': login on GemForex-Live through DC1 (ping: 81.62 ms)
+0	22:48:03.708	'16040': login datacenter on GemForex-Live through DC1 (ping: 81.62 ms)
+0	22:48:03.923	'16040': previous successful authorization performed from 119.242.14.176
+0	22:48:26.923	'16040': ping to current access point DC1 is 74.20 ms
+1	23:23:07.941	'16040': ping failed
+1	23:23:07.945	'16040': connect failed [回線不通！]
+0	23:23:34.532	'16040': login on GemForex-Live through DC1 (ping: n/a)
+0	23:23:35.344	'16040': login datacenter on GemForex-Live through DC1 (ping: n/a)
+0	23:23:35.580	'16040': previous successful authorization performed from 119.242.14.176
+0	23:23:58.908	'16040': ping to current access point DC1 is 73.79 ms
+1	23:54:17.933	'16040': ping failed
+1	23:54:17.948	'16040': ping failed
+1	23:54:17.948	'16040': datacenter connecting failed [6]
+1	23:54:17.948	'16040': connect failed [回線不通！]
+0	23:54:44.540	'16040': login on GemForex-Live through DC1 (ping: n/a)
+0	23:54:45.368	'16040': login datacenter on GemForex-Live through DC1 (ping: n/a)
+0	23:54:45.583	'16040': previous successful authorization performed from 119.242.14.176
+0	23:55:08.982	'16040': ping to current access point DC1 is 80.43 ms

@@ -1,0 +1,812 @@
+0	00:03:34.742	'16040': close order #1576793 buy 0.50 EURUSD at 1.14382 sl: 1.14285 tp: 0.00000 at price 1.14390
+0	00:03:34.901	'16040': order #1576793 buy 0.50 EURUSD at 1.14382 sl: 1.14285 tp: 0.00000 closed at price 1.14390
+2	00:05:10.769	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: removed
+2	00:05:10.769	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	00:05:10.769	Custom indicator chikou_span_attacker USDJPY,M5: removed
+2	00:05:10.769	Custom indicator PZ_Harmonic USDJPY,M5: removed
+2	00:05:10.769	Custom indicator Otyame013_RCI_Signal USDJPY,M5: removed
+2	00:05:10.769	Custom indicator Span_model USDJPY,M5: removed
+2	00:05:10.769	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M5: removed
+2	00:05:10.769	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	00:05:10.769	Custom indicator Max_Pivot USDJPY,M5: removed
+2	00:05:10.769	Custom indicator Max_Line USDJPY,M5: removed
+2	00:05:10.773	Custom indicator Trade Reviewer_14806E92 USDJPY,M5: removed
+2	00:05:10.773	Custom indicator Otyame013_RCI_Signal USDJPY,M5: removed
+2	00:05:10.773	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	00:05:10.773	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	00:05:10.773	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	00:05:10.773	Custom indicator PZ_Harmonic EURUSD,H1: removed
+2	00:05:10.777	Custom indicator Otyame013_RCI_Signal EURUSD,H1: removed
+2	00:05:10.781	Custom indicator Span_model EURUSD,M5: removed
+2	00:05:10.785	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	00:05:10.785	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: removed
+2	00:05:10.785	Custom indicator Max_Pivot EURUSD,M5: removed
+2	00:05:10.785	Custom indicator Max_Line EURUSD,M5: removed
+2	00:05:10.785	Custom indicator Otyame013_RCI_Signal EURUSD,M5: removed
+2	00:05:10.785	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	00:05:10.785	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	00:05:10.785	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	00:05:10.785	Custom indicator PZ_Harmonic EURJPY,H1: removed
+2	00:05:10.789	Custom indicator Otyame013_RCI_Signal EURJPY,H1: removed
+2	00:05:10.793	Custom indicator Span_model EURJPY,M1: removed
+2	00:05:10.793	Custom indicator 23Signal_Price-v1 EURJPY,M1: removed
+2	00:05:10.793	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,M1: removed
+2	00:05:10.793	Custom indicator Max_Pivot EURJPY,M1: removed
+2	00:05:10.793	Custom indicator Max_Line EURJPY,M1: removed
+2	00:05:10.793	Custom indicator EWPro EURJPY,M1: removed
+2	00:05:10.793	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M1: removed
+2	00:05:10.793	Custom indicator Otyame013_RCI_Signal EURJPY,M1: removed
+2	00:05:10.797	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	00:05:10.797	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	00:05:10.797	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	00:05:10.797	Custom indicator PZ_Harmonic GBPUSD,H1: removed
+2	00:05:10.797	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: removed
+2	00:05:10.805	Custom indicator Span_model GBPUSD,M5: removed
+2	00:05:10.805	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	00:05:10.805	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: removed
+2	00:05:10.805	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	00:05:10.805	Custom indicator Max_Line GBPUSD,M5: removed
+2	00:05:10.805	Custom indicator EWPro GBPUSD,M5: removed
+2	00:05:10.805	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: removed
+2	00:05:10.805	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: removed
+2	00:05:10.809	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	00:05:10.809	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	00:05:10.809	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	00:05:10.809	Custom indicator PZ_Harmonic GBPJPY,H1: removed
+2	00:05:10.809	Custom indicator RSI GBPJPY,H1: removed
+2	00:05:10.809	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: removed
+2	00:05:10.809	Custom indicator Span_model GBPJPY,M5: removed
+2	00:05:10.809	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	00:05:10.809	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: removed
+2	00:05:10.809	Custom indicator Max_Sign GBPJPY,M5: removed
+2	00:05:10.809	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	00:05:10.813	Custom indicator Max_Line GBPJPY,M5: removed
+2	00:05:10.813	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: removed
+2	00:05:10.813	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	00:05:10.813	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	00:05:10.813	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	00:05:10.817	Custom indicator Span_model AUDUSD,M5: removed
+2	00:05:10.817	Custom indicator 23Signal_Price-v1 AUDUSD,M5: removed
+2	00:05:10.817	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: removed
+2	00:05:10.817	Custom indicator Max_Pivot AUDUSD,M5: removed
+2	00:05:10.817	Custom indicator Max_Line AUDUSD,M5: removed
+2	00:05:10.817	Custom indicator EWPro AUDUSD,M5: removed
+2	00:05:10.817	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: removed
+2	00:05:10.817	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: removed
+2	00:05:10.821	Custom indicator Economic_indicator USDCHF,H1: removed
+0	00:05:11.725	GemFX MT4 build 950 stopped
+0	06:53:33.854	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	06:53:33.854	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13522 / 16327 Mb, HDD: 144731 / 228383 Mb, GMT+09:00
+0	06:53:33.854	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	06:53:35.307	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: loaded successfully
+2	06:53:35.307	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	06:53:35.307	Custom indicator chikou_span_attacker USDJPY,M5: loaded successfully
+2	06:53:35.323	Custom indicator PZ_Harmonic USDJPY,M5: loaded successfully
+2	06:53:35.323	Custom indicator Otyame013_RCI_Signal USDJPY,M5: loaded successfully
+2	06:53:35.698	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	06:53:35.698	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M5: loaded successfully
+2	06:53:35.698	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	06:53:35.698	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	06:53:35.698	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	06:53:35.714	Custom indicator Trade Reviewer_14806E92 USDJPY,M5: loaded successfully
+2	06:53:35.714	Custom indicator Otyame013_RCI_Signal USDJPY,M5: loaded successfully
+2	06:53:36.307	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	06:53:36.307	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	06:53:36.323	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	06:53:36.323	Custom indicator PZ_Harmonic EURUSD,H1: loaded successfully
+2	06:53:36.323	Custom indicator Otyame013_RCI_Signal EURUSD,H1: loaded successfully
+2	06:53:36.495	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	06:53:36.495	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	06:53:36.510	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: loaded successfully
+2	06:53:36.510	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	06:53:36.510	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	06:53:36.510	Custom indicator Otyame013_RCI_Signal EURUSD,M5: loaded successfully
+2	06:53:36.870	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	06:53:36.870	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	06:53:36.870	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	06:53:36.870	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	06:53:36.885	Custom indicator Otyame013_RCI_Signal EURJPY,H1: loaded successfully
+2	06:53:37.057	Custom indicator Span_model EURJPY,M1: loaded successfully
+2	06:53:37.057	Custom indicator 23Signal_Price-v1 EURJPY,M1: loaded successfully
+2	06:53:37.057	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,M1: loaded successfully
+2	06:53:37.057	Custom indicator Max_Pivot EURJPY,M1: loaded successfully
+2	06:53:37.057	Custom indicator Max_Line EURJPY,M1: loaded successfully
+2	06:53:37.073	Custom indicator EWPro EURJPY,M1: loaded successfully
+2	06:53:37.073	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M1: loaded successfully
+2	06:53:37.073	Custom indicator Otyame013_RCI_Signal EURJPY,M1: loaded successfully
+2	06:53:38.807	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	06:53:38.807	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	06:53:38.807	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	06:53:38.823	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	06:53:38.823	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: loaded successfully
+2	06:53:39.010	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	06:53:39.010	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	06:53:39.010	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: loaded successfully
+2	06:53:39.010	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	06:53:39.010	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	06:53:39.026	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	06:53:39.026	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	06:53:39.026	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: loaded successfully
+2	06:53:39.495	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	06:53:39.495	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	06:53:39.495	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	06:53:39.495	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	06:53:39.511	Custom indicator RSI GBPJPY,H1: loaded successfully
+2	06:53:39.511	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: loaded successfully
+2	06:53:39.714	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	06:53:39.714	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	06:53:39.714	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: loaded successfully
+2	06:53:39.729	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	06:53:39.729	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	06:53:39.729	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	06:53:39.729	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: loaded successfully
+2	06:53:40.089	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	06:53:40.089	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	06:53:40.089	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	06:53:40.167	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	06:53:40.167	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	06:53:40.182	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: loaded successfully
+2	06:53:40.182	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	06:53:40.182	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	06:53:40.182	Custom indicator EWPro AUDUSD,M5: loaded successfully
+2	06:53:40.182	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: loaded successfully
+2	06:53:40.198	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: loaded successfully
+2	06:53:40.386	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	06:53:43.026	'16040': login on GemForex-Live through DC1 (ping: 73.76 ms)
+0	06:53:43.995	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.76 ms)
+0	06:53:44.196	'16040': previous successful authorization performed from 119.242.14.176
+0	06:54:18.779	'16040': ping to current access point DC1 is 73.75 ms
+0	09:08:58.999	'16040': instant order buy 0.20 USDJPY at 108.097 sl: 0.000 tp: 0.000
+0	09:08:59.128	'16040': order was opened : #1579298 buy 0.20 USDJPY at 108.097 sl: 0.000 tp: 0.000
+0	09:10:57.553	'16040': close order #1579298 buy 0.20 USDJPY at 108.097 sl: 0.000 tp: 0.000 at price 108.125
+0	09:10:57.690	'16040': order #1579298 buy 0.20 USDJPY at 108.097 sl: 0.000 tp: 0.000 closed at price 108.125
+0	09:19:34.939	'16040': instant order sell 0.20 USDJPY at 108.164 sl: 0.000 tp: 0.000
+0	09:19:35.078	'16040': order was opened : #1579439 sell 0.20 USDJPY at 108.164 sl: 0.000 tp: 0.000
+1	09:19:41.266	'16040': modification of order #1579439 sell 0.20 USDJPY at 108.164 sl: 0.000 tp: 0.000 -> sl: 108.186 tp: 0.000 failed [Invalid S/L or T/P]
+0	09:19:44.711	'16040': modify order #1579439 sell 0.20 USDJPY at 108.164 sl: 0.000 tp: 0.000 -> sl: 108.215 tp: 0.000
+0	09:19:44.888	'16040': order #1579439 sell 0.20 USDJPY at 108.164 was modified -> sl: 108.215 tp: 0.000
+0	09:30:44.547	'16040': order #1579439 sell 0.20 USDJPY at 108.164 closed due stop-loss at price 108.215
+0	09:31:10.991	'16040': instant order buy 0.20 USDJPY at 108.244 sl: 0.000 tp: 0.000
+0	09:31:11.131	'16040': order was opened : #1579536 buy 0.20 USDJPY at 108.244 sl: 0.000 tp: 0.000
+0	09:31:15.465	'16040': modify order #1579536 buy 0.20 USDJPY at 108.244 sl: 0.000 tp: 0.000 -> sl: 108.201 tp: 0.000
+0	09:31:15.622	'16040': order #1579536 buy 0.20 USDJPY at 108.244 was modified -> sl: 108.201 tp: 0.000
+0	09:31:18.180	'16040': modify order #1579536 buy 0.20 USDJPY at 108.244 sl: 108.201 tp: 0.000 -> sl: 108.184 tp: 0.000
+0	09:31:18.336	'16040': order #1579536 buy 0.20 USDJPY at 108.244 was modified -> sl: 108.184 tp: 0.000
+0	09:39:22.994	'16040': order #1579536 buy 0.20 USDJPY at 108.244 closed due stop-loss at price 108.184
+0	09:55:24.612	'16040': instant order sell 0.50 USDJPY at 108.041 sl: 0.000 tp: 0.000
+0	09:55:24.741	'16040': order was opened : #1579813 sell 0.50 USDJPY at 108.041 sl: 0.000 tp: 0.000
+1	09:55:33.005	'16040': modification of order #1579813 sell 0.50 USDJPY at 108.041 sl: 0.000 tp: 0.000 -> sl: 108.045 tp: 0.000 failed [Invalid S/L or T/P]
+0	09:55:36.302	'16040': modify order #1579813 sell 0.50 USDJPY at 108.041 sl: 0.000 tp: 0.000 -> sl: 108.178 tp: 0.000
+0	09:55:36.440	'16040': order #1579813 sell 0.50 USDJPY at 108.041 was modified -> sl: 108.178 tp: 0.000
+0	09:55:39.857	'16040': modify order #1579813 sell 0.50 USDJPY at 108.041 sl: 108.178 tp: 0.000 -> sl: 108.156 tp: 0.000
+0	09:55:40.031	'16040': order #1579813 sell 0.50 USDJPY at 108.041 was modified -> sl: 108.156 tp: 0.000
+0	09:56:46.362	'16040': modify order #1579813 sell 0.50 USDJPY at 108.041 sl: 108.156 tp: 0.000 -> sl: 108.058 tp: 0.000
+0	09:56:46.516	'16040': order #1579813 sell 0.50 USDJPY at 108.041 was modified -> sl: 108.058 tp: 0.000
+0	09:57:01.844	'16040': modify order #1579813 sell 0.50 USDJPY at 108.041 sl: 108.058 tp: 0.000 -> sl: 108.042 tp: 0.000
+0	09:57:02.007	'16040': order #1579813 sell 0.50 USDJPY at 108.041 was modified -> sl: 108.042 tp: 0.000
+0	09:59:34.701	'16040': order #1579813 sell 0.50 USDJPY at 108.041 closed due stop-loss at price 108.042
+0	10:07:35.857	'16040': instant order sell 0.50 USDJPY at 107.941 sl: 0.000 tp: 0.000
+0	10:07:35.997	'16040': order was opened : #1580164 sell 0.50 USDJPY at 107.941 sl: 0.000 tp: 0.000
+1	10:07:43.961	'16040': modification of order #1580164 sell 0.50 USDJPY at 107.941 sl: 0.000 tp: 0.000 -> sl: 107.952 tp: 0.000 failed [Invalid S/L or T/P]
+0	10:07:49.451	'16040': modify order #1580164 sell 0.50 USDJPY at 107.941 sl: 0.000 tp: 0.000 -> sl: 108.013 tp: 0.000
+0	10:07:49.600	'16040': order #1580164 sell 0.50 USDJPY at 107.941 was modified -> sl: 108.013 tp: 0.000
+0	10:18:26.636	'16040': order #1580164 sell 0.50 USDJPY at 107.941 closed due stop-loss at price 108.013
+0	10:19:22.080	'16040': instant order buy 0.50 USDJPY at 108.028 sl: 0.000 tp: 0.000
+0	10:19:22.266	'16040': order was opened : #1580272 buy 0.50 USDJPY at 108.028 sl: 0.000 tp: 0.000
+1	10:19:28.378	'16040': modification of order #1580272 buy 0.50 USDJPY at 108.028 sl: 0.000 tp: 0.000 -> sl: 108.004 tp: 0.000 failed [Invalid S/L or T/P]
+0	10:19:30.320	'16040': modify order #1580272 buy 0.50 USDJPY at 108.028 sl: 0.000 tp: 0.000 -> sl: 107.982 tp: 0.000
+0	10:19:30.462	'16040': order #1580272 buy 0.50 USDJPY at 108.028 was modified -> sl: 107.982 tp: 0.000
+0	10:21:51.025	'16040': close order #1580272 buy 0.50 USDJPY at 108.028 sl: 107.982 tp: 0.000 at price 108.035
+0	10:21:51.153	'16040': order #1580272 buy 0.50 USDJPY at 108.028 sl: 107.982 tp: 0.000 closed at price 108.035
+0	10:56:56.175	'16040': instant order buy 0.50 GBPJPY at 153.976 sl: 0.000 tp: 0.000
+0	10:56:56.302	'16040': order was opened : #1580632 buy 0.50 GBPJPY at 153.976 sl: 0.000 tp: 0.000
+0	10:57:10.457	'16040': modify order #1580632 buy 0.50 GBPJPY at 153.976 sl: 0.000 tp: 0.000 -> sl: 153.805 tp: 0.000
+0	10:57:10.638	'16040': order #1580632 buy 0.50 GBPJPY at 153.976 was modified -> sl: 153.805 tp: 0.000
+0	11:14:24.850	'16040': close order #1580632 buy 0.50 GBPJPY at 153.976 sl: 153.805 tp: 0.000 at price 153.990
+0	11:14:24.988	'16040': order #1580632 buy 0.50 GBPJPY at 153.976 sl: 153.805 tp: 0.000 closed at price 153.990
+0	11:19:54.336	'16040': instant order sell 0.50 GBPJPY at 153.856 sl: 0.000 tp: 0.000
+0	11:19:54.494	'16040': order was opened : #1580737 sell 0.50 GBPJPY at 153.856 sl: 0.000 tp: 0.000
+0	14:48:38.388	'16040': close order #1580737 sell 0.50 GBPJPY at 153.856 sl: 0.000 tp: 0.000 at price 154.280
+0	14:48:38.534	'16040': order #1580737 sell 0.50 GBPJPY at 153.856 sl: 0.000 tp: 0.000 closed at price 154.280
+0	14:48:56.490	'16040': instant order buy 0.50 USDJPY at 108.333 sl: 0.000 tp: 0.000
+0	14:48:56.613	'16040': order was opened : #1581776 buy 0.50 USDJPY at 108.333 sl: 0.000 tp: 0.000
+0	14:54:24.120	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 0.000 tp: 0.000 -> sl: 108.326 tp: 0.000
+0	14:54:24.278	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.326 tp: 0.000
+0	14:54:29.244	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.326 tp: 0.000 -> sl: 108.310 tp: 0.000
+0	14:54:29.395	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.310 tp: 0.000
+1	15:00:30.311	'16040': modification of order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.310 tp: 0.000 -> sl: 108.311 tp: 0.000 failed [Invalid S/L or T/P]
+0	15:00:36.232	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.310 tp: 0.000 -> sl: 108.297 tp: 0.000
+0	15:00:36.410	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.297 tp: 0.000
+0	15:02:41.295	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.297 tp: 0.000 -> sl: 108.236 tp: 0.000
+0	15:02:41.467	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.236 tp: 0.000
+0	15:03:34.993	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.236 tp: 0.000 -> sl: 108.224 tp: 0.000
+0	15:03:35.141	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.224 tp: 0.000
+0	15:03:38.947	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.224 tp: 0.000 -> sl: 108.204 tp: 0.000
+0	15:03:39.072	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.204 tp: 0.000
+0	15:05:11.322	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.204 tp: 0.000 -> sl: 108.113 tp: 0.000
+0	15:05:11.486	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.113 tp: 0.000
+0	15:05:44.541	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.113 tp: 0.000 -> sl: 108.086 tp: 0.000
+0	15:05:44.699	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.086 tp: 0.000
+0	15:19:41.387	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.086 tp: 0.000 -> sl: 108.205 tp: 0.000
+0	15:19:41.535	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.205 tp: 0.000
+0	15:47:55.825	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.205 tp: 0.000 -> sl: 108.317 tp: 0.000
+0	15:47:56.004	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.317 tp: 0.000
+0	15:56:05.615	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.317 tp: 0.000 -> sl: 108.314 tp: 0.000
+0	15:56:05.769	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.314 tp: 0.000
+0	15:56:07.388	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.314 tp: 0.000 -> sl: 108.297 tp: 0.000
+0	15:56:07.532	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.297 tp: 0.000
+0	16:01:41.271	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.297 tp: 0.000 -> sl: 108.264 tp: 0.000
+0	16:01:41.436	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.264 tp: 0.000
+0	16:01:54.525	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.264 tp: 0.000 -> sl: 108.261 tp: 0.000
+0	16:01:54.712	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.261 tp: 0.000
+1	16:04:40.011	'16040': modification of order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.261 tp: 0.000 -> sl: 108.253 tp: 0.000 failed [Invalid S/L or T/P]
+0	16:04:43.215	'16040': modify order #1581776 buy 0.50 USDJPY at 108.333 sl: 108.261 tp: 0.000 -> sl: 108.226 tp: 0.000
+0	16:04:43.349	'16040': order #1581776 buy 0.50 USDJPY at 108.333 was modified -> sl: 108.226 tp: 0.000
+0	16:12:48.823	'16040': order #1581776 buy 0.50 USDJPY at 108.333 closed due stop-loss at price 108.226
+0	16:15:18.986	'16040': instant order sell 0.50 USDJPY at 108.208 sl: 0.000 tp: 0.000
+0	16:15:19.161	'16040': order was opened : #1583161 sell 0.50 USDJPY at 108.208 sl: 0.000 tp: 0.000
+0	16:15:26.807	'16040': modify order #1583161 sell 0.50 USDJPY at 108.208 sl: 0.000 tp: 0.000 -> sl: 108.281 tp: 0.000
+0	16:15:26.961	'16040': order #1583161 sell 0.50 USDJPY at 108.208 was modified -> sl: 108.281 tp: 0.000
+0	16:18:40.558	'16040': modify order #1583161 sell 0.50 USDJPY at 108.208 sl: 108.281 tp: 0.000 -> sl: 108.281 tp: 108.086
+0	16:18:40.714	'16040': order #1583161 sell 0.50 USDJPY at 108.208 was modified -> sl: 108.281 tp: 108.086
+0	16:51:35.951	'16040': modify order #1583161 sell 0.50 USDJPY at 108.208 sl: 108.281 tp: 108.086 -> sl: 108.232 tp: 108.086
+0	16:51:36.112	'16040': order #1583161 sell 0.50 USDJPY at 108.208 was modified -> sl: 108.232 tp: 108.086
+0	16:52:05.589	'16040': modify order #1583161 sell 0.50 USDJPY at 108.208 sl: 108.232 tp: 108.086 -> sl: 108.232 tp: 107.932
+0	16:52:05.750	'16040': order #1583161 sell 0.50 USDJPY at 108.208 was modified -> sl: 108.232 tp: 107.932
+0	17:47:53.083	'16040': close order #1583161 sell 0.50 USDJPY at 108.208 sl: 108.232 tp: 107.932 at price 108.185
+0	17:47:53.235	'16040': order #1583161 sell 0.50 USDJPY at 108.208 sl: 108.232 tp: 107.932 closed at price 108.185
+0	18:03:25.577	System to be shutdown, request for close GemFX MT4
+0	18:03:26.376	GemFX MT4 build 950 stopped because system shutdown
+0	19:33:55.949	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	19:33:55.949	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13657 / 16327 Mb, HDD: 144434 / 228383 Mb, GMT+09:00
+0	19:33:55.949	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	19:33:57.417	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	19:33:57.417	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	19:33:57.433	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	19:33:57.433	Custom indicator PZ_Harmonic USDJPY,H1: loaded successfully
+2	19:33:57.433	Custom indicator Otyame013_RCI_Signal USDJPY,H1: loaded successfully
+2	19:33:57.636	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	19:33:57.636	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M5: loaded successfully
+2	19:33:57.636	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	19:33:57.652	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	19:33:57.652	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	19:33:57.652	Custom indicator Trade Reviewer_14806E92 USDJPY,M5: loaded successfully
+2	19:33:57.667	Custom indicator Otyame013_RCI_Signal USDJPY,M5: loaded successfully
+2	19:33:58.514	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	19:33:58.514	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	19:33:58.514	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	19:33:58.530	Custom indicator PZ_Harmonic EURUSD,H1: loaded successfully
+2	19:33:58.530	Custom indicator Otyame013_RCI_Signal EURUSD,H1: loaded successfully
+2	19:33:58.702	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	19:33:58.702	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	19:33:58.702	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: loaded successfully
+2	19:33:58.717	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	19:33:58.717	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	19:33:58.717	Custom indicator Otyame013_RCI_Signal EURUSD,M5: loaded successfully
+2	19:33:59.108	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	19:33:59.108	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	19:33:59.108	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	19:33:59.108	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	19:33:59.124	Custom indicator Otyame013_RCI_Signal EURJPY,H1: loaded successfully
+2	19:33:59.327	Custom indicator Span_model EURJPY,M1: loaded successfully
+2	19:33:59.327	Custom indicator 23Signal_Price-v1 EURJPY,M1: loaded successfully
+2	19:33:59.327	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,M1: loaded successfully
+2	19:33:59.327	Custom indicator Max_Pivot EURJPY,M1: loaded successfully
+2	19:33:59.327	Custom indicator Max_Line EURJPY,M1: loaded successfully
+2	19:33:59.327	Custom indicator EWPro EURJPY,M1: loaded successfully
+2	19:33:59.342	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M1: loaded successfully
+2	19:33:59.342	Custom indicator Otyame013_RCI_Signal EURJPY,M1: loaded successfully
+2	19:34:01.202	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	19:34:01.218	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	19:34:01.218	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	19:34:01.218	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	19:34:01.218	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: loaded successfully
+2	19:34:01.405	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	19:34:01.405	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	19:34:01.405	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: loaded successfully
+2	19:34:01.405	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	19:34:01.421	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	19:34:01.421	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	19:34:01.421	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	19:34:01.421	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: loaded successfully
+2	19:34:01.905	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	19:34:01.921	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	19:34:01.921	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	19:34:01.921	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	19:34:01.921	Custom indicator RSI GBPJPY,H1: loaded successfully
+2	19:34:01.936	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: loaded successfully
+2	19:34:02.139	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	19:34:02.139	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	19:34:02.139	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: loaded successfully
+2	19:34:02.139	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	19:34:02.139	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	19:34:02.139	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	19:34:02.155	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: loaded successfully
+2	19:34:02.514	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	19:34:02.514	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	19:34:02.530	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	19:34:02.593	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	19:34:02.593	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	19:34:02.593	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: loaded successfully
+2	19:34:02.593	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	19:34:02.608	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	19:34:02.608	Custom indicator EWPro AUDUSD,M5: loaded successfully
+2	19:34:02.608	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: loaded successfully
+2	19:34:02.608	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: loaded successfully
+2	19:34:02.811	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	19:34:05.461	'16040': login on GemForex-Live through DC1 (ping: 73.75 ms)
+0	19:34:06.431	'16040': login datacenter on GemForex-Live through DC1 (ping: 73.75 ms)
+0	19:34:06.641	'16040': previous successful authorization performed from 119.242.14.176
+0	19:34:49.104	'16040': ping to current access point DC1 is 72.80 ms
+2	20:42:20.926	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	20:42:20.926	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	20:42:20.927	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	20:42:20.927	Custom indicator PZ_Harmonic USDJPY,H1: removed
+2	20:42:20.927	Custom indicator Otyame013_RCI_Signal USDJPY,H1: removed
+2	20:42:20.928	Custom indicator Span_model USDJPY,M5: removed
+2	20:42:20.928	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M5: removed
+2	20:42:20.928	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	20:42:20.928	Custom indicator Max_Pivot USDJPY,M5: removed
+2	20:42:20.929	Custom indicator Max_Line USDJPY,M5: removed
+2	20:42:20.929	Custom indicator Trade Reviewer_14806E92 USDJPY,M5: removed
+2	20:42:20.930	Custom indicator Otyame013_RCI_Signal USDJPY,M5: removed
+2	20:42:20.938	Custom indicator Otyame005_Super_Bollinger EURUSD,Daily: removed
+2	20:42:20.938	Custom indicator 23Signal_Price-v1 EURUSD,Daily: removed
+2	20:42:20.938	Custom indicator chikou_span_attacker EURUSD,Daily: removed
+2	20:42:20.938	Custom indicator PZ_Harmonic EURUSD,Daily: removed
+2	20:42:20.939	Custom indicator Otyame013_RCI_Signal EURUSD,Daily: removed
+2	20:42:20.946	Custom indicator Span_model EURUSD,M5: removed
+2	20:42:20.946	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	20:42:20.946	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: removed
+2	20:42:20.946	Custom indicator Max_Pivot EURUSD,M5: removed
+2	20:42:20.947	Custom indicator Max_Line EURUSD,M5: removed
+2	20:42:20.948	Custom indicator Otyame013_RCI_Signal EURUSD,M5: removed
+2	20:42:20.950	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	20:42:20.950	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	20:42:20.950	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	20:42:20.950	Custom indicator PZ_Harmonic EURJPY,H1: removed
+2	20:42:20.951	Custom indicator Otyame013_RCI_Signal EURJPY,H1: removed
+2	20:42:20.952	Custom indicator Span_model EURJPY,Daily: removed
+2	20:42:20.952	Custom indicator 23Signal_Price-v1 EURJPY,Daily: removed
+2	20:42:20.952	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,Daily: removed
+2	20:42:20.952	Custom indicator Max_Pivot EURJPY,Daily: removed
+2	20:42:20.953	Custom indicator Max_Line EURJPY,Daily: removed
+2	20:42:20.953	Custom indicator EWPro EURJPY,Daily: removed
+2	20:42:20.953	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,Daily: removed
+2	20:42:20.954	Custom indicator Otyame013_RCI_Signal EURJPY,Daily: removed
+2	20:42:20.956	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	20:42:20.956	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	20:42:20.956	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	20:42:20.956	Custom indicator PZ_Harmonic GBPUSD,H1: removed
+2	20:42:20.957	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: removed
+2	20:42:20.962	Custom indicator Span_model GBPUSD,M5: removed
+2	20:42:20.962	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	20:42:20.963	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: removed
+2	20:42:20.963	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	20:42:20.963	Custom indicator Max_Line GBPUSD,M5: removed
+2	20:42:20.963	Custom indicator EWPro GBPUSD,M5: removed
+2	20:42:20.964	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: removed
+2	20:42:20.965	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: removed
+2	20:42:20.966	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	20:42:20.966	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	20:42:20.967	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	20:42:20.967	Custom indicator PZ_Harmonic GBPJPY,H1: removed
+2	20:42:20.967	Custom indicator RSI GBPJPY,H1: removed
+2	20:42:20.968	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: removed
+2	20:42:20.969	Custom indicator Span_model GBPJPY,M5: removed
+2	20:42:20.969	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	20:42:20.969	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: removed
+2	20:42:20.969	Custom indicator Max_Sign GBPJPY,M5: removed
+2	20:42:20.969	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	20:42:20.969	Custom indicator Max_Line GBPJPY,M5: removed
+2	20:42:20.970	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: removed
+2	20:42:20.971	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	20:42:20.971	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	20:42:20.972	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	20:42:20.972	Custom indicator Span_model AUDUSD,M5: removed
+2	20:42:20.972	Custom indicator 23Signal_Price-v1 AUDUSD,M5: removed
+2	20:42:20.972	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: removed
+2	20:42:20.973	Custom indicator Max_Pivot AUDUSD,M5: removed
+2	20:42:20.973	Custom indicator Max_Line AUDUSD,M5: removed
+2	20:42:20.973	Custom indicator EWPro AUDUSD,M5: removed
+2	20:42:20.974	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: removed
+2	20:42:20.974	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: removed
+2	20:42:20.978	Custom indicator Economic_indicator USDCHF,H1: removed
+0	20:42:21.729	GemFX MT4 build 950 stopped
+0	20:42:37.425	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	20:42:37.425	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 10281 / 16327 Mb, HDD: 144392 / 228383 Mb, GMT+09:00
+0	20:42:37.425	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	20:42:37.809	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	20:42:37.810	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	20:42:37.814	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	20:42:37.817	Custom indicator PZ_Harmonic USDJPY,H1: loaded successfully
+2	20:42:37.823	Custom indicator Otyame013_RCI_Signal USDJPY,H1: loaded successfully
+2	20:42:37.960	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	20:42:37.961	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M5: loaded successfully
+2	20:42:37.963	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	20:42:37.964	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	20:42:37.968	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	20:42:37.975	Custom indicator Trade Reviewer_14806E92 USDJPY,M5: loaded successfully
+2	20:42:37.980	Custom indicator Otyame013_RCI_Signal USDJPY,M5: loaded successfully
+2	20:42:38.565	Custom indicator Otyame005_Super_Bollinger EURUSD,Daily: loaded successfully
+2	20:42:38.566	Custom indicator 23Signal_Price-v1 EURUSD,Daily: loaded successfully
+2	20:42:38.570	Custom indicator chikou_span_attacker EURUSD,Daily: loaded successfully
+2	20:42:38.573	Custom indicator PZ_Harmonic EURUSD,Daily: loaded successfully
+2	20:42:38.579	Custom indicator Otyame013_RCI_Signal EURUSD,Daily: loaded successfully
+2	20:42:38.703	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	20:42:38.704	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	20:42:38.705	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: loaded successfully
+2	20:42:38.707	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	20:42:38.710	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	20:42:38.716	Custom indicator Otyame013_RCI_Signal EURUSD,M5: loaded successfully
+2	20:42:39.086	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	20:42:39.087	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	20:42:39.091	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	20:42:39.094	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	20:42:39.100	Custom indicator Otyame013_RCI_Signal EURJPY,H1: loaded successfully
+2	20:42:39.239	Custom indicator Span_model EURJPY,Daily: loaded successfully
+2	20:42:39.241	Custom indicator 23Signal_Price-v1 EURJPY,Daily: loaded successfully
+2	20:42:39.242	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,Daily: loaded successfully
+2	20:42:39.243	Custom indicator Max_Pivot EURJPY,Daily: loaded successfully
+2	20:42:39.247	Custom indicator Max_Line EURJPY,Daily: loaded successfully
+2	20:42:39.249	Custom indicator EWPro EURJPY,Daily: loaded successfully
+2	20:42:39.254	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,Daily: loaded successfully
+2	20:42:39.260	Custom indicator Otyame013_RCI_Signal EURJPY,Daily: loaded successfully
+2	20:42:39.411	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	20:42:39.412	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	20:42:39.416	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	20:42:39.419	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	20:42:39.425	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: loaded successfully
+2	20:42:39.579	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	20:42:39.580	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	20:42:39.581	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: loaded successfully
+2	20:42:39.583	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	20:42:39.587	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	20:42:39.589	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	20:42:39.594	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	20:42:39.600	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: loaded successfully
+2	20:42:40.071	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	20:42:40.072	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	20:42:40.076	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	20:42:40.079	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	20:42:40.085	Custom indicator RSI GBPJPY,H1: loaded successfully
+2	20:42:40.090	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: loaded successfully
+2	20:42:40.236	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	20:42:40.237	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	20:42:40.239	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: loaded successfully
+2	20:42:40.240	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	20:42:40.241	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	20:42:40.245	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	20:42:40.250	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: loaded successfully
+2	20:42:40.618	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	20:42:40.619	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	20:42:40.623	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	20:42:40.665	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	20:42:40.667	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	20:42:40.668	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: loaded successfully
+2	20:42:40.669	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	20:42:40.673	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	20:42:40.675	Custom indicator EWPro AUDUSD,M5: loaded successfully
+2	20:42:40.681	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: loaded successfully
+2	20:42:40.686	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: loaded successfully
+2	20:42:40.881	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	20:42:42.377	'16040': login on GemForex-Live through DC1 (ping: 72.80 ms)
+0	20:42:43.330	'16040': login datacenter on GemForex-Live through DC1 (ping: 72.80 ms)
+0	20:42:43.558	'16040': previous successful authorization performed from 119.242.14.176
+0	20:43:11.811	'16040': ping to current access point DC1 is 74.23 ms
+2	20:43:37.141	Script ChgTF-All EURUSD,Daily: loaded successfully
+2	20:43:42.898	Script ChgTF-All EURUSD,Daily: removed
+2	20:45:55.094	Custom indicator PZ_Harmonic USDJPY,M5: removed
+2	20:46:35.217	Custom indicator PZ_Harmonic USDJPY,M5: loaded successfully
+2	20:46:52.553	Custom indicator AutoHarmonic_201604 USDJPY,M5: loaded successfully
+2	20:48:24.000	Custom indicator AutoHarmonic_201604 EURUSD,M5: loaded successfully
+2	20:50:22.102	Custom indicator AutoHarmonic_201604 EURJPY,M5: loaded successfully
+0	20:57:35.436	'16040': instant order buy 0.30 GBPJPY at 155.089 sl: 0.000 tp: 0.000
+0	20:57:35.603	'16040': order was opened : #1586340 buy 0.30 GBPJPY at 155.089 sl: 0.000 tp: 0.000
+0	20:57:52.451	'16040': modify order #1586340 buy 0.30 GBPJPY at 155.089 sl: 0.000 tp: 0.000 -> sl: 154.293 tp: 0.000
+0	20:57:52.638	'16040': order #1586340 buy 0.30 GBPJPY at 155.089 was modified -> sl: 154.293 tp: 0.000
+0	20:57:59.004	'16040': modify order #1586340 buy 0.30 GBPJPY at 155.089 sl: 154.293 tp: 0.000 -> sl: 154.293 tp: 155.736
+0	20:57:59.162	'16040': order #1586340 buy 0.30 GBPJPY at 155.089 was modified -> sl: 154.293 tp: 155.736
+0	21:00:03.240	'16040': modify order #1586340 buy 0.30 GBPJPY at 155.089 sl: 154.293 tp: 155.736 -> sl: 154.716 tp: 155.736
+0	21:00:03.383	'16040': order #1586340 buy 0.30 GBPJPY at 155.089 was modified -> sl: 154.716 tp: 155.736
+0	21:09:51.508	'16040': order #1586340 buy 0.30 GBPJPY at 155.089 closed due stop-loss at price 154.716
+0	21:10:42.635	'16040': instant order buy 0.30 GBPJPY at 154.792 sl: 0.000 tp: 0.000
+0	21:10:42.807	'16040': order was opened : #1586463 buy 0.30 GBPJPY at 154.792 sl: 0.000 tp: 0.000
+0	21:11:09.887	'16040': modify order #1586463 buy 0.30 GBPJPY at 154.792 sl: 0.000 tp: 0.000 -> sl: 154.492 tp: 0.000
+0	21:11:10.007	'16040': order #1586463 buy 0.30 GBPJPY at 154.792 was modified -> sl: 154.492 tp: 0.000
+0	21:13:37.601	'16040': close order #1586463 buy 0.30 GBPJPY at 154.792 sl: 154.492 tp: 0.000 at price 154.603
+0	21:13:37.739	'16040': order #1586463 buy 0.30 GBPJPY at 154.792 sl: 154.492 tp: 0.000 closed at price 154.603
+0	21:14:19.773	'16040': instant order sell 0.30 GBPUSD at 1.42725 sl: 0.00000 tp: 0.00000
+0	21:14:19.939	'16040': order was opened : #1586518 sell 0.30 GBPUSD at 1.42725 sl: 0.00000 tp: 0.00000
+1	21:15:03.628	'16040': modification of order #1586518 sell 0.30 GBPUSD at 1.42725 sl: 0.00000 tp: 0.00000 -> sl: 1.42782 tp: 0.00000 failed [Invalid S/L or T/P]
+1	21:15:07.349	'16040': modification of order #1586518 sell 0.30 GBPUSD at 1.42725 sl: 0.00000 tp: 0.00000 -> sl: 1.42785 tp: 0.00000 failed [Invalid S/L or T/P]
+0	21:15:10.104	'16040': modify order #1586518 sell 0.30 GBPUSD at 1.42725 sl: 0.00000 tp: 0.00000 -> sl: 1.42822 tp: 0.00000
+0	21:15:10.279	'16040': order #1586518 sell 0.30 GBPUSD at 1.42725 was modified -> sl: 1.42822 tp: 0.00000
+0	21:15:19.330	'16040': modify order #1586518 sell 0.30 GBPUSD at 1.42725 sl: 1.42822 tp: 0.00000 -> sl: 1.42895 tp: 0.00000
+0	21:15:19.520	'16040': order #1586518 sell 0.30 GBPUSD at 1.42725 was modified -> sl: 1.42895 tp: 0.00000
+0	21:17:25.923	'16040': instant order sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000
+0	21:17:26.117	'16040': order was opened : #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000
+0	21:25:51.821	'16040': modify order #1586518 sell 0.30 GBPUSD at 1.42725 sl: 1.42895 tp: 0.00000 -> sl: 1.42747 tp: 0.00000
+0	21:25:51.977	'16040': order #1586518 sell 0.30 GBPUSD at 1.42725 was modified -> sl: 1.42747 tp: 0.00000
+1	21:25:54.596	'16040': modification of order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.42772 failed [Invalid S/L or T/P]
+1	21:25:56.458	'16040': modification of order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.42751 failed [Invalid S/L or T/P]
+1	21:25:58.952	'16040': modification of order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.42757 failed [Invalid S/L or T/P]
+1	21:26:01.913	'16040': modification of order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.42757 failed [Invalid S/L or T/P]
+1	21:26:04.181	'16040': modification of order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.42764 failed [Invalid S/L or T/P]
+1	21:26:11.275	'16040': modification of order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.42751 failed [Invalid S/L or T/P]
+2	21:28:53.108	Script 3_Close_All GBPUSD,M5: loaded successfully
+0	21:28:53.109	'16040': close order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 at price 1.42680
+0	21:28:53.264	'16040': order #1586570 sell 0.30 GBPUSD at 1.42797 sl: 0.00000 tp: 0.00000 closed at price 1.42680
+0	21:28:53.264	'16040': close order #1586518 sell 0.30 GBPUSD at 1.42725 sl: 1.42747 tp: 0.00000 at price 1.42680
+0	21:28:53.421	'16040': order #1586518 sell 0.30 GBPUSD at 1.42725 sl: 1.42747 tp: 0.00000 closed at price 1.42680
+2	21:28:53.421	Script 3_Close_All GBPUSD,M5: removed
+2	21:30:14.143	Custom indicator AutoHarmonic_201604 GBPUSD,H1: loaded successfully
+2	21:30:26.967	Custom indicator AutoHarmonic_201604 GBPJPY,H1: loaded successfully
+2	21:31:03.812	Custom indicator AutoHarmonic_201604 AUDUSD,H1: loaded successfully
+2	21:31:53.240	Custom indicator PZ_Harmonic AUDUSD,H1: loaded successfully
+0	22:22:32.529	System to be shutdown, request for close GemFX MT4
+0	22:22:33.250	GemFX MT4 build 950 stopped because system shutdown
+0	22:48:13.626	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	22:48:13.626	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 12863 / 16327 Mb, HDD: 144626 / 228383 Mb, GMT+09:00
+0	22:48:13.626	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	22:48:14.985	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: loaded successfully
+2	22:48:14.985	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	22:48:14.985	Custom indicator chikou_span_attacker USDJPY,M5: loaded successfully
+2	22:48:15.001	Custom indicator PZ_Harmonic USDJPY,M5: loaded successfully
+2	22:48:15.001	Custom indicator AutoHarmonic_201604 USDJPY,M5: loaded successfully
+2	22:48:15.001	Custom indicator Otyame013_RCI_Signal USDJPY,M5: loaded successfully
+2	22:48:15.440	Custom indicator Span_model USDJPY,M15: loaded successfully
+2	22:48:15.441	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M15: loaded successfully
+2	22:48:15.442	Custom indicator 23Signal_Price-v1 USDJPY,M15: loaded successfully
+2	22:48:15.443	Custom indicator Max_Pivot USDJPY,M15: loaded successfully
+2	22:48:15.447	Custom indicator Max_Line USDJPY,M15: loaded successfully
+2	22:48:15.455	Custom indicator Trade Reviewer_14806E92 USDJPY,M15: loaded successfully
+2	22:48:15.460	Custom indicator Otyame013_RCI_Signal USDJPY,M15: loaded successfully
+2	22:48:16.006	Custom indicator Otyame005_Super_Bollinger EURUSD,M5: loaded successfully
+2	22:48:16.007	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	22:48:16.012	Custom indicator chikou_span_attacker EURUSD,M5: loaded successfully
+2	22:48:16.016	Custom indicator PZ_Harmonic EURUSD,M5: loaded successfully
+2	22:48:16.021	Custom indicator AutoHarmonic_201604 EURUSD,M5: loaded successfully
+2	22:48:16.027	Custom indicator Otyame013_RCI_Signal EURUSD,M5: loaded successfully
+2	22:48:16.423	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	22:48:16.423	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	22:48:16.423	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: loaded successfully
+2	22:48:16.423	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	22:48:16.423	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	22:48:16.438	Custom indicator Otyame013_RCI_Signal EURUSD,M5: loaded successfully
+2	22:48:16.829	Custom indicator Otyame005_Super_Bollinger EURJPY,M5: loaded successfully
+2	22:48:16.829	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	22:48:16.829	Custom indicator chikou_span_attacker EURJPY,M5: loaded successfully
+2	22:48:16.829	Custom indicator PZ_Harmonic EURJPY,M5: loaded successfully
+2	22:48:16.845	Custom indicator AutoHarmonic_201604 EURJPY,M5: loaded successfully
+2	22:48:16.845	Custom indicator Otyame013_RCI_Signal EURJPY,M5: loaded successfully
+2	22:48:17.235	Custom indicator Span_model EURJPY,Daily: loaded successfully
+2	22:48:17.235	Custom indicator 23Signal_Price-v1 EURJPY,Daily: loaded successfully
+2	22:48:17.235	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,Daily: loaded successfully
+2	22:48:17.235	Custom indicator Max_Pivot EURJPY,Daily: loaded successfully
+2	22:48:17.235	Custom indicator Max_Line EURJPY,Daily: loaded successfully
+2	22:48:17.235	Custom indicator EWPro EURJPY,Daily: loaded successfully
+2	22:48:17.251	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,Daily: loaded successfully
+2	22:48:17.251	Custom indicator Otyame013_RCI_Signal EURJPY,Daily: loaded successfully
+2	22:48:17.423	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	22:48:17.423	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	22:48:17.423	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	22:48:17.423	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	22:48:17.438	Custom indicator AutoHarmonic_201604 GBPUSD,H1: loaded successfully
+2	22:48:17.438	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: loaded successfully
+2	22:48:17.641	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	22:48:17.641	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	22:48:17.657	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: loaded successfully
+2	22:48:17.657	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	22:48:17.657	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	22:48:17.657	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	22:48:17.657	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	22:48:17.673	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: loaded successfully
+2	22:48:18.178	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	22:48:18.180	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	22:48:18.184	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	22:48:18.187	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	22:48:18.193	Custom indicator AutoHarmonic_201604 GBPJPY,H1: loaded successfully
+2	22:48:18.199	Custom indicator RSI GBPJPY,H1: loaded successfully
+2	22:48:18.206	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: loaded successfully
+2	22:48:18.456	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	22:48:18.458	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	22:48:18.459	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: loaded successfully
+2	22:48:18.460	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	22:48:18.462	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	22:48:18.466	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	22:48:18.471	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: loaded successfully
+2	22:48:18.855	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	22:48:18.856	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	22:48:18.861	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	22:48:18.865	Custom indicator AutoHarmonic_201604 AUDUSD,H1: loaded successfully
+2	22:48:18.868	Custom indicator PZ_Harmonic AUDUSD,H1: loaded successfully
+2	22:48:18.974	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	22:48:18.975	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	22:48:18.976	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: loaded successfully
+2	22:48:18.977	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	22:48:18.981	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	22:48:18.983	Custom indicator EWPro AUDUSD,M5: loaded successfully
+2	22:48:18.988	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: loaded successfully
+2	22:48:18.993	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: loaded successfully
+2	22:48:19.198	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	22:48:20.893	'16040': login on GemForex-Live through DC1 (ping: 74.23 ms)
+0	22:48:21.862	'16040': login datacenter on GemForex-Live through DC1 (ping: 74.23 ms)
+0	22:48:22.087	'16040': previous successful authorization performed from 119.242.14.176
+0	22:48:53.920	'16040': ping to current access point DC1 is 80.72 ms
+0	23:43:21.188	'16040': instant order buy 0.30 EURUSD at 1.13703 sl: 0.00000 tp: 0.00000
+0	23:43:21.374	'16040': order was opened : #1588690 buy 0.30 EURUSD at 1.13703 sl: 0.00000 tp: 0.00000
+0	23:43:29.793	'16040': modify order #1588690 buy 0.30 EURUSD at 1.13703 sl: 0.00000 tp: 0.00000 -> sl: 1.13445 tp: 0.00000
+0	23:43:29.947	'16040': order #1588690 buy 0.30 EURUSD at 1.13703 was modified -> sl: 1.13445 tp: 0.00000
+0	23:43:40.570	'16040': modify order #1588690 buy 0.30 EURUSD at 1.13703 sl: 1.13445 tp: 0.00000 -> sl: 1.13445 tp: 1.14001
+0	23:43:40.728	'16040': order #1588690 buy 0.30 EURUSD at 1.13703 was modified -> sl: 1.13445 tp: 1.14001
+2	23:58:25.987	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	23:58:25.987	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	23:58:25.987	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	23:58:25.987	Custom indicator PZ_Harmonic USDJPY,H1: removed
+2	23:58:25.988	Custom indicator AutoHarmonic_201604 USDJPY,H1: removed
+2	23:58:25.988	Custom indicator Otyame013_RCI_Signal USDJPY,H1: removed
+2	23:58:25.992	Custom indicator Span_model USDJPY,M5: removed
+2	23:58:25.992	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M5: removed
+2	23:58:25.992	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	23:58:25.992	Custom indicator Max_Pivot USDJPY,M5: removed
+2	23:58:25.992	Custom indicator Max_Line USDJPY,M5: removed
+2	23:58:25.993	Custom indicator Trade Reviewer_14806E92 USDJPY,M5: removed
+2	23:58:25.994	Custom indicator Otyame013_RCI_Signal USDJPY,M5: removed
+2	23:58:25.995	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	23:58:25.995	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	23:58:25.996	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	23:58:25.996	Custom indicator PZ_Harmonic EURUSD,H1: removed
+2	23:58:25.996	Custom indicator AutoHarmonic_201604 EURUSD,H1: removed
+2	23:58:25.997	Custom indicator Otyame013_RCI_Signal EURUSD,H1: removed
+2	23:58:26.004	Custom indicator Span_model EURUSD,M5: removed
+2	23:58:26.004	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	23:58:26.004	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: removed
+2	23:58:26.004	Custom indicator Max_Pivot EURUSD,M5: removed
+2	23:58:26.005	Custom indicator Max_Line EURUSD,M5: removed
+2	23:58:26.006	Custom indicator Otyame013_RCI_Signal EURUSD,M5: removed
+2	23:58:26.007	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	23:58:26.007	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	23:58:26.008	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	23:58:26.008	Custom indicator PZ_Harmonic EURJPY,H1: removed
+2	23:58:26.009	Custom indicator AutoHarmonic_201604 EURJPY,H1: removed
+2	23:58:26.010	Custom indicator Otyame013_RCI_Signal EURJPY,H1: removed
+2	23:58:26.016	Custom indicator Span_model EURJPY,M5: removed
+2	23:58:26.016	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	23:58:26.016	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,M5: removed
+2	23:58:26.016	Custom indicator Max_Pivot EURJPY,M5: removed
+2	23:58:26.017	Custom indicator Max_Line EURJPY,M5: removed
+2	23:58:26.017	Custom indicator EWPro EURJPY,M5: removed
+2	23:58:26.017	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M5: removed
+2	23:58:26.018	Custom indicator Otyame013_RCI_Signal EURJPY,M5: removed
+2	23:58:26.019	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	23:58:26.019	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	23:58:26.020	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	23:58:26.020	Custom indicator PZ_Harmonic GBPUSD,H1: removed
+2	23:58:26.020	Custom indicator AutoHarmonic_201604 GBPUSD,H1: removed
+2	23:58:26.021	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: removed
+2	23:58:26.026	Custom indicator Span_model GBPUSD,M5: removed
+2	23:58:26.026	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	23:58:26.026	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: removed
+2	23:58:26.027	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	23:58:26.027	Custom indicator Max_Line GBPUSD,M5: removed
+2	23:58:26.027	Custom indicator EWPro GBPUSD,M5: removed
+2	23:58:26.028	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: removed
+2	23:58:26.028	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: removed
+2	23:58:26.029	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	23:58:26.029	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	23:58:26.030	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	23:58:26.030	Custom indicator PZ_Harmonic GBPJPY,H1: removed
+2	23:58:26.031	Custom indicator AutoHarmonic_201604 GBPJPY,H1: removed
+2	23:58:26.031	Custom indicator RSI GBPJPY,H1: removed
+2	23:58:26.032	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: removed
+2	23:58:26.032	Custom indicator Span_model GBPJPY,M5: removed
+2	23:58:26.032	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	23:58:26.033	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: removed
+2	23:58:26.033	Custom indicator Max_Sign GBPJPY,M5: removed
+2	23:58:26.033	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	23:58:26.033	Custom indicator Max_Line GBPJPY,M5: removed
+2	23:58:26.034	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: removed
+2	23:58:26.035	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	23:58:26.035	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	23:58:26.036	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	23:58:26.036	Custom indicator AutoHarmonic_201604 AUDUSD,H1: removed
+2	23:58:26.036	Custom indicator PZ_Harmonic AUDUSD,H1: removed
+2	23:58:26.037	Custom indicator Span_model AUDUSD,M5: removed
+2	23:58:26.037	Custom indicator 23Signal_Price-v1 AUDUSD,M5: removed
+2	23:58:26.037	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: removed
+2	23:58:26.037	Custom indicator Max_Pivot AUDUSD,M5: removed
+2	23:58:26.038	Custom indicator Max_Line AUDUSD,M5: removed
+2	23:58:26.038	Custom indicator EWPro AUDUSD,M5: removed
+2	23:58:26.038	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: removed
+2	23:58:26.039	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: removed
+2	23:58:26.042	Custom indicator Economic_indicator USDCHF,H1: removed
+0	23:58:26.895	GemFX MT4 build 950 stopped
+0	23:58:30.350	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	23:58:30.350	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 9886 / 16327 Mb, HDD: 144345 / 228383 Mb, GMT+09:00
+0	23:58:30.350	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	23:58:31.565	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	23:58:31.567	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	23:58:31.571	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	23:58:31.575	Custom indicator PZ_Harmonic USDJPY,H1: loaded successfully
+2	23:58:31.579	Custom indicator AutoHarmonic_201604 USDJPY,H1: loaded successfully
+2	23:58:31.585	Custom indicator Otyame013_RCI_Signal USDJPY,H1: loaded successfully
+2	23:58:31.756	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	23:58:31.757	Custom indicator ___MAÅôAngle_45_TAKE USDJPY,M5: loaded successfully
+2	23:58:31.758	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	23:58:31.759	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	23:58:31.763	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	23:58:31.770	Custom indicator Trade Reviewer_14806E92 USDJPY,M5: loaded successfully
+2	23:58:31.776	Custom indicator Otyame013_RCI_Signal USDJPY,M5: loaded successfully
+2	23:58:32.340	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	23:58:32.341	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	23:58:32.346	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	23:58:32.350	Custom indicator PZ_Harmonic EURUSD,H1: loaded successfully
+2	23:58:32.354	Custom indicator AutoHarmonic_201604 EURUSD,H1: loaded successfully
+2	23:58:32.360	Custom indicator Otyame013_RCI_Signal EURUSD,H1: loaded successfully
+2	23:58:32.558	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	23:58:32.560	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	23:58:32.561	Custom indicator ___MAÅôAngle_45_TAKE EURUSD,M5: loaded successfully
+2	23:58:32.562	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	23:58:32.566	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	23:58:32.571	Custom indicator Otyame013_RCI_Signal EURUSD,M5: loaded successfully
+2	23:58:32.937	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	23:58:32.938	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	23:58:32.942	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	23:58:32.947	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	23:58:32.952	Custom indicator AutoHarmonic_201604 EURJPY,H1: loaded successfully
+2	23:58:32.958	Custom indicator Otyame013_RCI_Signal EURJPY,H1: loaded successfully
+2	23:58:33.139	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	23:58:33.140	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	23:58:33.142	Custom indicator ___MAÅôAngle_45_TAKE EURJPY,M5: loaded successfully
+2	23:58:33.143	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	23:58:33.148	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	23:58:33.150	Custom indicator EWPro EURJPY,M5: loaded successfully
+2	23:58:33.155	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M5: loaded successfully
+2	23:58:33.160	Custom indicator Otyame013_RCI_Signal EURJPY,M5: loaded successfully
+2	23:58:33.627	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	23:58:33.628	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	23:58:33.632	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	23:58:33.636	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	23:58:33.641	Custom indicator AutoHarmonic_201604 GBPUSD,H1: loaded successfully
+2	23:58:33.646	Custom indicator Otyame013_RCI_Signal GBPUSD,H1: loaded successfully
+2	23:58:33.827	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	23:58:33.829	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	23:58:33.830	Custom indicator ___MAÅôAngle_45_TAKE GBPUSD,M5: loaded successfully
+2	23:58:33.831	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	23:58:33.835	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	23:58:33.837	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	23:58:33.842	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	23:58:33.847	Custom indicator Otyame013_RCI_Signal GBPUSD,M5: loaded successfully
+2	23:58:34.327	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	23:58:34.328	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	23:58:34.332	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	23:58:34.336	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	23:58:34.341	Custom indicator AutoHarmonic_201604 GBPJPY,H1: loaded successfully
+2	23:58:34.346	Custom indicator RSI GBPJPY,H1: loaded successfully
+2	23:58:34.351	Custom indicator Otyame013_RCI_Signal GBPJPY,H1: loaded successfully
+2	23:58:34.534	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	23:58:34.535	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	23:58:34.536	Custom indicator ___MAÅôAngle_45_TAKE GBPJPY,M5: loaded successfully
+2	23:58:34.538	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	23:58:34.539	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	23:58:34.543	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	23:58:34.548	Custom indicator Otyame013_RCI_Signal GBPJPY,M5: loaded successfully
+2	23:58:34.917	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	23:58:34.918	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	23:58:34.922	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	23:58:34.927	Custom indicator AutoHarmonic_201604 AUDUSD,H1: loaded successfully
+2	23:58:34.931	Custom indicator PZ_Harmonic AUDUSD,H1: loaded successfully
+2	23:58:35.010	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	23:58:35.011	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	23:58:35.013	Custom indicator ___MAÅôAngle_45_TAKE AUDUSD,M5: loaded successfully
+2	23:58:35.014	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	23:58:35.018	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	23:58:35.020	Custom indicator EWPro AUDUSD,M5: loaded successfully
+2	23:58:35.025	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: loaded successfully
+2	23:58:35.030	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: loaded successfully
+2	23:58:35.225	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	23:58:36.782	'16040': login on GemForex-Live through DC1 (ping: 80.72 ms)
+0	23:58:37.861	'16040': login datacenter on GemForex-Live through DC1 (ping: 80.72 ms)
+0	23:58:38.074	'16040': previous successful authorization performed from 119.242.14.176
+0	23:59:13.378	'16040': ping to current access point DC1 is 74.96 ms

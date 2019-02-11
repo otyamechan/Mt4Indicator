@@ -1,0 +1,29 @@
+0	02:00:11.475	'16040': instant order sell 0.20 EURUSD at 1.12989 sl: 0.00000 tp: 0.00000
+0	02:00:11.649	'16040': order was opened : #1627113 sell 0.20 EURUSD at 1.12989 sl: 0.00000 tp: 0.00000
+0	02:00:26.413	'16040': modify order #1627113 sell 0.20 EURUSD at 1.12989 sl: 0.00000 tp: 0.00000 -> sl: 1.13112 tp: 0.00000
+0	02:00:26.616	'16040': order #1627113 sell 0.20 EURUSD at 1.12989 was modified -> sl: 1.13112 tp: 0.00000
+0	02:00:53.631	'16040': modify order #1627113 sell 0.20 EURUSD at 1.12989 sl: 1.13112 tp: 0.00000 -> sl: 1.13112 tp: 1.12547
+0	02:00:53.788	'16040': order #1627113 sell 0.20 EURUSD at 1.12989 was modified -> sl: 1.13112 tp: 1.12547
+0	02:01:04.055	'16040': modify order #1627113 sell 0.20 EURUSD at 1.12989 sl: 1.13112 tp: 1.12547 -> sl: 1.13112 tp: 1.12448
+0	02:01:04.227	'16040': order #1627113 sell 0.20 EURUSD at 1.12989 was modified -> sl: 1.13112 tp: 1.12448
+0	02:03:49.864	'16040': order #1627113 sell 0.20 EURUSD at 1.12989 closed due stop-loss at price 1.13112
+0	02:05:23.896	'16040': instant order sell 0.20 EURUSD at 1.13094 sl: 0.00000 tp: 0.00000
+0	02:05:24.099	'16040': order was opened : #1627141 sell 0.20 EURUSD at 1.13094 sl: 0.00000 tp: 0.00000
+0	02:05:34.163	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 0.00000 tp: 0.00000 -> sl: 1.13279 tp: 0.00000
+0	02:05:34.351	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13279 tp: 0.00000
+0	02:05:42.960	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 1.13279 tp: 0.00000 -> sl: 1.13279 tp: 1.12882
+0	02:05:43.116	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13279 tp: 1.12882
+0	02:05:45.882	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 1.13279 tp: 1.12882 -> sl: 1.13279 tp: 1.12762
+0	02:05:46.085	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13279 tp: 1.12762
+0	02:07:33.583	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 1.13279 tp: 1.12762 -> sl: 1.13244 tp: 1.12762
+0	02:07:33.771	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13244 tp: 1.12762
+0	02:07:36.036	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 1.13244 tp: 1.12762 -> sl: 1.13205 tp: 1.12762
+0	02:07:36.208	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13205 tp: 1.12762
+0	02:08:10.538	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 1.13205 tp: 1.12762 -> sl: 1.13283 tp: 1.12762
+0	02:08:10.710	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13283 tp: 1.12762
+0	02:09:39.210	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 1.13283 tp: 1.12762 -> sl: 1.13115 tp: 1.12762
+0	02:09:39.397	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13115 tp: 1.12762
+0	02:09:56.005	'16040': modify order #1627141 sell 0.20 EURUSD at 1.13094 sl: 1.13115 tp: 1.12762 -> sl: 1.13197 tp: 1.12762
+0	02:09:56.208	'16040': order #1627141 sell 0.20 EURUSD at 1.13094 was modified -> sl: 1.13197 tp: 1.12762
+0	02:10:15.570	System to be shutdown, request for close GemFX MT4
+0	02:10:16.351	GemFX MT4 build 950 stopped because system shutdown

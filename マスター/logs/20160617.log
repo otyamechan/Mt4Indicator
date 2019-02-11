@@ -1,0 +1,123 @@
+0	00:02:41.080	'16040': instant order sell 0.50 USDJPY at 103.977 sl: 0.000 tp: 0.000
+0	00:02:41.283	'16040': order was opened : #2658756 sell 0.50 USDJPY at 103.977 sl: 0.000 tp: 0.000
+0	00:03:23.007	'16040': modify order #2656947 sell 0.20 USDJPY at 103.768 sl: 104.036 tp: 103.584 -> sl: 104.122 tp: 103.584
+0	00:03:23.195	'16040': order #2656947 sell 0.20 USDJPY at 103.768 was modified -> sl: 104.122 tp: 103.584
+0	00:05:10.530	'16040': modify order #2656947 sell 0.20 USDJPY at 103.768 sl: 104.122 tp: 103.584 -> sl: 104.214 tp: 103.584
+0	00:05:10.733	'16040': order #2656947 sell 0.20 USDJPY at 103.768 was modified -> sl: 104.214 tp: 103.584
+0	00:05:12.311	'16040': modify order #2657128 sell 0.20 USDJPY at 103.834 sl: 104.134 tp: 102.834 -> sl: 104.217 tp: 102.834
+0	00:05:12.530	'16040': order #2657128 sell 0.20 USDJPY at 103.834 was modified -> sl: 104.217 tp: 102.834
+0	00:05:16.989	'16040': modify order #2657621 sell 1.00 USDJPY at 103.821 sl: 104.121 tp: 102.821 -> sl: 104.209 tp: 102.821
+0	00:05:16.989	'16040': modify order #2657621 sell 1.00 USDJPY at 103.821 sl: 104.121 tp: 102.821 -> sl: 104.186 tp: 102.821
+0	00:05:17.192	'16040': order #2657621 sell 1.00 USDJPY at 103.821 was modified -> sl: 104.209 tp: 102.821
+0	00:05:17.208	'16040': order #2657621 sell 1.00 USDJPY at 103.821 was modified -> sl: 104.186 tp: 102.821
+0	00:09:58.171	'16040': modify order #2657621 sell 1.00 USDJPY at 103.821 sl: 104.186 tp: 102.821 -> sl: 104.250 tp: 102.821
+0	00:09:58.374	'16040': order #2657621 sell 1.00 USDJPY at 103.821 was modified -> sl: 104.250 tp: 102.821
+0	00:10:00.079	'16040': modify order #2656947 sell 0.20 USDJPY at 103.768 sl: 104.214 tp: 103.584 -> sl: 104.247 tp: 103.584
+0	00:10:00.282	'16040': order #2656947 sell 0.20 USDJPY at 103.768 was modified -> sl: 104.247 tp: 103.584
+0	00:12:43.961	'16040': order #2657753 sell 1.00 USDJPY at 103.907 closed due stop-loss at price 104.207
+2	00:12:48.039	Script 3_Close_All USDJPY,M5: loaded successfully
+0	00:12:48.039	'16040': close order #2658756 sell 0.50 USDJPY at 103.977 sl: 104.277 tp: 102.977 at price 104.206
+0	00:12:48.243	'16040': order #2658756 sell 0.50 USDJPY at 103.977 sl: 104.277 tp: 102.977 closed at price 104.206
+0	00:12:48.243	'16040': close order #2657920 sell 0.50 USDJPY at 103.946 sl: 104.246 tp: 102.946 at price 104.206
+0	00:12:48.446	'16040': order #2657920 sell 0.50 USDJPY at 103.946 sl: 104.246 tp: 102.946 closed at price 104.206
+0	00:12:48.446	'16040': close order #2657621 sell 1.00 USDJPY at 103.821 sl: 104.250 tp: 102.821 at price 104.205
+0	00:12:48.649	'16040': order #2657621 sell 1.00 USDJPY at 103.821 sl: 104.250 tp: 102.821 closed at price 104.205
+0	00:12:48.649	'16040': close order #2657128 sell 0.20 USDJPY at 103.834 sl: 104.217 tp: 102.834 at price 104.205
+0	00:12:48.852	'16040': order #2657128 sell 0.20 USDJPY at 103.834 sl: 104.217 tp: 102.834 closed at price 104.210
+0	00:12:48.852	'16040': close order #2656947 sell 0.20 USDJPY at 103.768 sl: 104.247 tp: 103.584 at price 104.210
+0	00:12:49.040	'16040': order #2656947 sell 0.20 USDJPY at 103.768 sl: 104.247 tp: 103.584 closed at price 104.210
+2	00:12:49.040	Script 3_Close_All USDJPY,M5: removed
+0	00:13:50.311	'16040': instant order buy 2.00 USDJPY at 104.208 sl: 0.000 tp: 0.000
+0	00:13:51.061	'16040': order was opened : #2659296 buy 2.00 USDJPY at 104.208 sl: 0.000 tp: 0.000
+0	00:16:47.567	'16040': instant order buy 2.00 USDJPY at 104.221 sl: 0.000 tp: 0.000
+0	00:16:47.791	'16040': order was opened : #2659385 buy 2.00 USDJPY at 104.221 sl: 0.000 tp: 0.000
+0	00:21:39.028	'16040': instant order buy 2.00 USDJPY at 104.193 sl: 0.000 tp: 0.000
+0	00:21:39.232	'16040': order was opened : #2659576 buy 2.00 USDJPY at 104.193 sl: 0.000 tp: 0.000
+0	00:22:12.901	'16040': instant order buy 2.00 USDJPY at 104.195 sl: 0.000 tp: 0.000
+1	00:22:13.089	'16040': order buy 2.00 USDJPY opening at 104.195 sl: 0.000 tp: 0.000 failed [Not enough money]
+0	00:22:25.276	'16040': instant order buy 1.00 USDJPY at 104.201 sl: 0.000 tp: 0.000
+0	00:22:25.494	'16040': order was opened : #2659592 buy 1.00 USDJPY at 104.201 sl: 0.000 tp: 0.000
+2	00:33:17.744	Script 3_Close_All USDJPY,M5: loaded successfully
+0	00:33:17.744	'16040': close order #2659592 buy 1.00 USDJPY at 104.201 sl: 103.931 tp: 105.201 at price 104.162
+0	00:33:17.947	'16040': order #2659592 buy 1.00 USDJPY at 104.201 sl: 103.931 tp: 105.201 closed at price 104.162
+0	00:33:17.947	'16040': close order #2659576 buy 2.00 USDJPY at 104.193 sl: 103.931 tp: 0.000 at price 104.162
+0	00:33:18.166	'16040': order #2659576 buy 2.00 USDJPY at 104.193 sl: 103.931 tp: 0.000 closed at price 104.162
+2	00:33:18.166	Script 3_Close_All USDJPY,M5: removed
+0	00:33:31.589	'16040': instant order sell 1.00 USDJPY at 104.152 sl: 0.000 tp: 0.000
+0	00:33:31.792	'16040': order was opened : #2660071 sell 1.00 USDJPY at 104.152 sl: 0.000 tp: 0.000
+0	00:36:48.103	'16040': modify order #2660071 sell 1.00 USDJPY at 104.152 sl: 104.442 tp: 103.152 -> sl: 104.293 tp: 103.152
+0	00:36:48.344	'16040': order #2660071 sell 1.00 USDJPY at 104.152 was modified -> sl: 104.293 tp: 103.152
+0	00:36:56.856	'16040': modify order #2660071 sell 1.00 USDJPY at 104.152 sl: 104.293 tp: 103.152 -> sl: 104.293 tp: 104.018
+0	00:36:57.090	'16040': order #2660071 sell 1.00 USDJPY at 104.152 was modified -> sl: 104.293 tp: 104.018
+2	00:49:12.011	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: removed
+2	00:49:12.011	Custom indicator 23Signal_Price-v1 USDJPY,H1: removed
+2	00:49:12.027	Custom indicator chikou_span_attacker USDJPY,H1: removed
+2	00:49:12.027	Custom indicator PZ_Harmonic USDJPY,H1: removed
+2	00:49:12.027	Custom indicator 23Signal_Price-v1 USDJPY,M5: removed
+2	00:49:12.027	Custom indicator Max_Pivot USDJPY,M5: removed
+2	00:49:12.027	Custom indicator Max_Line USDJPY,M5: removed
+2	00:49:12.027	Custom indicator Otyame001_Ichimoku_Shift USDJPY,M5: removed
+2	00:49:12.027	Custom indicator Otyame021_Price_Line USDJPY,M5: removed
+2	00:49:12.042	Custom indicator Otyame005_Super_Bollinger USDJPY,M5: removed
+2	00:49:12.042	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: removed
+2	00:49:12.042	Custom indicator 23Signal_Price-v1 EURUSD,H1: removed
+2	00:49:12.042	Custom indicator chikou_span_attacker EURUSD,H1: removed
+2	00:49:12.042	Custom indicator PZ_Harmonic EURUSD,H1: removed
+2	00:49:12.042	Custom indicator 23Signal_Price-v1 EURUSD,M5: removed
+2	00:49:12.042	Custom indicator Max_Pivot EURUSD,M5: removed
+2	00:49:12.042	Custom indicator Max_Line EURUSD,M5: removed
+2	00:49:12.042	Custom indicator Otyame001_Ichimoku_Shift EURUSD,M5: removed
+2	00:49:12.042	Custom indicator Otyame021_Price_Line EURUSD,M5: removed
+2	00:49:12.042	Custom indicator Otyame005_Super_Bollinger EURUSD,M5: removed
+2	00:49:12.042	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: removed
+2	00:49:12.042	Custom indicator 23Signal_Price-v1 EURJPY,H1: removed
+2	00:49:12.042	Custom indicator chikou_span_attacker EURJPY,H1: removed
+2	00:49:12.058	Custom indicator PZ_Harmonic EURJPY,H1: removed
+2	00:49:12.058	Custom indicator 23Signal_Price-v1 EURJPY,M5: removed
+2	00:49:12.058	Custom indicator Max_Pivot EURJPY,M5: removed
+2	00:49:12.058	Custom indicator Max_Line EURJPY,M5: removed
+2	00:49:12.058	Custom indicator Otyame001_Ichimoku_Shift EURJPY,M5: removed
+2	00:49:12.058	Custom indicator Otyame021_Price_Line EURJPY,M5: removed
+2	00:49:12.058	Custom indicator Otyame005_Super_Bollinger EURJPY,M5: removed
+2	00:49:12.058	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: removed
+2	00:49:12.058	Custom indicator 23Signal_Price-v1 GBPUSD,H1: removed
+2	00:49:12.058	Custom indicator chikou_span_attacker GBPUSD,H1: removed
+2	00:49:12.058	Custom indicator PZ_Harmonic GBPUSD,H1: removed
+2	00:49:12.058	Custom indicator 23Signal_Price-v1 GBPUSD,M5: removed
+2	00:49:12.058	Custom indicator Max_Pivot GBPUSD,M5: removed
+2	00:49:12.073	Custom indicator Max_Line GBPUSD,M5: removed
+2	00:49:12.073	Custom indicator Otyame001_Ichimoku_Shift GBPUSD,M5: removed
+2	00:49:12.073	Custom indicator Otyame021_Price_Line GBPUSD,M5: removed
+2	00:49:12.073	Custom indicator Otyame005_Super_Bollinger GBPUSD,M5: removed
+2	00:49:12.073	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: removed
+2	00:49:12.073	Custom indicator 23Signal_Price-v1 GBPJPY,H1: removed
+2	00:49:12.073	Custom indicator chikou_span_attacker GBPJPY,H1: removed
+2	00:49:12.073	Custom indicator PZ_Harmonic GBPJPY,H1: removed
+2	00:49:12.073	Custom indicator 23Signal_Price-v1 GBPJPY,M5: removed
+2	00:49:12.073	Custom indicator Max_Pivot GBPJPY,M5: removed
+2	00:49:12.089	Custom indicator Max_Line GBPJPY,M5: removed
+2	00:49:12.089	Custom indicator Otyame001_Ichimoku_Shift GBPJPY,M5: removed
+2	00:49:12.089	Custom indicator Otyame021_Price_Line GBPJPY,M5: removed
+2	00:49:12.089	Custom indicator Otyame005_Super_Bollinger GBPJPY,M5: removed
+2	00:49:12.089	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: removed
+2	00:49:12.089	Custom indicator 23Signal_Price-v1 AUDUSD,H1: removed
+2	00:49:12.089	Custom indicator chikou_span_attacker AUDUSD,H1: removed
+2	00:49:12.089	Custom indicator PZ_Harmonic AUDUSD,H1: removed
+2	00:49:12.089	Custom indicator 23Signal_Price-v1 AUDUSD,M5: removed
+2	00:49:12.089	Custom indicator Max_Pivot AUDUSD,M5: removed
+2	00:49:12.089	Custom indicator Max_Line AUDUSD,M5: removed
+2	00:49:12.089	Custom indicator Otyame001_Ichimoku_Shift AUDUSD,M5: removed
+2	00:49:12.105	Custom indicator Otyame021_Price_Line AUDUSD,M5: removed
+2	00:49:12.105	Custom indicator Otyame005_Super_Bollinger AUDUSD,M5: removed
+2	00:49:12.105	Custom indicator Otyame005_Super_Bollinger GBPAUD,H1: removed
+2	00:49:12.105	Custom indicator 23Signal_Price-v1 GBPAUD,H1: removed
+2	00:49:12.105	Custom indicator chikou_span_attacker GBPAUD,H1: removed
+2	00:49:12.105	Custom indicator PZ_Harmonic GBPAUD,H1: removed
+2	00:49:12.105	Custom indicator 23Signal_Price-v1 GBPAUD,M5: removed
+2	00:49:12.105	Custom indicator Max_Pivot GBPAUD,M5: removed
+2	00:49:12.105	Custom indicator Max_Line GBPAUD,M5: removed
+2	00:49:12.105	Custom indicator Otyame001_Ichimoku_Shift GBPAUD,M5: removed
+2	00:49:12.120	Custom indicator Otyame021_Price_Line GBPAUD,M5: removed
+2	00:49:12.120	Custom indicator Otyame005_Super_Bollinger GBPAUD,M5: removed
+2	00:49:12.120	Custom indicator Economic_indicator USDCHF,H1: removed
+0	00:49:12.339	GemFX MT4 build 971 stopped

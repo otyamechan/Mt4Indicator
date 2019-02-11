@@ -1,0 +1,322 @@
+0	13:20:35.549	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	13:20:35.550	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13484 / 16327 Mb, HDD: 147370 / 228383 Mb, GMT+09:00
+0	13:20:35.550	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	13:20:36.181	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	13:20:36.183	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	13:20:36.187	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	13:20:36.238	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	13:20:36.240	Custom indicator ___MA™Angle_45_TAKE USDJPY,M5: loaded successfully
+2	13:20:36.241	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	13:20:36.242	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	13:20:36.247	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	13:20:36.252	Custom indicator Elliott_Wave_Oscillator-Arrows2 USDJPY,M5: loaded successfully
+2	13:20:36.254	Custom indicator EWPro USDJPY,M5: loaded successfully
+2	13:20:36.259	Custom indicator Elliott_Wave_Oscillator USDJPY,M5: loaded successfully
+2	13:20:36.372	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	13:20:36.374	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	13:20:36.378	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	13:20:36.434	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	13:20:36.435	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	13:20:36.436	Custom indicator ___MA™Angle_45_TAKE EURUSD,M5: loaded successfully
+2	13:20:36.438	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	13:20:36.442	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	13:20:36.447	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURUSD,M5: loaded successfully
+2	13:20:36.449	Custom indicator EWPro EURUSD,M5: loaded successfully
+2	13:20:36.454	Custom indicator Elliott_Wave_Oscillator EURUSD,M5: loaded successfully
+2	13:20:36.572	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	13:20:36.573	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	13:20:36.577	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	13:20:36.633	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	13:20:36.635	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	13:20:36.636	Custom indicator ___MA™Angle_45_TAKE EURJPY,M5: loaded successfully
+2	13:20:36.637	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	13:20:36.641	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	13:20:36.644	Custom indicator EWPro EURJPY,M5: loaded successfully
+2	13:20:36.649	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M5: loaded successfully
+2	13:20:36.654	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: loaded successfully
+2	13:20:36.769	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	13:20:36.770	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	13:20:36.774	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	13:20:36.832	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	13:20:36.833	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	13:20:36.835	Custom indicator ___MA™Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	13:20:36.836	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	13:20:36.840	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	13:20:36.842	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	13:20:36.848	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	13:20:36.853	Custom indicator Elliott_Wave_Oscillator GBPUSD,M5: loaded successfully
+2	13:20:36.968	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	13:20:36.969	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	13:20:36.973	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	13:20:37.072	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	13:20:37.075	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	13:20:37.077	Custom indicator ___MA™Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	13:20:37.079	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	13:20:37.081	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	13:20:37.087	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	13:20:37.090	Custom indicator EWPro GBPJPY,M5: loaded successfully
+2	13:20:37.098	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPJPY,M5: loaded successfully
+2	13:20:37.105	Custom indicator Elliott_Wave_Oscillator GBPJPY,M5: loaded successfully
+2	13:20:37.224	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	13:20:37.226	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	13:20:37.230	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	13:20:37.285	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	13:20:37.286	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	13:20:37.288	Custom indicator ___MA™Angle_45_TAKE AUDUSD,M5: loaded successfully
+2	13:20:37.289	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	13:20:37.293	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	13:20:37.295	Custom indicator EWPro AUDUSD,M5: loaded successfully
+2	13:20:37.300	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: loaded successfully
+2	13:20:37.305	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: loaded successfully
+2	13:20:37.423	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	13:20:38.947	'16040': login on GemForex-Live through DC1 (ping: 80.97 ms)
+0	13:20:39.901	'16040': login datacenter on GemForex-Live through DC1 (ping: 80.97 ms)
+0	13:20:40.126	'16040': previous successful authorization performed from 49.96.243.33
+0	13:21:02.143	'16040': ping to current access point DC1 is 74.13 ms
+0	14:04:57.076	'16040': instant order buy 0.50 USDJPY at 111.500 sl: 0.000 tp: 0.000
+0	14:04:57.254	'16040': order was opened : #1413824 buy 0.50 USDJPY at 111.500 sl: 0.000 tp: 0.000
+0	14:05:06.614	'16040': modify order #1413824 buy 0.50 USDJPY at 111.500 sl: 0.000 tp: 0.000 -> sl: 111.403 tp: 0.000
+0	14:05:06.729	'16040': order #1413824 buy 0.50 USDJPY at 111.500 was modified -> sl: 111.403 tp: 0.000
+0	14:16:23.947	'16040': modify order #1413824 buy 0.50 USDJPY at 111.500 sl: 111.403 tp: 0.000 -> sl: 111.441 tp: 0.000
+0	14:16:24.062	'16040': order #1413824 buy 0.50 USDJPY at 111.500 was modified -> sl: 111.441 tp: 0.000
+0	14:39:10.194	'16040': instant order buy 1.00 USDJPY at 111.509 sl: 0.000 tp: 0.000
+0	14:39:10.368	'16040': order was opened : #1413975 buy 1.00 USDJPY at 111.509 sl: 0.000 tp: 0.000
+0	14:39:25.090	'16040': modify order #1413824 buy 0.50 USDJPY at 111.500 sl: 111.441 tp: 0.000 -> sl: 111.439 tp: 0.000
+0	14:39:25.232	'16040': order #1413824 buy 0.50 USDJPY at 111.500 was modified -> sl: 111.439 tp: 0.000
+0	14:39:29.316	'16040': modify order #1413975 buy 1.00 USDJPY at 111.509 sl: 0.000 tp: 0.000 -> sl: 111.438 tp: 0.000
+0	14:39:29.447	'16040': order #1413975 buy 1.00 USDJPY at 111.509 was modified -> sl: 111.438 tp: 0.000
+0	14:45:46.461	'16040': instant order buy 1.00 USDJPY at 111.485 sl: 0.000 tp: 0.000
+0	14:45:46.632	'16040': order was opened : #1414001 buy 1.00 USDJPY at 111.485 sl: 0.000 tp: 0.000
+0	14:45:55.354	'16040': modify order #1414001 buy 1.00 USDJPY at 111.485 sl: 0.000 tp: 0.000 -> sl: 111.410 tp: 0.000
+0	14:45:55.477	'16040': order #1414001 buy 1.00 USDJPY at 111.485 was modified -> sl: 111.410 tp: 0.000
+2	14:54:06.526	Script 3_Close_All USDJPY,M5: loaded successfully
+0	14:54:06.527	'16040': close order #1414001 buy 1.00 USDJPY at 111.485 sl: 111.410 tp: 0.000 at price 111.510
+0	14:54:06.645	'16040': order #1414001 buy 1.00 USDJPY at 111.485 sl: 111.410 tp: 0.000 closed at price 111.510
+0	14:54:06.645	'16040': close order #1413975 buy 1.00 USDJPY at 111.509 sl: 111.438 tp: 0.000 at price 111.510
+0	14:54:06.801	'16040': order #1413975 buy 1.00 USDJPY at 111.509 sl: 111.438 tp: 0.000 closed at price 111.510
+0	14:54:06.801	'16040': close order #1413824 buy 0.50 USDJPY at 111.500 sl: 111.439 tp: 0.000 at price 111.510
+0	14:54:06.956	'16040': order #1413824 buy 0.50 USDJPY at 111.500 sl: 111.439 tp: 0.000 closed at price 111.510
+2	14:54:06.957	Script 3_Close_All USDJPY,M5: removed
+0	15:55:23.714	'16040': instant order sell 1.00 GBPUSD at 1.44166 sl: 0.00000 tp: 0.00000
+0	15:55:23.851	'16040': requote 1.44163 / 1.44188 for open sell 1.00 GBPUSD at 1.44166 sl: 0.00000 tp: 0.00000
+0	15:55:26.921	'16040': instant order sell 1.00 GBPUSD at 1.44163 sl: 0.00000 tp: 0.00000
+0	15:55:27.052	'16040': order was opened : #1414338 sell 1.00 GBPUSD at 1.44163 sl: 0.00000 tp: 0.00000
+0	15:55:55.354	'16040': modify order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 0.00000 tp: 0.00000 -> sl: 1.44214 tp: 0.00000
+0	15:55:55.521	'16040': order #1414338 sell 1.00 GBPUSD at 1.44163 was modified -> sl: 1.44214 tp: 0.00000
+1	15:58:06.933	'16040': modification of order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44214 tp: 0.00000 -> sl: 1.44158 tp: 0.00000 failed [Invalid S/L or T/P]
+1	15:58:11.683	'16040': modification of order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44214 tp: 0.00000 -> sl: 1.44164 tp: 0.00000 failed [Invalid S/L or T/P]
+0	15:58:18.214	'16040': modify order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44214 tp: 0.00000 -> sl: 1.44198 tp: 0.00000
+0	15:58:18.355	'16040': order #1414338 sell 1.00 GBPUSD at 1.44163 was modified -> sl: 1.44198 tp: 0.00000
+0	15:58:19.871	'16040': modify order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44198 tp: 0.00000 -> sl: 1.44189 tp: 0.00000
+0	15:58:20.010	'16040': order #1414338 sell 1.00 GBPUSD at 1.44163 was modified -> sl: 1.44189 tp: 0.00000
+0	15:58:21.503	'16040': modify order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44189 tp: 0.00000 -> sl: 1.44178 tp: 0.00000
+0	15:58:21.662	'16040': order #1414338 sell 1.00 GBPUSD at 1.44163 was modified -> sl: 1.44178 tp: 0.00000
+0	15:58:22.785	'16040': modify order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44178 tp: 0.00000 -> sl: 1.44169 tp: 0.00000
+0	15:58:22.943	'16040': order #1414338 sell 1.00 GBPUSD at 1.44163 was modified -> sl: 1.44169 tp: 0.00000
+1	15:58:24.096	'16040': modification of order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44169 tp: 0.00000 -> sl: 1.44162 tp: 0.00000 failed [Invalid S/L or T/P]
+1	15:58:27.191	'16040': modification of order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44169 tp: 0.00000 -> sl: 1.44162 tp: 0.00000 failed [Invalid S/L or T/P]
+1	15:58:29.035	'16040': modification of order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44169 tp: 0.00000 -> sl: 1.44160 tp: 0.00000 failed [Invalid S/L or T/P]
+1	15:58:36.830	'16040': modification of order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44169 tp: 0.00000 -> sl: 1.44145 tp: 0.00000 failed [Invalid S/L or T/P]
+1	15:58:39.449	'16040': modification of order #1414338 sell 1.00 GBPUSD at 1.44163 sl: 1.44169 tp: 0.00000 -> sl: 1.44157 tp: 0.00000 failed [Invalid S/L or T/P]
+0	16:00:10.909	'16040': order #1414338 sell 1.00 GBPUSD at 1.44163 closed due stop-loss at price 1.44169
+0	16:31:08.030	'16040': instant order sell 1.00 GBPUSD at 1.44145 sl: 0.00000 tp: 0.00000
+0	16:31:08.186	'16040': order was opened : #1414548 sell 1.00 GBPUSD at 1.44145 sl: 0.00000 tp: 0.00000
+0	16:31:18.458	'16040': modify order #1414548 sell 1.00 GBPUSD at 1.44145 sl: 0.00000 tp: 0.00000 -> sl: 1.44221 tp: 0.00000
+0	16:31:18.609	'16040': order #1414548 sell 1.00 GBPUSD at 1.44145 was modified -> sl: 1.44221 tp: 0.00000
+0	16:37:55.923	'16040': instant order sell 1.00 GBPUSD at 1.44143 sl: 0.00000 tp: 0.00000
+0	16:37:56.068	'16040': order was opened : #1414593 sell 1.00 GBPUSD at 1.44143 sl: 0.00000 tp: 0.00000
+2	16:40:14.569	Script 3_Close_All GBPUSD,M5: loaded successfully
+0	16:40:14.570	'16040': close order #1414593 sell 1.00 GBPUSD at 1.44143 sl: 0.00000 tp: 0.00000 at price 1.44130
+0	16:40:14.738	'16040': order #1414593 sell 1.00 GBPUSD at 1.44143 sl: 0.00000 tp: 0.00000 closed at price 1.44130
+0	16:40:14.738	'16040': close order #1414548 sell 1.00 GBPUSD at 1.44145 sl: 1.44221 tp: 0.00000 at price 1.44130
+0	16:40:14.908	'16040': order #1414548 sell 1.00 GBPUSD at 1.44145 sl: 1.44221 tp: 0.00000 closed at price 1.44130
+2	16:40:14.908	Script 3_Close_All GBPUSD,M5: removed
+0	16:44:29.895	'16040': instant order sell 0.50 GBPUSD at 1.43945 sl: 0.00000 tp: 0.00000
+0	16:44:30.053	'16040': order was opened : #1414662 sell 0.50 GBPUSD at 1.43945 sl: 0.00000 tp: 0.00000
+0	16:47:12.644	'16040': instant order sell 1.00 GBPUSD at 1.43985 sl: 0.00000 tp: 0.00000
+0	16:47:12.764	'16040': order was opened : #1414683 sell 1.00 GBPUSD at 1.43985 sl: 0.00000 tp: 0.00000
+2	16:53:28.838	Script 3_Close_All GBPUSD,M5: loaded successfully
+0	16:53:28.838	'16040': close order #1414683 sell 1.00 GBPUSD at 1.43985 sl: 0.00000 tp: 0.00000 at price 1.43898
+0	16:53:28.999	'16040': order #1414683 sell 1.00 GBPUSD at 1.43985 sl: 0.00000 tp: 0.00000 closed at price 1.43898
+0	16:53:28.999	'16040': close order #1414662 sell 0.50 GBPUSD at 1.43945 sl: 0.00000 tp: 0.00000 at price 1.43899
+0	16:53:29.159	'16040': order #1414662 sell 0.50 GBPUSD at 1.43945 sl: 0.00000 tp: 0.00000 closed at price 1.43899
+2	16:53:29.159	Script 3_Close_All GBPUSD,M5: removed
+0	17:00:02.612	System to be shutdown, request for close GemFX MT4
+0	17:00:02.870	GemFX MT4 build 950 stopped because system shutdown
+0	17:30:52.790	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	17:30:52.790	Windows 10 Home (x64 based PC), IE 12.62, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 14314 / 16327 Mb, HDD: 147029 / 228383 Mb, GMT+09:00
+0	17:30:52.790	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	17:30:53.384	Custom indicator Otyame005_Super_Bollinger USDJPY,H1: loaded successfully
+2	17:30:53.400	Custom indicator 23Signal_Price-v1 USDJPY,H1: loaded successfully
+2	17:30:53.400	Custom indicator chikou_span_attacker USDJPY,H1: loaded successfully
+2	17:30:53.447	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	17:30:53.447	Custom indicator ___MA™Angle_45_TAKE USDJPY,M5: loaded successfully
+2	17:30:53.447	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	17:30:53.447	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	17:30:53.447	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	17:30:53.462	Custom indicator Elliott_Wave_Oscillator-Arrows2 USDJPY,M5: loaded successfully
+2	17:30:53.462	Custom indicator EWPro USDJPY,M5: loaded successfully
+2	17:30:53.462	Custom indicator Elliott_Wave_Oscillator USDJPY,M5: loaded successfully
+2	17:30:53.572	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	17:30:53.587	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	17:30:53.587	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	17:30:53.634	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	17:30:53.634	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	17:30:53.634	Custom indicator ___MA™Angle_45_TAKE EURUSD,M5: loaded successfully
+2	17:30:53.634	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	17:30:53.634	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	17:30:53.650	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURUSD,M5: loaded successfully
+2	17:30:53.650	Custom indicator EWPro EURUSD,M5: loaded successfully
+2	17:30:53.650	Custom indicator Elliott_Wave_Oscillator EURUSD,M5: loaded successfully
+2	17:30:53.775	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	17:30:53.775	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	17:30:53.775	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	17:30:53.822	Custom indicator Span_model EURJPY,M5: loaded successfully
+2	17:30:53.822	Custom indicator 23Signal_Price-v1 EURJPY,M5: loaded successfully
+2	17:30:53.822	Custom indicator ___MA™Angle_45_TAKE EURJPY,M5: loaded successfully
+2	17:30:53.822	Custom indicator Max_Pivot EURJPY,M5: loaded successfully
+2	17:30:53.837	Custom indicator Max_Line EURJPY,M5: loaded successfully
+2	17:30:53.837	Custom indicator EWPro EURJPY,M5: loaded successfully
+2	17:30:53.837	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M5: loaded successfully
+2	17:30:53.837	Custom indicator Elliott_Wave_Oscillator EURJPY,M5: loaded successfully
+2	17:30:53.962	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	17:30:53.962	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	17:30:53.962	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	17:30:54.009	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	17:30:54.009	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	17:30:54.009	Custom indicator ___MA™Angle_45_TAKE GBPUSD,M5: loaded successfully
+2	17:30:54.025	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	17:30:54.025	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	17:30:54.025	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	17:30:54.025	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	17:30:54.041	Custom indicator Elliott_Wave_Oscillator GBPUSD,M5: loaded successfully
+2	17:30:54.150	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	17:30:54.150	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	17:30:54.150	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	17:30:54.197	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	17:30:54.197	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	17:30:54.197	Custom indicator ___MA™Angle_45_TAKE GBPJPY,M5: loaded successfully
+2	17:30:54.212	Custom indicator Max_Sign GBPJPY,M5: loaded successfully
+2	17:30:54.212	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	17:30:54.212	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	17:30:54.212	Custom indicator EWPro GBPJPY,M5: loaded successfully
+2	17:30:54.212	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPJPY,M5: loaded successfully
+2	17:30:54.228	Custom indicator Elliott_Wave_Oscillator GBPJPY,M5: loaded successfully
+2	17:30:54.337	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	17:30:54.337	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	17:30:54.353	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	17:30:54.400	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	17:30:54.400	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	17:30:54.400	Custom indicator ___MA™Angle_45_TAKE AUDUSD,M5: loaded successfully
+2	17:30:54.400	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	17:30:54.400	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	17:30:54.400	Custom indicator EWPro AUDUSD,M5: loaded successfully
+2	17:30:54.400	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M5: loaded successfully
+2	17:30:54.416	Custom indicator Elliott_Wave_Oscillator AUDUSD,M5: loaded successfully
+2	17:30:54.525	Custom indicator Economic_indicator EURUSD,H1: loaded successfully
+0	17:30:56.309	'16040': login on GemForex-Live through DC1 (ping: 74.13 ms)
+0	17:30:57.359	'16040': login datacenter on GemForex-Live through DC1 (ping: 74.13 ms)
+0	17:30:57.572	'16040': previous successful authorization performed from 119.242.14.176
+0	17:31:19.350	'16040': ping to current access point DC1 is 73.28 ms
+0	17:46:06.836	'16040': instant order sell 1.00 GBPUSD at 1.44002 sl: 0.00000 tp: 0.00000
+0	17:46:06.993	'16040': order was opened : #1415271 sell 1.00 GBPUSD at 1.44002 sl: 0.00000 tp: 0.00000
+0	17:46:15.589	'16040': modify order #1415271 sell 1.00 GBPUSD at 1.44002 sl: 0.00000 tp: 0.00000 -> sl: 1.44107 tp: 0.00000
+0	17:46:15.777	'16040': order #1415271 sell 1.00 GBPUSD at 1.44002 was modified -> sl: 1.44107 tp: 0.00000
+0	17:46:26.287	'16040': modify order #1415271 sell 1.00 GBPUSD at 1.44002 sl: 1.44107 tp: 0.00000 -> sl: 1.44107 tp: 1.43763
+0	17:46:26.927	'16040': order #1415271 sell 1.00 GBPUSD at 1.44002 was modified -> sl: 1.44107 tp: 1.43763
+0	17:46:41.630	'16040': modify order #1415271 sell 1.00 GBPUSD at 1.44002 sl: 1.44107 tp: 1.43763 -> sl: 1.44132 tp: 1.43763
+0	17:46:41.818	'16040': order #1415271 sell 1.00 GBPUSD at 1.44002 was modified -> sl: 1.44132 tp: 1.43763
+0	18:14:59.955	'16040': modify order #1415271 sell 1.00 GBPUSD at 1.44002 sl: 1.44132 tp: 1.43763 -> sl: 1.43985 tp: 1.43763
+0	18:15:00.127	'16040': order #1415271 sell 1.00 GBPUSD at 1.44002 was modified -> sl: 1.43985 tp: 1.43763
+0	18:16:45.023	'16040': close order #1415271 sell 1.00 GBPUSD at 1.44002 sl: 1.43985 tp: 1.43763 at price 1.43898
+0	18:16:45.179	'16040': order #1415271 sell 1.00 GBPUSD at 1.44002 sl: 1.43985 tp: 1.43763 closed at price 1.43898
+0	18:17:41.936	'16040': instant order sell 1.00 EURUSD at 1.12420 sl: 0.00000 tp: 0.00000
+0	18:17:42.123	'16040': order was opened : #1415492 sell 1.00 EURUSD at 1.12420 sl: 0.00000 tp: 0.00000
+0	18:17:46.998	'16040': modify order #1415492 sell 1.00 EURUSD at 1.12420 sl: 0.00000 tp: 0.00000 -> sl: 1.12496 tp: 0.00000
+0	18:17:47.186	'16040': order #1415492 sell 1.00 EURUSD at 1.12420 was modified -> sl: 1.12496 tp: 0.00000
+0	18:18:25.628	'16040': modify order #1415492 sell 1.00 EURUSD at 1.12420 sl: 1.12496 tp: 0.00000 -> sl: 1.12502 tp: 0.00000
+0	18:18:25.831	'16040': order #1415492 sell 1.00 EURUSD at 1.12420 was modified -> sl: 1.12502 tp: 0.00000
+0	18:18:36.902	'16040': instant order sell 1.00 EURUSD at 1.12448 sl: 0.00000 tp: 0.00000
+0	18:18:37.074	'16040': order was opened : #1415502 sell 1.00 EURUSD at 1.12448 sl: 0.00000 tp: 0.00000
+0	18:19:18.105	'16040': modify order #1415492 sell 1.00 EURUSD at 1.12420 sl: 1.12502 tp: 0.00000 -> sl: 1.12542 tp: 0.00000
+0	18:19:18.262	'16040': order #1415492 sell 1.00 EURUSD at 1.12420 was modified -> sl: 1.12542 tp: 0.00000
+0	18:20:56.826	'16040': instant order sell 1.00 EURUSD at 1.12485 sl: 0.00000 tp: 0.00000
+0	18:20:56.998	'16040': requote 1.12482 / 1.12502 for open sell 1.00 EURUSD at 1.12485 sl: 0.00000 tp: 0.00000
+0	18:20:58.436	'16040': instant order sell 1.00 EURUSD at 1.12482 sl: 0.00000 tp: 0.00000
+0	18:20:58.607	'16040': order was opened : #1415510 sell 1.00 EURUSD at 1.12482 sl: 0.00000 tp: 0.00000
+0	18:26:28.175	'16040': order #1415492 sell 1.00 EURUSD at 1.12420 closed due stop-loss at price 1.12542
+2	18:26:47.051	Script 3_Close_All EURUSD,M5: loaded successfully
+0	18:26:47.051	'16040': close order #1415510 sell 1.00 EURUSD at 1.12482 sl: 0.00000 tp: 0.00000 at price 1.12544
+0	18:26:47.223	'16040': order #1415510 sell 1.00 EURUSD at 1.12482 sl: 0.00000 tp: 0.00000 closed at price 1.12544
+0	18:26:47.223	'16040': close order #1415502 sell 1.00 EURUSD at 1.12448 sl: 0.00000 tp: 0.00000 at price 1.12544
+0	18:26:47.426	'16040': order #1415502 sell 1.00 EURUSD at 1.12448 sl: 0.00000 tp: 0.00000 closed at price 1.12544
+2	18:26:47.426	Script 3_Close_All EURUSD,M5: removed
+0	18:30:59.063	'16040': instant order sell 1.00 GBPUSD at 1.43984 sl: 0.00000 tp: 0.00000
+0	18:30:59.235	'16040': requote 1.43981 / 1.44006 for open sell 1.00 GBPUSD at 1.43984 sl: 0.00000 tp: 0.00000
+0	18:31:01.622	'16040': instant order sell 1.00 GBPUSD at 1.43981 sl: 0.00000 tp: 0.00000
+0	18:31:01.793	'16040': order was opened : #1415577 sell 1.00 GBPUSD at 1.43981 sl: 0.00000 tp: 0.00000
+0	18:31:13.784	'16040': modify order #1415577 sell 1.00 GBPUSD at 1.43981 sl: 0.00000 tp: 0.00000 -> sl: 1.44078 tp: 0.00000
+0	18:31:13.971	'16040': order #1415577 sell 1.00 GBPUSD at 1.43981 was modified -> sl: 1.44078 tp: 0.00000
+0	18:32:33.553	'16040': order #1415577 sell 1.00 GBPUSD at 1.43981 closed due stop-loss at price 1.44078
+0	18:33:48.322	'16040': instant order sell 1.00 GBPUSD at 1.44174 sl: 0.00000 tp: 0.00000
+0	18:33:48.493	'16040': order was opened : #1415620 sell 1.00 GBPUSD at 1.44174 sl: 0.00000 tp: 0.00000
+0	18:34:04.002	'16040': modify order #1415620 sell 1.00 GBPUSD at 1.44174 sl: 0.00000 tp: 0.00000 -> sl: 1.44280 tp: 0.00000
+0	18:34:04.205	'16040': order #1415620 sell 1.00 GBPUSD at 1.44174 was modified -> sl: 1.44280 tp: 0.00000
+0	18:37:56.952	'16040': close order #1415620 sell 1.00 GBPUSD at 1.44174 sl: 1.44280 tp: 0.00000 at price 1.44215
+0	18:37:57.139	'16040': order #1415620 sell 1.00 GBPUSD at 1.44174 sl: 1.44280 tp: 0.00000 closed at price 1.44215
+0	21:10:15.213	'16040': instant order buy 1.00 GBPUSD at 1.44060 sl: 0.00000 tp: 0.00000
+0	21:10:15.417	'16040': order was opened : #1416425 buy 1.00 GBPUSD at 1.44060 sl: 0.00000 tp: 0.00000
+0	21:18:14.380	'16040': instant order buy 1.00 GBPUSD at 1.43940 sl: 0.00000 tp: 0.00000
+0	21:18:14.537	'16040': order was opened : #1416489 buy 1.00 GBPUSD at 1.43940 sl: 0.00000 tp: 0.00000
+0	22:48:04.739	'16040': close order #1416489 buy 1.00 GBPUSD at 1.43940 sl: 0.00000 tp: 0.00000 at price 1.43949
+0	22:48:04.942	'16040': order #1416489 buy 1.00 GBPUSD at 1.43940 sl: 0.00000 tp: 0.00000 closed at price 1.43949
+1	22:48:28.600	'16040': modification of order #1416425 buy 1.00 GBPUSD at 1.44060 sl: 0.00000 tp: 0.00000 -> sl: 1.43887 tp: 0.00000 failed [Invalid S/L or T/P]
+1	22:48:41.949	'16040': modification of order #1416425 buy 1.00 GBPUSD at 1.44060 sl: 0.00000 tp: 0.00000 -> sl: 1.43892 tp: 0.00000 failed [Invalid S/L or T/P]
+0	22:59:22.610	'16040': close order #1416425 buy 1.00 GBPUSD at 1.44060 sl: 0.00000 tp: 0.00000 at price 1.43917
+0	22:59:22.829	'16040': order #1416425 buy 1.00 GBPUSD at 1.44060 sl: 0.00000 tp: 0.00000 closed at price 1.43917
+0	22:59:28.299	'16040': instant order sell 1.00 GBPUSD at 1.43912 sl: 0.00000 tp: 0.00000
+0	22:59:28.502	'16040': order was opened : #1417478 sell 1.00 GBPUSD at 1.43912 sl: 0.00000 tp: 0.00000
+0	23:01:13.548	'16040': instant order sell 1.00 GBPUSD at 1.43932 sl: 0.00000 tp: 0.00000
+0	23:01:14.204	'16040': order was opened : #1417497 sell 1.00 GBPUSD at 1.43932 sl: 0.00000 tp: 0.00000
+2	23:01:25.969	Script 3_Close_All GBPUSD,M5: loaded successfully
+0	23:01:25.969	'16040': close order #1417497 sell 1.00 GBPUSD at 1.43932 sl: 0.00000 tp: 0.00000 at price 1.43943
+0	23:01:26.143	'16040': order #1417497 sell 1.00 GBPUSD at 1.43932 sl: 0.00000 tp: 0.00000 closed at price 1.43943
+0	23:01:26.144	'16040': close order #1417478 sell 1.00 GBPUSD at 1.43912 sl: 0.00000 tp: 0.00000 at price 1.43942
+0	23:01:26.299	'16040': order #1417478 sell 1.00 GBPUSD at 1.43912 sl: 0.00000 tp: 0.00000 closed at price 1.43942
+2	23:01:26.299	Script 3_Close_All GBPUSD,M5: removed
+0	23:12:42.624	Automated trading disabled
+0	23:18:06.608	'16040': instant order sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000
+0	23:18:06.764	'16040': order was opened : #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000
+1	23:18:53.775	'16040': modification of order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000 -> sl: 1.12668 tp: 0.00000 failed [Invalid S/L or T/P]
+1	23:18:57.806	'16040': modification of order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000 -> sl: 1.12715 tp: 0.00000 failed [Invalid S/L or T/P]
+1	23:19:07.734	'16040': modification of order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000 -> sl: 1.12715 tp: 0.00000 failed [Invalid S/L or T/P]
+1	23:19:12.073	'16040': modification of order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000 -> sl: 1.12776 tp: 0.00000 failed [Invalid S/L or T/P]
+1	23:19:16.380	'16040': modification of order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000 -> sl: 1.12819 tp: 0.00000 failed [Invalid S/L or T/P]
+1	23:19:29.847	'16040': modification of order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000 -> sl: 1.12807 tp: 0.00000 failed [Invalid S/L or T/P]
+0	23:20:18.310	'16040': modify order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.12442
+0	23:20:18.482	'16040': order #1417638 sell 1.00 EURUSD at 1.12592 was modified -> sl: 0.00000 tp: 1.12442
+0	23:20:21.348	'16040': modify order #1417638 sell 1.00 EURUSD at 1.12592 sl: 0.00000 tp: 1.12442 -> sl: 1.12721 tp: 1.12442
+0	23:20:21.536	'16040': order #1417638 sell 1.00 EURUSD at 1.12592 was modified -> sl: 1.12721 tp: 1.12442
+0	23:20:25.463	'16040': modify order #1417638 sell 1.00 EURUSD at 1.12592 sl: 1.12721 tp: 1.12442 -> sl: 1.12710 tp: 1.12442
+0	23:20:25.620	'16040': order #1417638 sell 1.00 EURUSD at 1.12592 was modified -> sl: 1.12710 tp: 1.12442
+0	23:20:26.929	'16040': modify order #1417638 sell 1.00 EURUSD at 1.12592 sl: 1.12710 tp: 1.12442 -> sl: 1.12686 tp: 1.12442
+0	23:20:27.101	'16040': order #1417638 sell 1.00 EURUSD at 1.12592 was modified -> sl: 1.12686 tp: 1.12442
+0	23:20:29.913	'16040': modify order #1417638 sell 1.00 EURUSD at 1.12592 sl: 1.12686 tp: 1.12442 -> sl: 1.12670 tp: 1.12442
+0	23:20:30.101	'16040': order #1417638 sell 1.00 EURUSD at 1.12592 was modified -> sl: 1.12670 tp: 1.12442
+0	23:26:14.274	'16040': instant order sell 1.00 EURUSD at 1.12617 sl: 0.00000 tp: 0.00000
+0	23:26:14.441	'16040': order was opened : #1417671 sell 1.00 EURUSD at 1.12617 sl: 0.00000 tp: 0.00000
+0	23:29:59.617	'16040': order #1417638 sell 1.00 EURUSD at 1.12592 closed due stop-loss at price 1.12670
+0	23:30:43.738	'16040': close order #1417671 sell 1.00 EURUSD at 1.12617 sl: 0.00000 tp: 0.00000 at price 1.12681
+0	23:30:43.904	'16040': order #1417671 sell 1.00 EURUSD at 1.12617 sl: 0.00000 tp: 0.00000 closed at price 1.12681
+0	23:40:10.848	'16040': instant order buy 0.50 EURJPY at 125.892 sl: 0.000 tp: 0.000
+0	23:40:11.015	'16040': order was opened : #1417712 buy 0.50 EURJPY at 125.892 sl: 0.000 tp: 0.000
+0	23:40:21.253	'16040': modify order #1417712 buy 0.50 EURJPY at 125.892 sl: 0.000 tp: 0.000 -> sl: 125.774 tp: 0.000
+0	23:40:21.423	'16040': order #1417712 buy 0.50 EURJPY at 125.892 was modified -> sl: 125.774 tp: 0.000
+0	23:41:44.101	'16040': modify order #1417712 buy 0.50 EURJPY at 125.892 sl: 125.774 tp: 0.000 -> sl: 125.755 tp: 0.000
+0	23:41:44.297	'16040': order #1417712 buy 0.50 EURJPY at 125.892 was modified -> sl: 125.755 tp: 0.000
+0	23:44:54.940	'16040': modify order #1417712 buy 0.50 EURJPY at 125.892 sl: 125.755 tp: 0.000 -> sl: 125.726 tp: 0.000
+0	23:44:55.142	'16040': order #1417712 buy 0.50 EURJPY at 125.892 was modified -> sl: 125.726 tp: 0.000
+0	23:52:46.349	'16040': modify order #1417712 buy 0.50 EURJPY at 125.892 sl: 125.726 tp: 0.000 -> sl: 125.726 tp: 126.015
+0	23:52:46.499	'16040': order #1417712 buy 0.50 EURJPY at 125.892 was modified -> sl: 125.726 tp: 126.015
+0	23:59:34.330	'16040': modify order #1417712 buy 0.50 EURJPY at 125.892 sl: 125.726 tp: 126.015 -> sl: 125.692 tp: 126.015
+0	23:59:34.473	'16040': order #1417712 buy 0.50 EURJPY at 125.892 was modified -> sl: 125.692 tp: 126.015

@@ -1,0 +1,50 @@
+2	00:06:56.938	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	00:06:58.423	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	00:07:00.436	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	00:07:01.952	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	00:07:03.626	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	00:07:05.783	Custom indicator Otyame117_MTF_spanmodel_Bar EURUSD,Daily: removed
+2	00:07:08.315	Custom indicator Max_Sign EURUSD,Daily: removed
+2	00:07:29.034	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURUSD,Daily: loaded successfully
+2	00:07:34.235	Custom indicator Elliott_Wave_Oscillator EURUSD,Daily: loaded successfully
+2	00:07:39.923	Custom indicator EWPro EURUSD,Daily: loaded successfully
+2	00:08:12.835	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:08:15.432	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:08:17.010	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:08:22.111	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:08:24.095	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:08:28.049	Custom indicator Otyame117_MTF_spanmodel_Bar EURJPY,M5: removed
+2	00:08:30.017	Custom indicator Max_Sign EURJPY,M5: removed
+2	00:08:33.612	Custom indicator EWPro EURJPY,M5: loaded successfully
+2	00:08:38.987	Custom indicator Elliott_Wave_Oscillator-Arrows2 EURJPY,M5: loaded successfully
+2	00:09:02.646	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:09:04.111	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:09:09.094	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:09:10.266	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:09:11.798	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:09:13.860	Custom indicator Otyame117_MTF_spanmodel_Bar GBPUSD,M5: removed
+2	00:09:15.797	Custom indicator Max_Sign GBPUSD,M5: removed
+2	00:09:20.579	Custom indicator EWPro GBPUSD,M5: loaded successfully
+2	00:09:23.517	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPUSD,M5: loaded successfully
+2	00:09:27.257	Custom indicator Elliott_Wave_Oscillator GBPUSD,M5: loaded successfully
+2	00:09:42.516	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:09:43.805	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:09:49.797	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:09:53.537	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:09:55.596	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:09:57.955	Custom indicator Otyame117_MTF_spanmodel_Bar GBPJPY,M5: removed
+2	00:10:06.330	Custom indicator EWPro GBPJPY,M5: loaded successfully
+2	00:10:10.471	Custom indicator Elliott_Wave_Oscillator-Arrows2 GBPJPY,M5: loaded successfully
+2	00:10:19.892	Custom indicator Elliott_Wave_Oscillator GBPJPY,M5: loaded successfully
+2	00:10:32.816	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:10:35.112	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:10:37.065	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:10:38.812	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:10:41.065	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:10:43.206	Custom indicator Otyame117_MTF_spanmodel_Bar AUDUSD,M15: removed
+2	00:10:54.402	Custom indicator Max_Sign AUDUSD,M15: removed
+2	00:10:57.688	Custom indicator EWPro AUDUSD,M15: loaded successfully
+2	00:11:03.350	Custom indicator Elliott_Wave_Oscillator-Arrows2 AUDUSD,M15: loaded successfully
+2	00:11:07.529	Custom indicator Elliott_Wave_Oscillator AUDUSD,M15: loaded successfully
+0	01:21:19.675	System to be shutdown, request for close GemFX MT4
+0	01:21:19.847	GemFX MT4 build 950 stopped because system shutdown

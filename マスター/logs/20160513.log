@@ -1,0 +1,86 @@
+0	00:01:06.537	System to be shutdown, request for close GemFX MT4
+0	00:01:06.803	GemFX MT4 build 950 stopped because system shutdown
+0	06:55:54.729	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	06:55:54.729	Windows 10 Home (x64 based PC), IE 14.06, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13616 / 16327 Mb, HDD: 140948 / 228383 Mb, GMT+09:00
+0	06:55:54.729	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+2	06:55:55.307	Custom indicator Otyame005_Super_Bollinger USDJPY,H4: loaded successfully
+2	06:55:55.307	Custom indicator 23Signal_Price-v1 USDJPY,H4: loaded successfully
+2	06:55:55.323	Custom indicator chikou_span_attacker USDJPY,H4: loaded successfully
+2	06:55:55.323	Custom indicator PZ_Harmonic USDJPY,H4: loaded successfully
+2	06:55:55.339	Custom indicator AutoHarmonic_201604 USDJPY,H4: loaded successfully
+2	06:55:55.339	Custom indicator Sessions EX USDJPY,H4: loaded successfully
+2	06:55:55.339	Custom indicator Max_Pivot USDJPY,H4: loaded successfully
+2	06:55:55.339	Custom indicator Max_Line USDJPY,H4: loaded successfully
+2	06:55:55.479	Custom indicator Span_model USDJPY,M5: loaded successfully
+2	06:55:55.479	Custom indicator 23Signal_Price-v1 USDJPY,M5: loaded successfully
+2	06:55:55.479	Custom indicator Max_Pivot USDJPY,M5: loaded successfully
+2	06:55:55.495	Custom indicator Max_Line USDJPY,M5: loaded successfully
+2	06:55:55.604	Custom indicator Otyame005_Super_Bollinger EURUSD,H1: loaded successfully
+2	06:55:55.604	Custom indicator 23Signal_Price-v1 EURUSD,H1: loaded successfully
+2	06:55:55.604	Custom indicator chikou_span_attacker EURUSD,H1: loaded successfully
+2	06:55:55.604	Custom indicator PZ_Harmonic EURUSD,H1: loaded successfully
+2	06:55:55.620	Custom indicator AutoHarmonic_201604 EURUSD,H1: loaded successfully
+2	06:55:55.620	Custom indicator Sessions EX EURUSD,H1: loaded successfully
+2	06:55:55.620	Custom indicator Max_Pivot EURUSD,H1: loaded successfully
+2	06:55:55.620	Custom indicator Max_Line EURUSD,H1: loaded successfully
+2	06:55:55.761	Custom indicator Span_model EURUSD,M5: loaded successfully
+2	06:55:55.761	Custom indicator 23Signal_Price-v1 EURUSD,M5: loaded successfully
+2	06:55:55.761	Custom indicator Max_Pivot EURUSD,M5: loaded successfully
+2	06:55:55.761	Custom indicator Max_Line EURUSD,M5: loaded successfully
+2	06:55:55.870	Custom indicator Otyame005_Super_Bollinger EURJPY,H1: loaded successfully
+2	06:55:55.870	Custom indicator 23Signal_Price-v1 EURJPY,H1: loaded successfully
+2	06:55:55.870	Custom indicator chikou_span_attacker EURJPY,H1: loaded successfully
+2	06:55:55.886	Custom indicator PZ_Harmonic EURJPY,H1: loaded successfully
+2	06:55:55.886	Custom indicator Sessions EX EURJPY,H1: loaded successfully
+2	06:55:55.886	Custom indicator Max_Pivot EURJPY,H1: loaded successfully
+2	06:55:55.886	Custom indicator Max_Line EURJPY,H1: loaded successfully
+2	06:55:56.089	Custom indicator Span_model EURJPY,Weekly: loaded successfully
+2	06:55:56.089	Custom indicator 23Signal_Price-v1 EURJPY,Weekly: loaded successfully
+2	06:55:56.089	Custom indicator Max_Pivot EURJPY,Weekly: loaded successfully
+2	06:55:56.089	Custom indicator Max_Line EURJPY,Weekly: loaded successfully
+2	06:55:56.167	Custom indicator Otyame005_Super_Bollinger GBPUSD,H1: loaded successfully
+2	06:55:56.167	Custom indicator 23Signal_Price-v1 GBPUSD,H1: loaded successfully
+2	06:55:56.167	Custom indicator chikou_span_attacker GBPUSD,H1: loaded successfully
+2	06:55:56.183	Custom indicator PZ_Harmonic GBPUSD,H1: loaded successfully
+2	06:55:56.183	Custom indicator AutoHarmonic_201604 GBPUSD,H1: loaded successfully
+2	06:55:56.198	Custom indicator Sessions EX GBPUSD,H1: loaded successfully
+2	06:55:56.198	Custom indicator Max_Pivot GBPUSD,H1: loaded successfully
+2	06:55:56.198	Custom indicator Max_Line GBPUSD,H1: loaded successfully
+2	06:55:56.370	Custom indicator Span_model GBPUSD,M5: loaded successfully
+2	06:55:56.370	Custom indicator 23Signal_Price-v1 GBPUSD,M5: loaded successfully
+2	06:55:56.370	Custom indicator Max_Pivot GBPUSD,M5: loaded successfully
+2	06:55:56.370	Custom indicator Max_Line GBPUSD,M5: loaded successfully
+2	06:55:56.573	Custom indicator Otyame005_Super_Bollinger GBPJPY,H1: loaded successfully
+2	06:55:56.573	Custom indicator 23Signal_Price-v1 GBPJPY,H1: loaded successfully
+2	06:55:56.589	Custom indicator chikou_span_attacker GBPJPY,H1: loaded successfully
+2	06:55:56.589	Custom indicator PZ_Harmonic GBPJPY,H1: loaded successfully
+2	06:55:56.589	Custom indicator Sessions EX GBPJPY,H1: loaded successfully
+2	06:55:56.589	Custom indicator Max_Pivot GBPJPY,H1: loaded successfully
+2	06:55:56.604	Custom indicator Max_Line GBPJPY,H1: loaded successfully
+2	06:55:56.761	Custom indicator Span_model GBPJPY,M5: loaded successfully
+2	06:55:56.776	Custom indicator 23Signal_Price-v1 GBPJPY,M5: loaded successfully
+2	06:55:56.776	Custom indicator Max_Pivot GBPJPY,M5: loaded successfully
+2	06:55:56.776	Custom indicator Max_Line GBPJPY,M5: loaded successfully
+2	06:55:56.917	Custom indicator Otyame005_Super_Bollinger AUDUSD,H1: loaded successfully
+2	06:55:56.917	Custom indicator 23Signal_Price-v1 AUDUSD,H1: loaded successfully
+2	06:55:56.917	Custom indicator chikou_span_attacker AUDUSD,H1: loaded successfully
+2	06:55:56.917	Custom indicator PZ_Harmonic AUDUSD,H1: loaded successfully
+2	06:55:56.933	Custom indicator Sessions EX AUDUSD,H1: loaded successfully
+2	06:55:56.933	Custom indicator Max_Pivot AUDUSD,H1: loaded successfully
+2	06:55:56.933	Custom indicator Max_Line AUDUSD,H1: loaded successfully
+2	06:55:57.058	Custom indicator Span_model AUDUSD,M5: loaded successfully
+2	06:55:57.058	Custom indicator 23Signal_Price-v1 AUDUSD,M5: loaded successfully
+2	06:55:57.073	Custom indicator Max_Pivot AUDUSD,M5: loaded successfully
+2	06:55:57.073	Custom indicator Max_Line AUDUSD,M5: loaded successfully
+2	06:55:57.198	Custom indicator Economic_indicator USDCHF,H1: loaded successfully
+0	06:55:59.016	'16040': login on GemForex-Live through DC1 (ping: 77.04 ms)
+0	06:55:59.937	'16040': login datacenter on GemForex-Live through DC1 (ping: 77.04 ms)
+0	06:56:00.147	'16040': previous successful authorization performed from 119.242.37.68
+0	06:56:29.289	'16040': ping to current access point DC1 is 79.68 ms
+2	07:10:40.047	Custom indicator Span_model USDCHF,H1: loaded successfully
+2	07:10:40.063	Custom indicator 23Signal_Price-v1 USDCHF,H1: loaded successfully
+2	07:10:40.063	Custom indicator Max_Pivot USDCHF,H1: loaded successfully
+2	07:10:40.063	Custom indicator Max_Line USDCHF,H1: loaded successfully
+2	07:10:56.408	Custom indicator Span_model USDCHF,H1: removed
+0	07:13:39.236	System to be shutdown, request for close GemFX MT4
+0	07:13:39.501	GemFX MT4 build 950 stopped because system shutdown

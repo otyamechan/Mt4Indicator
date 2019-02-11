@@ -1,0 +1,388 @@
+0	16:03:51.473	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\config\terminal.ini' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\config\terminal.ini'
+0	16:03:51.473	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\config\GemForex-Demo.srv' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\config\GemForex-Demo.srv'
+0	16:03:51.473	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\config\GemForex-Live.srv' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\config\GemForex-Live.srv'
+0	16:03:51.473	Migration: config folder copied from 'C:\Program Files (x86)\GemFX MT4' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548'
+0	16:03:51.473	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\EURUSD240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\EURUSD240.hst'
+0	16:03:51.473	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\GBPUSD240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\GBPUSD240.hst'
+0	16:03:51.473	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\USDCHF240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\USDCHF240.hst'
+0	16:03:51.473	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\USDJPY240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\USDJPY240.hst'
+0	16:03:51.489	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\symbols.sel' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\symbols.sel'
+0	16:03:51.489	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\symbols.raw' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\symbols.raw'
+0	16:03:51.489	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\symgroups.raw' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\symgroups.raw'
+0	16:03:51.504	Migration: history folder copied from 'C' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548'
+0	16:03:51.504	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\EURUSD240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\EURUSD240.hst'
+0	16:03:51.504	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\GBPUSD240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\GBPUSD240.hst'
+0	16:03:51.504	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\symbols.raw' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\symbols.raw'
+0	16:03:51.504	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\symbols.sel' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\symbols.sel'
+0	16:03:51.504	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\symgroups.raw' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\symgroups.raw'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\USDCHF240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\USDCHF240.hst'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\default\USDJPY240.hst' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\default\USDJPY240.hst'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\symbolsets\forex.set' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\symbolsets\forex.set'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\symbolsets\forexall.set' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\symbolsets\forexall.set'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041600.arabic' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041600.arabic'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041601.bulgarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041601.bulgarian'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041602.chinese (simplified)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041602.chinese (simplified)'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041603.chinese (traditional)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041603.chinese (traditional)'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041604.czech' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041604.czech'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041605.english' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041605.english'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041606.french' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041606.french'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041607.german' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041607.german'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041608.greek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041608.greek'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041609.hebrew' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041609.hebrew'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041610.hungarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041610.hungarian'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041611.indonesian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041611.indonesian'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041612.italian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041612.italian'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041613.japanese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041613.japanese'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041614.malay' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041614.malay'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041615.polish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041615.polish'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041616.portuguese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041616.portuguese'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041617.russian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041617.russian'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041618.slovenian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041618.slovenian'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041619.spanish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041619.spanish'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041620.tajik' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041620.tajik'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041621.thai' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041621.thai'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041622.turkish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041622.turkish'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041623.uzbek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041623.uzbek'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041624.vietnamese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041624.vietnamese'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041625.arabic' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041625.arabic'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041626.bulgarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041626.bulgarian'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041627.chinese (simplified)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041627.chinese (simplified)'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041628.chinese (traditional)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041628.chinese (traditional)'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041629.czech' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041629.czech'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041630.english' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041630.english'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041631.french' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041631.french'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041632.german' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041632.german'
+0	16:03:51.520	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041633.greek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041633.greek'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041634.hebrew' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041634.hebrew'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041635.hungarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041635.hungarian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041636.indonesian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041636.indonesian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041637.italian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041637.italian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041638.japanese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041638.japanese'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041639.malay' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041639.malay'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041640.polish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041640.polish'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041641.portuguese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041641.portuguese'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041642.russian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041642.russian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041643.slovenian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041643.slovenian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041644.spanish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041644.spanish'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041645.tajik' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041645.tajik'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041646.thai' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041646.thai'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041647.turkish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041647.turkish'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041648.uzbek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041648.uzbek'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041649.vietnamese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041649.vietnamese'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041650.arabic' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041650.arabic'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041651.bulgarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041651.bulgarian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041652.chinese (simplified)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041652.chinese (simplified)'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041653.chinese (traditional)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041653.chinese (traditional)'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041654.czech' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041654.czech'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041655.english' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041655.english'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041656.french' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041656.french'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041657.german' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041657.german'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041658.greek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041658.greek'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041659.hebrew' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041659.hebrew'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041660.hungarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041660.hungarian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041661.indonesian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041661.indonesian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041662.italian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041662.italian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041663.japanese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041663.japanese'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041664.malay' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041664.malay'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041665.polish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041665.polish'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041666.portuguese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041666.portuguese'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041667.russian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041667.russian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041668.slovenian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041668.slovenian'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041669.spanish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041669.spanish'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041670.tajik' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041670.tajik'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041671.thai' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041671.thai'
+0	16:03:51.535	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041672.turkish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041672.turkish'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041673.uzbek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041673.uzbek'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041674.vietnamese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041674.vietnamese'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041675.arabic' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041675.arabic'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041676.bulgarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041676.bulgarian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041677.chinese (simplified)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041677.chinese (simplified)'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041678.chinese_traditional' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041678.chinese_traditional'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041679.czech' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041679.czech'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041680.english' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041680.english'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041681.french' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041681.french'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041682.german' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041682.german'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041683.greek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041683.greek'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041684.hebrew' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041684.hebrew'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041685.hungarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041685.hungarian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041686.indonesian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041686.indonesian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041687.italian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041687.italian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041688.japanese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041688.japanese'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041689.malay' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041689.malay'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041690.polish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041690.polish'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041691.portuguese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041691.portuguese'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041692.russian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041692.russian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041693.slovenian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041693.slovenian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041694.spanish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041694.spanish'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041695.tajik' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041695.tajik'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041696.thai' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041696.thai'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041697.turkish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041697.turkish'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041698.uzbek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041698.uzbek'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041699.vietnamese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041699.vietnamese'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041700.arabic' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041700.arabic'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041701.bulgarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041701.bulgarian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041702.chinese (simplified)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041702.chinese (simplified)'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041703.chinese (traditional)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041703.chinese (traditional)'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041704.czech' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041704.czech'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041705.english' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041705.english'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041706.french' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041706.french'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041707.german' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041707.german'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041708.greek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041708.greek'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041709.hebrew' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041709.hebrew'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041710.hungarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041710.hungarian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041711.indonesian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041711.indonesian'
+0	16:03:51.551	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041712.italian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041712.italian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041713.japanese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041713.japanese'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041714.malay' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041714.malay'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041715.polish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041715.polish'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041716.portuguese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041716.portuguese'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041717.russian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041717.russian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041718.slovenian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041718.slovenian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041719.spanish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041719.spanish'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041720.tajik' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041720.tajik'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041721.thai' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041721.thai'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041722.turkish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041722.turkish'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041723.uzbek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041723.uzbek'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041724.vietnamese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041724.vietnamese'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041725.arabic' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041725.arabic'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041726.bulgarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041726.bulgarian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041727.chinese (simplified)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041727.chinese (simplified)'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041728.chinese (traditional)' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041728.chinese (traditional)'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041729.czech' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041729.czech'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041730.english' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041730.english'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041731.french' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041731.french'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041732.german' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041732.german'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041733.greek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041733.greek'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041734.hebrew' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041734.hebrew'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041735.hungarian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041735.hungarian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041736.indonesian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041736.indonesian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041737.italian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041737.italian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041738.japanese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041738.japanese'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041739.malay' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041739.malay'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041740.polish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041740.polish'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041741.portuguese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041741.portuguese'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041742.russian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041742.russian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041743.slovenian' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041743.slovenian'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041744.spanish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041744.spanish'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041745.tajik' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041745.tajik'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041746.thai' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041746.thai'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041747.turkish' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041747.turkish'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041748.uzbek' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041748.uzbek'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\history\mailbox\1357041749.vietnamese' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\history\mailbox\1357041749.vietnamese'
+0	16:03:51.567	Migration: mailbox folder copied from 'C:\Program Files (x86)\GemFX MT4' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548'
+0	16:03:51.567	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\British Pound\chart01.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\British Pound\chart01.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\British Pound\chart02.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\British Pound\chart02.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\British Pound\chart03.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\British Pound\chart03.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\British Pound\order.wnd' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\British Pound\order.wnd'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\default\chart01.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\default\chart01.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\default\chart02.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\default\chart02.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\default\chart03.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\default\chart03.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\default\chart04.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\default\chart04.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\default\order.wnd' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\default\order.wnd'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Euro\chart01.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Euro\chart01.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Euro\chart02.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Euro\chart02.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Euro\chart03.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Euro\chart03.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Euro\order.wnd' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Euro\order.wnd'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\lastprofile.ini' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\lastprofile.ini'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Market Overview\chart01.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Market Overview\chart01.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Market Overview\chart02.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Market Overview\chart02.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Market Overview\chart03.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Market Overview\chart03.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Market Overview\chart04.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Market Overview\chart04.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Market Overview\order.wnd' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Market Overview\order.wnd'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Swiss Franc\chart01.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Swiss Franc\chart01.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Swiss Franc\chart02.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Swiss Franc\chart02.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Swiss Franc\chart03.CHR' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Swiss Franc\chart03.CHR'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\profiles\Swiss Franc\order.wnd' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\profiles\Swiss Franc\order.wnd'
+0	16:03:51.582	Migration: profiles folder copied from 'C:\Program Files (x86)\GemFX MT4' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\ADX.tpl' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\ADX.tpl'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\BollingerBands.tpl' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\BollingerBands.tpl'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\Layers.tpl' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\Layers.tpl'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\Momentum.tpl' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\Momentum.tpl'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\OptimizationReport.htm' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\OptimizationReport.htm'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\Popular.tpl' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\Popular.tpl'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\statement.htm' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\statement.htm'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\StatementDetailed.htm' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\StatementDetailed.htm'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\strategytester.htm' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\strategytester.htm'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\Volume.tpl' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\Volume.tpl'
+0	16:03:51.582	Migration: copied from 'C:\Program Files (x86)\GemFX MT4\templates\Williams.tpl' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\templates\Williams.tpl'
+0	16:03:51.582	Migration: templates folder copied from 'C:\Program Files (x86)\GemFX MT4' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548'
+0	16:03:51.598	Migration: data to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548' migration started
+0	16:03:51.598	Migration: experts migration from 'C:\Program Files (x86)\GemFX MT4' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548' started
+0	16:03:51.598	Migration: experts folder updated from 'C:\Program Files (x86)\GemFX MT4\experts' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Experts'
+0	16:03:51.598	Migration: include folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\include' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Include'
+0	16:03:51.598	Migration: indicators folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\indicators' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Indicators'
+0	16:03:51.598	Migration: scripts folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\scripts' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Scripts'
+0	16:03:51.598	Migration: expert logs folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\logs' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Logs'
+0	16:03:51.598	Migration: expert files folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\files' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Files'
+0	16:03:51.598	Migration: libraries folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\libraries' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Libraries'
+0	16:03:51.598	Migration: expert presets folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\presets' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Presets'
+0	16:03:51.598	Migration: expert images folder updated from 'C:\Program Files (x86)\GemFX MT4\experts\images' to 'C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4\Images'
+0	16:03:51.598	Migration: experts migration finished
+0	16:03:51.598	Migration: data migration finished, no virtual folder
+0	16:03:51.598	LiveUpdate: update C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4 folder started
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Experts/MACD Sample.mq4 updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Experts/Moving Average.mq4 updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/Array.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/ArrayString.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/List.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/Tree.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Arrays/TreeNode.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Canvas/Canvas.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	16:03:51.598	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Charts/Chart.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/BmpButton.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Button.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/CheckBox.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/CheckGroup.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/ComboBox.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/DateDropList.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/DatePicker.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Defines.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Dialog.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Edit.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Label.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/ListView.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Panel.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Picture.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/RadioButton.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/RadioGroup.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Rect.mqh updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Close.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Down.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DropOff.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/DropOn.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Left.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	16:03:51.614	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Restore.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Right.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Turn.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/Up.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Scrolls.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/SpinEdit.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/TimePicker.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/Wnd.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/WndClient.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/WndContainer.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Controls/WndObj.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/File.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/FileBin.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/FilePipe.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Files/FileTxt.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Custom.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Indicator.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Indicators.mqh updated
+0	16:03:51.629	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Oscilators.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Series.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Trend.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Indicators/Volumes.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/MovingAverages.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Object.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/stderror.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/stdlib.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/StdLibErr.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Strings/String.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/Tools/DateTime.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Include/WinUser32.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Accelerator.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Accumulation.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Alligator.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/ATR.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Awesome.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Bands.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Bears.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Bulls.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/CCI.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Ichimoku.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/iExposure.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/MACD.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Momentum.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/OsMA.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Parabolic.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/RSI.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/Stochastic.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Indicators/ZigZag.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Libraries/stdlib.mq4 updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	16:03:51.645	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	16:03:51.660	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	16:03:51.660	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	16:03:51.660	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	16:03:51.660	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	16:03:51.660	LiveUpdate: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4/Scripts/PeriodConverter.mq4 updated
+0	16:03:51.660	LiveUpdate: update C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548\MQL4 folder finished
+0	16:03:51.676	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	16:03:51.676	Windows 10 Home (x64 based PC), IE 12.03, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 12924 / 16327 Mb, HDD: 144673 / 228383 Mb, GMT+09:00
+0	16:03:51.676	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+0	16:03:51.707	Sources recompilation started
+0	16:03:59.723	Sources recompilation finished (28 compiled in 8015 msec)
+1	16:09:35.334	'16040': connect failed [ñ≥å¯Ç»å˚ç¿]
+0	16:11:08.337	'16040': login on GemForex-Live
+0	16:11:09.183	'16040': previous successful authorization performed from 60.238.148.139
+0	16:11:18.803	'16040': ping to current access point DC1 is 74.37 ms
+0	16:11:18.975	GemFX MT4 build 950 stopped
+0	16:31:25.005	GemFX MT4 build 950 started (GemTrade Co., Ltd.)
+0	16:31:25.005	Windows 10 Home (x64 based PC), IE 12.03, UAC, 8 x Intel Core i7-3770  @ 3.40GHz, RAM: 13680 / 16327 Mb, HDD: 144486 / 228383 Mb, GMT+09:00
+0	16:31:25.005	Data Folder: C:\Users\koichi\AppData\Roaming\MetaQuotes\Terminal\250ECE632D67BAE8424D7871E3ED5548
+0	16:31:26.521	'16040': login on GemForex-Live through DC1 (ping: 74.37 ms)
+0	16:31:27.380	'16040': login datacenter on GemForex-Live through DC1 (ping: 74.37 ms)
+0	16:31:27.575	'16040': previous successful authorization performed from 119.242.14.176
+0	19:36:45.649	GemFX MT4 build 950 stopped

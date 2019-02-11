@@ -1,0 +1,10 @@
+0	00:02:47.284	'16040': order #2918229 sell 0.10 GBPJPY at 139.188 closed due stop-loss at price 139.488
+0	00:04:50.460	'16040': order #2918325 sell 0.10 GBPJPY at 139.358 closed due stop-loss at price 139.338
+0	00:06:06.666	'16040': order #2918411 sell 0.10 GBPJPY at 139.203 closed due stop-loss at price 139.503
+0	00:06:41.261	'16040': order #2918460 sell 0.10 GBPJPY at 139.055 closed due stop-loss at price 139.355
+0	00:08:18.686	'16040': order #2918506 sell 0.10 GBPJPY at 139.256 closed due stop-loss at price 139.556
+0	00:11:47.939	'16040': order #2918791 sell 0.10 GBPJPY at 139.414 closed due stop-loss at price 139.714
+0	00:27:05.425	'16040': order #2919169 sell 0.10 GBPJPY at 139.222 closed due stop-loss at price 139.522
+0	00:28:46.022	'16040': order #2919399 sell 0.10 GBPJPY at 139.256 closed due stop-loss at price 139.556
+0	00:31:22.465	System to be shutdown, request for close GemFX MT4
+0	00:31:22.715	GemFX MT4 build 971 stopped because system shutdown
