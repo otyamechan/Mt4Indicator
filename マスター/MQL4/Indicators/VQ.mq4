@@ -7,7 +7,7 @@
 #property  indicator_separate_window
 #property  indicator_buffers 5
 #property  indicator_color1  Yellow
-#property  indicator_color2  Green
+#property  indicator_color2  Lime
 #property  indicator_color3  Red
 #property  indicator_color4  Yellow
 #property  indicator_color5  Cyan
@@ -20,8 +20,8 @@ extern   bool     Crash = false;
 extern   int      TimeFrame = 0;
 extern   int      Length = 5;
 extern   int      Method = 3;
-extern   int      Smoothing = 1;
-extern   int      Filter = 5;
+extern   int      Smoothing = 2;
+extern   int      Filter = 1;
 
 extern   bool     RealTime = true;
 extern   bool     Steady  = false;
@@ -29,8 +29,8 @@ extern   bool     Color = true;
 extern   bool     Alerts = true;
 extern   bool     EmailON = false;
 extern   bool     SignalPrice = true;
-extern   color    SignalPriceBUY = Yellow;
-extern   color    SignalPriceSELL = Aqua;
+extern   color    SignalPriceBUY = Lime;
+extern   color    SignalPriceSELL = Red;
 extern   int      CountBars = 1485;
 
 
@@ -135,13 +135,12 @@ while (i >= 0)
    i--;
    }
 
-   int y;
    if (TimeFrame>Period())
    {
      datetime TimeArray1[]; 
      ArrayCopySeries(TimeArray1,MODE_TIME,Symbol(),TimeFrame); 
      int limit=CountBars+TimeFrame/Period();
-     for(i=0,y=0;i<limit;i++) {if (Time[i]<TimeArray1[y]) y++;  SumVQ[i]=SumVQ_MTF[y];}
+     for(i=0, int y=0;i<limit;i++) {if (Time[i]<TimeArray1[y]) y++;  SumVQ[i]=SumVQ_MTF[y];}
    }
 
 
